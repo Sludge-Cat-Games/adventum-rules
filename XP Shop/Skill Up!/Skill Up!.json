@@ -1,0 +1,27 @@
+[
+    {
+        "cost" : 10,
+        "increase" : "NORMAL → EASY",
+        "modifier" : 2
+    },
+    {
+        "cost" : 20,
+        "increase" : "EASY → SIMPLE",
+        "modifier" : 4
+    },
+    {
+        "cost" : 30,
+        "increase" : "SIMPLE → BASIC",
+        "modifier" : 6
+    },
+    {
+        "cost" : 40,
+        "increase" : "BASIC → TRIVIAL",
+        "modifier" : 8
+    },
+    {
+        "cost" : 50,
+        "increase" : "TRIVIAL → GUARANTEED",
+        "modifier" : 10
+    }
+]
