@@ -1,0 +1,1 @@
+This is where the canon ruleset for Adventum is stored. Any and all portals, frontends, servers, or derivatives should pull from and access this repository for these rules. Any updates to the rules should be made here.
