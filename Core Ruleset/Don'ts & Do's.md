@@ -1,6 +1,5 @@
-# Session  
-0 Part 1:  
-Don’ts & Do’s
+# Session 0
+## Part 1:  Don’ts & Do’s
 
 Before every campaign of Adventum, you will require a world for your adventures to take place in. And that can be done in your first session or session 0. While the full alpha ruleset will take a while to come out, hopefully, you can find some enjoyment in generating some interesting worlds for fun! Looking over the rules, you’ll see here that a LOT of initial world creation has less to do with the actual gritty details of the fiction and more about an agreement between the players. At the end of the day we’re all just playing pretend and any creative decisions made during play aren’t done by dice, but by people. And remember, we’re all just here to have fun!
 
@@ -13,13 +12,10 @@ Before anything else, it is important to lay down a common understanding for wha
 The Don’ts should be fairly straightforward. However, given the negative nature of pointing out things we don’t want, the AL should make sure to remind everyone at the table of a few key things.
 
 - Everyone at the table respects each other and wants everyone else to have a good time.
-    
 - Making the game better for someone else should not ruin the game for you.
-    
 - At the end of the day, everyone is here to have fun.
-    
 
-The AL will begin by stating one thing they don’t want to see in the adventure. Starting with the highest roller, the AL will then ask each player “What is one thing you don’t want to see in the adventure?”. This likely will be the most uncomfortable part of session 0 (or the entire game). As long as everyone remains respectful, that is completely fine.
+The AL will begin by stating one thing they don’t want to see in the adventure. Starting with the highest roller, the AL will then ask each player “What is one thing you don’t want to see in the adventure?”. This likely will be the most uncomfortable part of session 0 (or, ideally, the entire game). As long as everyone remains respectful, that is completely fine.
 
 This part of the game will probably be where triggering subjects and material can be brought up. Some things brought up might be directly related to the lives and identities of the players bringing them up.
 
