@@ -1,4 +1,4 @@
-## Introduction
+# Introduction
 
 Don't worry about levels and classes. Play in the setting of your group's dreams and let your imagination run wild.
 
@@ -12,13 +12,13 @@ _Adventum is still under active development and the rules are not yet complete. 
 
 ---
 
-## Summary
+### Summary
 
 Adventum is a Table Top Role Playing Game (TTRPG) that uses a d20 to determine the outcomes of challenges in a 3 tiered system. You can succeed, run into a snag, or fail your way into mesmerising stories & wacky situations! Create a world and campaign together and discover adventure together!
  
 ---
 
-## Why?
+### Why?
 
 Do you want to make an elemental that can smell evil? A wizard that uses their spellbook as a melee weapon? A monk that’s also a Michelin start chef? You can do all that and more with the classless skill based character progression in Adventum!
 
