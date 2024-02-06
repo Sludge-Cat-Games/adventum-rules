@@ -1,6 +1,4 @@
-# Session  
-0 Part 1:  
-Don’ts & Do’s
+# Session 0 Part 1:  Don’ts & Do’s
 
 Before every campaign of Adventum, you will require a world for your adventures to take place in. And that can be done in your first session or session 0. While the full alpha ruleset will take a while to come out, hopefully, you can find some enjoyment in generating some interesting worlds for fun! Looking over the rules, you’ll see here that a LOT of initial world creation has less to do with the actual gritty details of the fiction and more about an agreement between the players. At the end of the day we’re all just playing pretend and any creative decisions made during play aren’t done by dice, but by people. And remember, we’re all just here to have fun!
 
@@ -13,13 +11,10 @@ Before anything else, it is important to lay down a common understanding for wha
 The Don’ts should be fairly straightforward. However, given the negative nature of pointing out things we don’t want, the AL should make sure to remind everyone at the table of a few key things.
 
 - Everyone at the table respects each other and wants everyone else to have a good time.
-    
 - Making the game better for someone else should not ruin the game for you.
-    
 - At the end of the day, everyone is here to have fun.
-    
 
-The AL will begin by stating one thing they don’t want to see in the adventure. Starting with the highest roller, the AL will then ask each player “What is one thing you don’t want to see in the adventure?”. This likely will be the most uncomfortable part of session 0 (or the entire game). As long as everyone remains respectful, that is completely fine.
+The AL will begin by stating one thing they don’t want to see in the adventure. Starting with the highest roller, the AL will then ask each player “What is one thing you don’t want to see in the adventure?”. This likely will be the most uncomfortable part of session 0 (or, ideally, the entire game). As long as everyone remains respectful, that is completely fine.
 
 This part of the game will probably be where triggering subjects and material can be brought up. Some things brought up might be directly related to the lives and identities of the players bringing them up.
 
@@ -39,7 +34,7 @@ At this point, the AL should check in with everyone and make sure that everyone 
 
 During this check in, more Do’s can definitely be added to the list if they couldn’t be mentioned before. It’s important that everyone at the table has a chance to be heard. Once everyone is aware and satisfied with the Do’s list, it is now time for...
 
-### When Don’ts and Do's Clash
+## When Don’ts and Do's Clash
 
 Now, after going through both sections, you might find that a Don’t might intersect with a Do. Here are some things to remember when resolving these intersections.
 
@@ -53,7 +48,7 @@ In general, Don’ts will be asking for the omission of specific kinds of subjec
 
 If a Do and Don’t seem to come into conflict, see if the Do is flexible enough to accommodate the Don’t before discarding it.
 
-## Keep the dialogue open
+### Keep the dialogue open
 
 As said before, there shouldn’t be a requirement for someone to explain or justify their Don’t beyond the fact that it wouldn’t be fun for them. This shouldn’t be an obstacle to discussion though. If the interests of two players seem to clash, the problem shouldn’t pit them against each other. Every person at the table is on one side, and the problem is on the other. Tackle it together.
 
