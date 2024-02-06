@@ -1,4 +1,4 @@
-<h1 style="text-align: center">Introduction</h1>
+# Introduction
 
 Don't worry about levels and classes. Play in the setting of your group's dreams and let your imagination run wild.
 
@@ -21,4 +21,4 @@ Along with rules for creating and playing in a world you all make together, crea
 
 ---
 
-<h3 style="text-align: center"> Adventure (and Adventum) awaits! </h3>
+### Adventure (and Adventum) awaits!
