@@ -1,4 +1,4 @@
-# Session 0 Part 1:  Don’ts & Do’s
+<h1 style="text-align: center"> Session 0 Part 1:  Don’ts & Do’s </h1>
 
 Before every campaign of Adventum, you will require a world for your adventures to take place in. And that can be done in your first session or session 0. While the full alpha ruleset will take a while to come out, hopefully, you can find some enjoyment in generating some interesting worlds for fun! Looking over the rules, you’ll see here that a LOT of initial world creation has less to do with the actual gritty details of the fiction and more about an agreement between the players. At the end of the day we’re all just playing pretend and any creative decisions made during play aren’t done by dice, but by people. And remember, we’re all just here to have fun!
 

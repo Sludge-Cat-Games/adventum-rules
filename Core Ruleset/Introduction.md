@@ -1,4 +1,4 @@
-# Introduction
+<h1 style="text-align: center">Introduction</h1>
 
 Don't worry about levels and classes. Play in the setting of your group's dreams and let your imagination run wild.
 
@@ -8,13 +8,10 @@ Don't worry about levels and classes. Play in the setting of your group's dreams
 
 _Adventum is still under active development and the rules are not yet complete. Everything here is provided as is and will be (and this is an official term) very “jank”. However, I hope you can have fun even while I get this together._
 
----
 
 ## Summary
 
-Adventum is a Table Top Role Playing Game (TTRPG) that uses a d20 to determine the outcomes of challenges in a 3 tiered system. You can succeed, run into a snag, or fail your way into mesmerising stories & wacky situations! Create a world and campaign together and discover adventure together!
- 
----
+Adventum is a collaborative Table Top Role Playing Game (TTRPG) that uses a d20 to determine the outcomes of challenges in a 3 tiered success-system. You can play a premade campaign (or create a setting together) You can succeed, run into a snag, or fail your way into mesmerising stories & wacky situations! Create a world and campaign together and discover adventure together!
 
 ## Why?
 
@@ -24,4 +21,4 @@ Along with rules for creating and playing in a world you all make together, crea
 
 ---
 
-### Adventure (and Adventum) awaits!
+<h3 style="text-align: center"> Adventure (and Adventum) awaits! </h3>
