@@ -1,25 +1,30 @@
 [
     {
+        "type": "Skill Up!",
         "cost" : 10,
         "increase" : "NORMAL → EASY",
         "modifier" : 2
     },
     {
+        "type": "Skill Up!",
         "cost" : 20,
         "increase" : "EASY → SIMPLE",
         "modifier" : 4
     },
     {
+        "type": "Skill Up!",
         "cost" : 30,
         "increase" : "SIMPLE → BASIC",
         "modifier" : 6
     },
     {
+        "type": "Skill Up!",
         "cost" : 40,
         "increase" : "BASIC → TRIVIAL",
         "modifier" : 8
     },
     {
+        "type": "Skill Up!",
         "cost" : 50,
         "increase" : "TRIVIAL → GUARANTEED",
         "modifier" : 10

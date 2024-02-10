@@ -1,5 +1,7 @@
 [
     {
+        "type" : "skill",
+        "cost" : 10,
         "name" : "Acrobatic",
         "tags" : ["Dextrous"],
         "description" : ["You have LEVERAGE on acrobatic rolls."],
@@ -12,6 +14,8 @@
         "fail": ["1! You fail to make it up, down, or wherever you wanted to go, and you fall badly. Take 1d8 damage."]
     },
     {
+        "type" : "skill",
+        "cost" : 10,
         "name" : "Armor Up!",
         "tags" : ["Dextrous", "Martial"],
         "description" : ["Wearing armor no longer makes you LOSE LEVERAGE."],
@@ -20,6 +24,8 @@
         "fail": []
     },
     {
+        "type" : "skill",
+        "cost" : 10,
         "name" : "Blood Bullet",
         "tags" : ["Irreverent", "Magical"],
         "description" : ["Using your health pool, you can turn your blood into a projectile."],
@@ -32,6 +38,8 @@
         ]
     },
     {
+        "type" : "skill",
+        "cost" : 10,
         "name" : "Chef",
         "tags" : ["Clever"],
         "description" : [
@@ -47,6 +55,8 @@
         "fail": ["You use up your ingredients to make something putrid. If anyone eats this, they take 1d4 damage."]
     },
     {
+        "type" : "skill",
+        "cost" : 10,
         "name" : "Clairvoyant Nose",
         "tags" : ["Holy", "Irreverent", "Magical"],
         "description" : [
@@ -64,6 +74,8 @@
         "fail": []
     },
     {
+        "type" : "skill",
+        "cost" : 10,
         "name" : "Give Me a Sign",
         "tags" : ["Holy"],
         "description" : ["Once a day, you can petition your benevolent spirit, god, or gods to guide you on the right path. They may steer you into or away from danger as is appropriate for their care or plans for you. However, the direction they point you to can only be communicated in coincidences, tricks of lights, or other common physical phenomena."],
@@ -72,6 +84,8 @@
         "fail": []
     },
     {
+        "type" : "skill",
+        "cost" : 10,
         "name" : "I Have a Guy...",
         "tags" : ["Clever", "Irreverent"],
         "description" : ["When you put out word to a community you are a part of about something you want or need, you can roll to potentially find someone who has it."],
@@ -84,6 +98,8 @@
         "fail": ["There's no one you know in your network that can help you."]
     },
     {
+        "type" : "skill",
+        "cost" : 10,
         "name" : "Ki Training",
         "tags" : ["Martial", "Magical"],
         "description" : ["Through rigorous training, you have become able to draw in magical energy in your body as Ki. You can have a maximum of 4 Ki. Ki points can be spent to add damage equal to the ki points spent to an attack."],
@@ -92,6 +108,8 @@
         "fail": ["You fail to consider the strain ki can have on your body. Absorb no ki and take 1d4 damage."]
     },
     {
+        "type" : "skill",
+        "cost" : 10,
         "name" : "Minor Healing",
         "tags" : ["Holy", "Magical"],
         "description" : [],
@@ -100,6 +118,8 @@
         "fail": ["Instead of healing you find a minor complication. You avail your patient of the minor malady (itchy throat, achy joints, minor wrist soreness or any other mild annoyance), but don't offer any healing."]
     },
     {
+        "type" : "skill",
+        "cost" : 10,
         "name" : "Of the Same Cloth",
         "tags" : ["Holy", "Magical"],
         "description" : ["You can use your HOLY ATTRIBUTE in social situations with people who have the same god/faith/or philosophy as you."],
@@ -108,6 +128,8 @@
         "fail": []
     },
     {
+        "type" : "skill",
+        "cost" : 10,
         "name" : "Researcher",
         "tags" : ["Clever"],
         "description" : ["You have a natural aptitude for understanding and deciphering texts and ancient tomes. With your knowledge and studious aptitude, you are able to uncover secrets or hard to reach information."],
@@ -121,6 +143,8 @@
         "fail": ["You are unable to find any new information or you are unable to decipher the text."]
     },
     {
+        "type" : "skill",
+        "cost" : 10,
         "name" : "Revenge!",
         "tags" : ["Strong", "Irreverent"],
         "description" : [
@@ -131,6 +155,8 @@
         "fail": []
     },
     {
+        "type" : "skill",
+        "cost" : 10,
         "name" : "Saboteur",
         "tags" : ["Clever", "Dextrous"],
         "description" : ["You have a knack for disabling, subtly breaking in, and opening intricate mechanisms."],
@@ -139,6 +165,8 @@
         "fail": ["You can't get into the mechanism or figure it out. And you're loud while doing it. Hopefully no one is nearby."]
     },
     {
+        "type" : "skill",
+        "cost" : 10,
         "name" : "Scrappy",
         "tags" : ["Strong"],
         "description" : ["Permanently add 5 HP to your Max HP."],
@@ -147,6 +175,8 @@
         "fail": []
     },
     {
+        "type" : "skill",
+        "cost" : 10,
         "name" : "Sorcerer",
         "tags" : ["Magical"],
         "description" : [
@@ -170,6 +200,8 @@
         ]
     },
     {
+        "type" : "skill",
+        "cost" : 10,
         "name" : "Survivalist",
         "tags" : ["Natural"],
         "description" : ["For any survivalist situation, roll with LEVERAGE."],
@@ -178,6 +210,8 @@
         "fail": []
     },
     {
+        "type" : "skill",
+        "cost" : 10,
         "name" : "Marksmanship",
         "tags" : ["Dextrous", "Martial"],
         "description" : [
@@ -193,6 +227,8 @@
         "fail": []
     },
     {
+        "type" : "skill",
+        "cost" : 10,
         "name" : "Swordsmanship",
         "tags" : ["Martial", "Strong"],
         "description" : [
@@ -209,6 +245,8 @@
         "fail": []
     },
     {
+        "type" : "skill",
+        "cost" : 10,
         "name" : "Talk to Animals",
         "tags" : ["Magical", "Natural"],
         "description" : ["You have the ability to talk to animals. By talking to animals you can convince them to do simple tasks, get a survey of certain areas, or even befriend them (Given the animal has an amicable disposition)."],
@@ -217,6 +255,8 @@
         "fail": []
     },
     {
+        "type" : "skill",
+        "cost" : 10,
         "name" : "Thief",
         "tags" : ["Dextrous", "Irreverent"],
         "description" : ["Whenever you try to steal something from someone off their person, roll WITH LEVERAGE."],
@@ -225,6 +265,8 @@
         "fail": []
     },
     {
+        "type" : "skill",
+        "cost" : 10,
         "name" : "Martial Artist",
         "tags" : ["Martial"],
         "description" : ["You are proficient at hand to hand combat. Instead of dealing 1 damage, unarmed, you now deal 1d4 damage."],

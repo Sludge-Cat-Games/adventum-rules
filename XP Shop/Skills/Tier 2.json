@@ -1,5 +1,7 @@
 [
     {
+        "type" : "skill",
+        "cost" : 20,
         "name" : "Alchemist",
         "tags" : ["Clever", "Irreverent"],
         "description" : [
@@ -15,6 +17,8 @@
         "fail": []
     },
     {
+        "type" : "skill",
+        "cost" : 20,
         "name" : "Archery",
         "tags" : ["Dextrous", "Martial"],
         "description" : ["You are able to handle a single type of ranged weapon without LOSING LEVERAGE."],
@@ -23,6 +27,8 @@
         "fail": []
     },
     {
+        "type" : "skill",
+        "cost" : 20,
         "name" : "Animal Companion",
         "tags" : ["Natural"],
         "description" : [
@@ -37,6 +43,8 @@
         "fail": []
     },
     {
+        "type" : "skill",
+        "cost" : 20,
         "name" : "Balance",
         "tags" : ["Natural"],
         "description" : [
@@ -48,6 +56,8 @@
         "fail": []
     },
     {
+        "type" : "skill",
+        "cost" : 20,
         "name" : "Curse",
         "tags" : ["Irreverent", "Magical"],
         "description" : [
@@ -58,6 +68,8 @@
         "fail": ["You fail to curse your target and need to pay for your hubris. Receive 1d4 damage that ignores armor."]
     },
     {
+        "type" : "skill",
+        "cost" : 20,
         "name" : "Divination",
         "tags" : ["Holy", "Magical"],
         "description" : [
@@ -81,6 +93,8 @@
         "fail": []
     },
     {
+        "type" : "skill",
+        "cost" : 20,
         "name" : "Do You Even Lift?",
         "tags" : ["Strong"],
         "description" : ["When a heavy object that no normal person could carry is in front of you, you attempt to lift it with the STRONG ATTRIBUTE. This object can't be more than 10 ft in diameter."],
@@ -89,6 +103,8 @@
         "fail": ["Your technique is off and instead of lifting the object, you pull a muscle. Take 1d6 damage that ignores armor."]
     },
     {
+        "type" : "skill",
+        "cost" : 20,
         "name" : "Elemental Infusion: Air",
         "tags" : ["Martial", "Natural", "Magical"],
         "description" : [
@@ -100,6 +116,8 @@
         "fail": ["You lose control of your wind and end up pushing yourself and not your target. You AL will tell you where you end up. If you fall, you receive 1d4 damage."]
     },
     {
+        "type" : "skill",
+        "cost" : 20,
         "name" : "Elemental Infusion: Earth",
         "tags" : ["Martial", "Natural", "Magical"],
         "description" : [
@@ -111,6 +129,8 @@
         "fail": ["Your connection to the earth is tenuous and you end up sinking into the ground yourself. It is DIFFICULT to break away from the earth."]
     },
     {
+        "type" : "skill",
+        "cost" : 20,
         "name" : "Elemental Infusion: Fire",
         "tags" : ["Martial", "Natural", "Magical"],
         "description" : [
@@ -122,6 +142,8 @@
         "fail": ["You're not able to fuel your fire and psych yourself out. You've LOST LEVERAGE when commanding fire until you hit a SNAG or SUCCEED to burn something."]
     },
     {
+        "type" : "skill",
+        "cost" : 20,
         "name" : "Elemental Infusion: Water",
         "tags" : ["Martial", "Natural", "Magical"],
         "description" : [
@@ -133,6 +155,8 @@
         "fail": ["You lose your cool and lose your focus with water. You've LOST LEVERAGE when commanding water or ice until you hit a SNAG or SUCCEED to command your element."]
     },
     {
+        "type" : "skill",
+        "cost" : 20,
         "name" : "Explout Leverage",
         "tags" : ["Irreverent"],
         "description" : ["Whenever you have "],
@@ -141,6 +165,8 @@
         "fail": []
     },
     {
+        "type" : "skill",
+        "cost" : 20,
         "name" : "Healthy",
         "tags" : ["Strong"],
         "description" : ["Permanently add 10 to your max HP."],
@@ -149,6 +175,8 @@
         "fail": []
     },
     {
+        "type" : "skill",
+        "cost" : 20,
         "name" : "Hit & Run",
         "tags" : ["Dextrous"],
         "description" : [
@@ -161,6 +189,8 @@
         "fail": []
     },
     {
+        "type" : "skill",
+        "cost" : 20,
         "name" : "Latent Abilities",
         "tags" : ["Magical", "Martial"],
         "description" : [],
@@ -169,6 +199,8 @@
         "fail": []
     },
     {
+        "type" : "skill",
+        "cost" : 20,
         "name" : "Naturally Adaptive",
         "tags" : ["Clever", "Natural"],
         "description" : [
@@ -183,6 +215,8 @@
         "fail": ["Your improvised weapon breaks apart or is otherwise unusable as a mechanism for violence. You do no damage."]
     },
     {
+        "type" : "skill",
+        "cost" : 20,
         "name" : "Parry",
         "tags" : ["Clever", "Holy"],
         "description" : [
@@ -194,6 +228,8 @@
         "fail": ["You represent your philosophy poorly and their opinion is unchanged or yet worsened. Your next social roll with/against this NPC is HARDER (-2) and you can never Proselytize them again."]
     },
     {
+        "type" : "skill",
+        "cost" : 20,
         "name" : "RAGE!",
         "tags" : ["Strong"],
         "description" : [

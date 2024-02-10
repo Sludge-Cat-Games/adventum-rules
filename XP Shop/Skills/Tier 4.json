@@ -1,5 +1,7 @@
 [
     {
+        "type" : "skill",
+        "cost" : 40,
         "name" : "Animal Shape",
         "tags" : ["Magical", "Natural"],
         "description" : ["You are now able to transform into animals in your domain. The animal you can transform into can’t weigh more than the average humanoid (150 lbs / 70 kg)."],
@@ -8,6 +10,8 @@
         "fail": []
     },
     {
+        "type" : "skill",
+        "cost" : 40,
         "name" : "Anti-Establishment",
         "tags" : ["Irreverent"],
         "description" : [
@@ -19,6 +23,8 @@
         "fail": []
     },
     {
+        "type" : "skill",
+        "cost" : 40,
         "name" : "Lay on Hands",
         "tags" : ["Holy", "Magical"],
         "description" : ["You can deliver reverent judgement on people you can touch. Depending on if they’re an ally or an enemy, they can be healed or smote by you."],
@@ -27,6 +33,8 @@
         "fail": ["Your hubris belies the faith that’s been placed in you. You deserve punishment and roll with LOST LEVERAGE until you accept 1d6 damage that ignores armor."]
     },
     {
+        "type" : "skill",
+        "cost" : 40,
         "name" : "Ki Blast",
         "tags" : ["Magical", "Martial"],
         "description" : ["You are able to use ki to fire blasts of energy. For each ki point used in a blast, the damage goes up by 1d4."],
@@ -39,6 +47,8 @@
         "fail": ["You gather ki too quickly and fail to fire your beam. The strain on your body deals 1d4 damage and you lose the same amount of ki points. If you lose more ki points than have, you deal the difference as damage to your character."]
     },
     {
+        "type" : "skill",
+        "cost" : 40,
         "name" : "Lucky",
         "tags" : ["Clever"],
         "description" : ["If you roll a 1 on any CLEVER die roll, you can reroll the die. You must take the result of the 2nd roll."],
@@ -47,6 +57,8 @@
         "fail": []
     },
     {
+        "type" : "skill",
+        "cost" : 40,
         "name" : "Puny Wizard!",
         "tags" : ["Magical", "Strong"],
         "description" : ["Your rippling muscles resist even the reality rending effects of magic. When you are damaged by a spell or magic, you can roll 1d6 to reduce the damage by that amount."],
@@ -55,6 +67,8 @@
         "fail": []
     },
     {
+        "type" : "skill",
+        "cost" : 40,
         "name" : "Think Fast!",
         "tags" : ["Dextrous"],
         "description" : ["If a situation called for fast reflexes, you can roll DEXTROUS with LEVERAGE."],
