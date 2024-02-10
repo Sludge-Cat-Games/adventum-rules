@@ -1,0 +1,123 @@
+[
+    {
+        "name" : "Backstab",
+        "tags" : ["Dextrous", "Irreverent"],
+        "description" : ["If you fully succeed in attacking a target that’s unaware of you (or while you’re stealthed), double the damage dice you would use to attack the target."],
+        "success" : [],
+        "snag": [],
+        "fail": []
+    },
+    {
+        "name" : "Blooded",
+        "tags" : ["Strong"],
+        "description" : [
+            "When your damage on an enemy is an even number, that enemy is now Blooded.",
+            "Every time you attack that enemy after they are Blooded (until they are defeated or combat ends), add a d6 to the damage."
+        ],
+        "success" : [],
+        "snag": [],
+        "fail": []
+    },
+    {
+        "name" : "Counter Spell",
+        "tags" : ["Magical", "Clever"],
+        "description" : [
+            "Your continued use of magic gives you an innate understanding of how to stop magic spells as they’re being cast.",
+            "As you see someone cast a spell, you can attempt to nullify it. The difficulty to counter scales with the tier the magical effect is subject to the DD."
+        ],
+        "success" : ["You successfully countered the spell!"],
+        "snag": [
+            "You counter the spell, but at a cost. Choose a consequence.",
+            "- Rebound: You get hit with damage equal to the DD of the counter spell.",
+            "- Arcane Burn of the 2nd Degree: You stop the spell but are now strained by arcane burn. You LOSE LEVERAGE on your next spell casting (whenever you cast it).",
+            "- Lessened Effect: The counter is not complete. If the spell has a quantifiable effect, you can only halve it. If it doesn’t, you can’t choose this option."
+        ],
+        "fail": ["You failed to counter the spell and get hit with a Rebound."]
+    },
+    {
+        "name" : "Divine Judgement",
+        "tags" : ["Holy"],
+        "description" : [
+            "If you view someone committing a sin in your god’s eyes, or you can prove that they did something morally reprehensible, you can mark them for judgment.",
+            "When dealing with a target marked for judgement, you can use your HOLY ATTRIBUTE when rolling against it. Even if the HOLY ATTRIBUTE would not normally apply.",
+            "You can only mark one target at a time. You cannot switch judgement targets until you’ve rolled against the first target, or a day passes (Whichever comes first)."
+        ],
+        "success" : [],
+        "snag": [],
+        "fail": []
+    },
+    {
+        "name" : "Elemental Affinity: Air",
+        "tags" : ["Magical", "Martial", "Natural"],
+        "description" : ["You have a natural connection to elemental magic, allowing you to harness the power of air. If you’re attacking someone, you deal 1d8 damage."],
+        "success" : ["You can command air to bluster around and move where you want it to."],
+        "snag": ["You can command your chosen element to take a certain shape and move where you want it to but you have no control over it after you command it."],
+        "fail": ["You are unable to command your chosen element."]
+    },
+    {
+        "name" : "Elemental Affinity: Earth",
+        "tags" : ["Magical", "Martial", "Natural"],
+        "description" : ["You have a natural connection to elemental magic, allowing you to harness the power of the earth.If you’re attacking someone, you deal 1d8 damage. "],
+        "success" : ["You can command earth to move around and rest where you want it to."],
+        "snag": ["You can command your chosen element to take a certain shape and move where you want it to but you have no control over it after you command it."],
+        "fail": ["You are unable to command your chosen element."]
+    },
+    {
+        "name" : "Elemental Affinity: Fire",
+        "tags" : ["Magical", "Martial", "Natural"],
+        "description" : ["You have a natural connection to elemental magic, allowing you to harness the power of the earth. If you’re attacking someone, you deal 1d8 damage."],
+        "success" : ["You can command fire to spontaneously appear over combustible material. (If you’re attacking someone, your fire damage ignores armor)."],
+        "snag": ["You can command your chosen element to take a certain shape and move where you want it to but you have no control over it after you command it."],
+        "fail": ["You are unable to command your chosen element."]
+    },
+    {
+        "name" : "Elemental Affinity: Water",
+        "tags" : ["Magical", "Martial", "Natural"],
+        "description" : ["You have a natural connection to elemental magic, allowing you to harness the power of the earth. If you’re attacking someone, you deal 1d8 damage."],
+        "success" : ["You can command earth to move around and rest where you want it to. (If you’re attacking someone, your cold damage ignores armor)."],
+        "snag": ["You can command your chosen element to take a certain shape and move where you want it to but you have no control over it after you command it."],
+        "fail": ["You are unable to command your chosen element."]
+    },
+    {
+        "name" : "Macgyver",
+        "tags" : ["Clever"],
+        "description" : [
+            "Thinking and acting quickly, you can cobble together common components to make a novel gadget that works just as long as you need it. Tell the AL what you want to make and out of what. After the AL approves your MacGyver attempt, attempt to make one of these gadgets.",
+            "You also use the CLEVER attribute when operating your new gadget, and suffer the Macgyver consequences on a SNAG or FAIL.",
+            "- Glider: You can’t ascend but you can fall slowly and maybe even over great distances.",
+            "- Armor: You can temporarily bolster your armor by +1. You can’t stack Macgyvered armor.",
+            "- Climber: You can scale a surface to get to a higher level.",
+            "- Sticker: You’ve somehow attached one thing to another thing in an efficient manner. Let’s hope it stays together!"
+        ],
+        "success" : ["Your gadget works and stays together."],
+        "snag": ["Your gadget works but it will malfunction after your next use."],
+        "fail": ["Your idea, while novel, was not sound. It immediately breaks. If you're using it for something it malfunctions in the middle of your action."]
+    },
+    {
+        "name" : "Spiritual Absorption",
+        "tags" : ["Holy", "Irreverent", "Magical"],
+        "description" : ["You can absorb power from an ethereal entity that haunts or possesses a place or creature. You can also draw power from magical artifacts, tools, or people that are MAGICAL."],
+        "success" : [],
+        "snag": [],
+        "fail": []
+    },
+    {
+        "name" : "Magus",
+        "tags" : ["Magical"],
+        "description" : [
+            "You can now cast any side effect as a standalone spell. The RANGE of these spells is THROWN.",
+            "(You still need to extract the effects for spellcrafting)"
+        ],
+        "success" : [],
+        "snag": [],
+        "fail": []
+    },
+    {
+        "name" : "TLC",
+        "tags" : ["Holy", "Magical"],
+        "description" : ["You can attempt to remedy various physical ailments that can’t be ameliorated from basic healing (Poison, blindness, deafness, non-magical sickness). You can’t use TLC to give an ability that the target would not have otherwise."],
+        "success" : ["You successfully cure the ailment!"],
+        "snag": ["Your work has done the trick but it will take time. Roll a d4. The ailment wears off after that many hours."],
+        "fail": ["You fail to cure the ailment. You can try again tomorrow."]
+    }
+]
