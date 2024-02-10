@@ -1,0 +1,69 @@
+[
+    {
+        "name" : "Animal Shape",
+        "tags" : ["Magical", "Natural"],
+        "description" : ["You are now able to transform into animals in your domain. The animal you can transform into can’t weigh more than the average humanoid (150 lbs / 70 kg)."],
+        "success" : [],
+        "snag": [],
+        "fail": []
+    },
+    {
+        "name" : "Anti-Establishment",
+        "tags" : ["Irreverent"],
+        "description" : [
+            "You have a knack for defying and navigating authoritarian structures.",
+            "You now always have LEVERAGE and can use your IRREVERENT ATTRIBUTE when dealing with someone who would normally have authority over you."
+        ],
+        "success" : [],
+        "snag": [],
+        "fail": []
+    },
+    {
+        "name" : "Lay on Hands",
+        "tags" : ["Holy", "Magical"],
+        "description" : ["You can deliver reverent judgement on people you can touch. Depending on if they’re an ally or an enemy, they can be healed or smote by you."],
+        "success" : ["Roll a d10. Your target receives the result as healing if they are an ally or believe in your philosophy or religion. If they are an enemy AND do NOT believe in your religion, or philosophy, they receive 1d10 damage instead."],
+        "snag": ["The above SUCCESS condition occurs but something is off. Your next HOLY or MAGICAL roll LOSES LEVERAGE."],
+        "fail": ["Your hubris belies the faith that’s been placed in you. You deserve punishment and roll with LOST LEVERAGE until you accept 1d6 damage that ignores armor."]
+    },
+    {
+        "name" : "Ki Blast",
+        "tags" : ["Magical", "Martial"],
+        "description" : ["You are able to use ki to fire blasts of energy. For each ki point used in a blast, the damage goes up by 1d4."],
+        "success" : ["You are able to successfully fire off a ki blast with elegant and effective form."],
+        "snag": [
+            "You are able to fire off a ki blast but your form is off. Choose either:",
+            "- Fire now: Fire your blast, The damage is equal to the ki points you gathered.",
+            "- Charge Attack: Wait a short period of time to fire normally. You’re vulnerable while charging your attack and if you dismiss it early, you lose 1 ki point."
+        ],
+        "fail": ["You gather ki too quickly and fail to fire your beam. The strain on your body deals 1d4 damage and you lose the same amount of ki points. If you lose more ki points than have, you deal the difference as damage to your character."]
+    },
+    {
+        "name" : "Lucky",
+        "tags" : ["Clever"],
+        "description" : ["If you roll a 1 on any CLEVER die roll, you can reroll the die. You must take the result of the 2nd roll."],
+        "success" : [],
+        "snag": [],
+        "fail": []
+    },
+    {
+        "name" : "Puny Wizard!",
+        "tags" : ["Magical", "Strong"],
+        "description" : ["Your rippling muscles resist even the reality rending effects of magic. When you are damaged by a spell or magic, you can roll 1d6 to reduce the damage by that amount."],
+        "success" : [],
+        "snag": [],
+        "fail": []
+    },
+    {
+        "name" : "Think Fast!",
+        "tags" : ["Dextrous"],
+        "description" : ["If a situation called for fast reflexes, you can roll DEXTROUS with LEVERAGE."],
+        "success" : ["You beat the odds and time and reach your goal before you can be stopped or bested."],
+        "snag": [
+            "You succeed but it wasn’t clean. Choose a consequence:",
+            "- Tie: If you are racing a person towards an objective, you both make it there at the exact same time.",
+            "- Bruised: You push yourself to 11 and don't have a way to put on the brakes. You stumble and take 1d6 damage."
+        ],
+        "fail": []
+    }
+]

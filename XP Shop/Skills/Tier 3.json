@@ -102,17 +102,6 @@
         "fail": []
     },
     {
-        "name" : "Magus",
-        "tags" : ["Magical"],
-        "description" : [
-            "You can now cast any side effect as a standalone spell. The RANGE of these spells is THROWN.",
-            "(You still need to extract the effects for spellcrafting)"
-        ],
-        "success" : [],
-        "snag": [],
-        "fail": []
-    },
-    {
         "name" : "TLC",
         "tags" : ["Holy", "Magical"],
         "description" : ["You can attempt to remedy various physical ailments that can’t be ameliorated from basic healing (Poison, blindness, deafness, non-magical sickness). You can’t use TLC to give an ability that the target would not have otherwise."],
