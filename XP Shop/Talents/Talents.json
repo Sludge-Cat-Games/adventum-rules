@@ -1,35 +1,49 @@
 [
     {
+        "type" : "talent",
+        "cost" : 10,
         "name" : "Arcane",
         "tag" : "Magical",
         "description" : "You can buy Magical skills for half its original XP cost."
     },
     {
+        "type" : "talent",
+        "cost" : 10,
         "name" : "Barbaric",
         "tag" : "Strong",
         "description" : "You can buy Strong skills for half its original XP cost."
     },
     {
+        "type" : "talent",
+        "cost" : 10,
         "name" : "Cheeky",
         "tag" : "Irreverent",
         "description" : "You can buy Irreverent skills for half its original XP cost."
     },
     {
+        "type" : "talent",
+        "cost" : 10,
         "name" : "Cunning",
         "tag" : "Clever",
         "description" : "You can buy Clever skills for half its original XP cost."
     },
     {
+        "type" : "talent",
+        "cost" : 10,
         "name" : "Disciplined",
         "tag" : "Martial",
         "description" : "You can buy Martial skills for half its original XP cost."
     },
     {
+        "type" : "talent",
+        "cost" : 10,
         "name" : "Divine",
         "tag" : "Holy",
         "description" : "You can buy Holy skills for half its original XP cost."
     },
     {
+        "type" : "talent",
+        "cost" : 10,
         "name" : "Swift",
         "tag" : "Dextrous",
         "description" : "You can buy Dextrous skills for half its original XP cost."

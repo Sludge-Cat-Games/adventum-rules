@@ -1,5 +1,7 @@
 [
     {
+        "type" : "skill",
+        "cost" : 30,
         "name" : "Backstab",
         "tags" : ["Dextrous", "Irreverent"],
         "description" : ["If you fully succeed in attacking a target that’s unaware of you (or while you’re stealthed), double the damage dice you would use to attack the target."],
@@ -8,6 +10,8 @@
         "fail": []
     },
     {
+        "type" : "skill",
+        "cost" : 30,
         "name" : "Blooded",
         "tags" : ["Strong"],
         "description" : [
@@ -19,6 +23,8 @@
         "fail": []
     },
     {
+        "type" : "skill",
+        "cost" : 30,
         "name" : "Counter Spell",
         "tags" : ["Magical", "Clever"],
         "description" : [
@@ -35,6 +41,8 @@
         "fail": ["You failed to counter the spell and get hit with a Rebound."]
     },
     {
+        "type" : "skill",
+        "cost" : 30,
         "name" : "Divine Judgement",
         "tags" : ["Holy"],
         "description" : [
@@ -47,6 +55,8 @@
         "fail": []
     },
     {
+        "type" : "skill",
+        "cost" : 30,
         "name" : "Elemental Affinity: Air",
         "tags" : ["Magical", "Martial", "Natural"],
         "description" : ["You have a natural connection to elemental magic, allowing you to harness the power of air. If you’re attacking someone, you deal 1d8 damage."],
@@ -55,6 +65,8 @@
         "fail": ["You are unable to command your chosen element."]
     },
     {
+        "type" : "skill",
+        "cost" : 30,
         "name" : "Elemental Affinity: Earth",
         "tags" : ["Magical", "Martial", "Natural"],
         "description" : ["You have a natural connection to elemental magic, allowing you to harness the power of the earth.If you’re attacking someone, you deal 1d8 damage. "],
@@ -63,6 +75,8 @@
         "fail": ["You are unable to command your chosen element."]
     },
     {
+        "type" : "skill",
+        "cost" : 30,
         "name" : "Elemental Affinity: Fire",
         "tags" : ["Magical", "Martial", "Natural"],
         "description" : ["You have a natural connection to elemental magic, allowing you to harness the power of the earth. If you’re attacking someone, you deal 1d8 damage."],
@@ -71,6 +85,8 @@
         "fail": ["You are unable to command your chosen element."]
     },
     {
+        "type" : "skill",
+        "cost" : 30,
         "name" : "Elemental Affinity: Water",
         "tags" : ["Magical", "Martial", "Natural"],
         "description" : ["You have a natural connection to elemental magic, allowing you to harness the power of the earth. If you’re attacking someone, you deal 1d8 damage."],
@@ -79,6 +95,8 @@
         "fail": ["You are unable to command your chosen element."]
     },
     {
+        "type" : "skill",
+        "cost" : 30,
         "name" : "Macgyver",
         "tags" : ["Clever"],
         "description" : [
@@ -94,6 +112,8 @@
         "fail": ["Your idea, while novel, was not sound. It immediately breaks. If you're using it for something it malfunctions in the middle of your action."]
     },
     {
+        "type" : "skill",
+        "cost" : 30,
         "name" : "Spiritual Absorption",
         "tags" : ["Holy", "Irreverent", "Magical"],
         "description" : ["You can absorb power from an ethereal entity that haunts or possesses a place or creature. You can also draw power from magical artifacts, tools, or people that are MAGICAL."],
@@ -102,6 +122,8 @@
         "fail": []
     },
     {
+        "type" : "skill",
+        "cost" : 30,
         "name" : "TLC",
         "tags" : ["Holy", "Magical"],
         "description" : ["You can attempt to remedy various physical ailments that can’t be ameliorated from basic healing (Poison, blindness, deafness, non-magical sickness). You can’t use TLC to give an ability that the target would not have otherwise."],
