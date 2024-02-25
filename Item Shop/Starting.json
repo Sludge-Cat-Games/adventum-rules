@@ -1,0 +1,199 @@
+[
+    {
+        "type": "item",
+        "id": 1,
+        "name": "Crystal Phone",
+        "cost": 1000,
+        "tags": [
+            "Utility"
+        ],
+        "description": [
+            "Can make calls and texts. Some applications are also functional."
+        ]
+    },
+    {
+        "type": "item",
+        "id": 2,
+        "name": "Crystal Pistol",
+        "cost": 1000,
+        "tags": [
+            "Weapon"
+        ],
+        "description": [
+            "A magic powered gun that can deal some damage. Deals 1d6 damage at range with ammo. Requires proficiency to use without LOSING LEVERAGE."
+        ]
+    },
+    {
+        "type": "item",
+        "id": 3,
+        "name": "Crystal Top",
+        "cost": 2000,
+        "tags": [
+            "Utility"
+        ],
+        "description": [
+            "Makes research and some applications more achievable. You can roll WITH LEVERAGE when doing research."
+        ]
+    },
+    {
+        "type": "item",
+        "id": 4,
+        "name": "Health Potion",
+        "cost": 3000,
+        "tags": [
+            "Consumable",
+            "Magical"
+        ],
+        "description": [
+            "Heals the consumer of 5 damage."
+        ]
+    },
+    {
+        "type": "item",
+        "id": 5,
+        "name": "Knife",
+        "cost": 500,
+        "tags": [
+            "Weapon"
+        ],
+        "description": [
+            "Deals 1d4 damage and doesn't require proficiency to use."
+        ]
+    },
+    {
+        "type": "item",
+        "id": 6,
+        "name": "Extendable Baton",
+        "cost": 500,
+        "tags": [
+            "Weapon"
+        ],
+        "description": [
+            "A handy danady extendable baton. Not the most threatening weapon but you can certainly give someone a thrashing. This deals 2 damage and doesn't require proficiency to use."
+        ]
+    },
+    {
+        "type": "item",
+        "id": 7,
+        "name": "Tazer",
+        "cost": 500,
+        "tags": [
+            "Utility"
+        ],
+        "description": [
+            "Can be used to try to stun someone. Make a melee attack against an afflictable target. On a SUCCESS, the target is stunned. The next roll against them HAS LEVERAGE. You deal 1 damage before ARMOR on a SNAG."
+        ]
+    },
+    {
+        "type": "item",
+        "id": 8,
+        "name": "Nunchucks",
+        "cost": 1000,
+        "tags": [
+            "Weapon"
+        ],
+        "description": [
+            "A great weapon for a skilled martial artist. Tricky to use though. Deals 1d4 + 1 damage."
+        ]
+    },
+    {
+        "type": "item",
+        "id": 9,
+        "name": "Staff",
+        "cost": 500,
+        "tags": [
+            "Weapon"
+        ],
+        "description": [
+            "A quality staff can be used well by a skilled martial artist. Deals 1d6 damage."
+        ]
+    },
+    {
+        "type": "item",
+        "id": 10,
+        "name": "Light Covert Vest",
+        "cost": 4000,
+        "tags": [
+            "Wearable"
+        ],
+        "description": [
+            "Reduces incoming damage by 1 when worn."
+        ]
+    },
+    {
+        "type": "item",
+        "id": 11,
+        "name": "Heavy Bullet Proof Vest",
+        "cost": 5000,
+        "tags": [
+            "Wearable"
+        ],
+        "description": [
+            "Reduces incoming damage by 2 when worn. (Can't reduce damage to 0)"
+        ]
+    },
+    {
+        "type": "item",
+        "id": 12,
+        "name": "Weed x 5",
+        "cost": 800,
+        "tags": [
+            "Consumable"
+        ],
+        "description": [
+            "Whatever form you enjoy THC, for the next 1d4 rolls you make, you LOSE LEVERAGE. If you're sharing with someone, you GAIN LEVERAGE when you use social rollls with them."
+        ]
+    },
+    {
+        "type": "item",
+        "id": 13,
+        "name": "AMF (Arcane & Magic Field) Jacket",
+        "cost": 2000,
+        "tags": [
+            "Magical",
+            "Wearable"
+        ],
+        "description": [
+            "You can block a lot of magical energies and frequencies. Reduces damage from spells and magic by 1."
+        ]
+    },
+    {
+        "type": "item",
+        "id": 14,
+        "name": "Brass Knuckles",
+        "cost": 500,
+        "tags": [
+            "Wearable",
+            "Weapon"
+        ],
+        "description": [
+            "Adds +1 to what would otherwise be unarmed damage."
+        ]
+    },
+    {
+        "type": "item",
+        "id": 15,
+        "name": "Magicwaveable Food",
+        "cost": 5,
+        "tags": [
+            "Consumable",
+            "Magical"
+        ],
+        "description": [
+            "A simply okay meal for the magician on the go! Stick in the magicwave for 5 minutes for near instant gratification."
+        ]
+    },
+    {
+        "type": "item",
+        "id": 16,
+        "name": "Arcane Ramen x 5",
+        "cost": 5,
+        "tags": [
+            "Consumable",
+            "Magical"
+        ],
+        "description": [
+            "We saved you the time of boiling water by sticking a Heat Infusion scroll on the cup! Just say the incantation to enjoy truly instant ramen!"
+        ]
+    }
+]
