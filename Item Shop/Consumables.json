@@ -1,0 +1,220 @@
+[
+    {
+        "type": "item",
+        "id": 1,
+        "name": "Arcane Ramen x 5",
+        "cost": 5,
+        "tags": [
+            "Consumable",
+            "Magical"
+        ],
+        "description": [
+            "Simply add boiling water, and you've got some tasty ramen! Also can be prepared in a magicwave!"
+        ]
+    },
+    {
+        "type": "item",
+        "id": 2,
+        "name": "Magicwaveable Food",
+        "cost": 10,
+        "tags": [
+            "Consumable",
+            "Magical"
+        ],
+        "description": [
+            "A simply okay meal for the magician on the go! Simply use the Heat Infusion scroll on the package to warm it up!"
+        ]
+    },
+    {
+        "type": "item",
+        "id": 3,
+        "name": "Wonderful Meal",
+        "cost": 50,
+        "tags": [
+            "Consumable"
+        ],
+        "description": [
+            "Gives a small boost for 1 hour based on the dominant flavor.",
+            "Sweet: You can add +1 to any social roll.",
+            "Salty: You can add +1 to any magical roll.",
+            "Spicy: You can add +1 to any damage roll.",
+            "Umami: Add +2 temporary HP."
+        ]
+    },
+    {
+        "type": "item",
+        "id": 4,
+        "name": "Basic Poison",
+        "cost": 100,
+        "tags": [
+            "Consumable"
+        ],
+        "description": [
+            "When successfully applied, the target is poisoned. Roll a d6; Receive 1 damage for that many rolled actions.",
+            "This effect stops if you're cured of poison.",
+            "Poison can also be applied to wepaons, which an in turn poison relevant targets. When a poisoned weapon hits a target, becomes wet, or is deliberately cleaned, it loses its poison effect."
+        ]
+    },
+    {
+        "type": "item",
+        "id": 5,
+        "name": "Immaculate Meal",
+        "cost": 100,
+        "tags": [
+            "Consumable"
+        ],
+        "description": [
+            "Gives a small boost for 1 hour based on the dominant flavor.",
+            "Sweet: You can add +2 to any social roll.",
+            "Salty: You can add +2 to any magical roll.",
+            "Spicy: You can add +2 to any damage roll.",
+            "Umami: Add +4 temporary HP."
+        ]
+    },
+    {
+        "type": "item",
+        "id": 6,
+        "name": "Abundant Scone",
+        "cost": 100,
+        "tags": [
+            "Consumable",
+            "Magical"
+        ],
+        "description": [
+            "An exquisitely sweet dessert made with concentrated health potion extract. Heals 1d10 HP when consumed."
+        ]
+    },
+    {
+        "type": "item",
+        "id": 7,
+        "name": "Demonic Muffin",
+        "cost": 100,
+        "tags": [
+            "Consumable",
+            "Magical"
+        ],
+        "description": [
+            "The next MAGICAL action roll you make automatically suceeds. You receive damage equal to twice its Tier."
+        ]
+    },
+    {
+        "type": "item",
+        "id": 8,
+        "name": "Fast Acting Poison",
+        "cost": 200,
+        "tags": [
+            "Consumable"
+        ],
+        "description": [
+            "When successfully applied, the target is poisoned. Roll a d4; Receive 1d4 damage for that many rolled actions.",
+            "This effect stops if you're cured of poison.",
+            "Poison can also be applied to wepaons, which an in turn poison relevant targets. When a poisoned weapon hits a target, becomes wet, or is deliberately cleaned, it loses its poison effect."
+        ]
+    },
+    {
+        "type": "item",
+        "id": 9,
+        "name": "Gourmet Meal",
+        "cost": 400,
+        "tags": [
+            "Consumable"
+        ],
+        "description": [
+            "Gives an exquisite boost for 1 hours based on the dominant flavor.",
+            "Sweet: You can add +4 to any social roll.",
+            "Salty: You can add +4 to any magical roll.",
+            "Spicy: You can add +4 to any damage roll.",
+            "Umami: Add +8 temporary HP."
+        ]
+    },
+    {
+        "type": "item",
+        "id": 10,
+        "name": "Weed x 5",
+        "cost": 420,
+        "tags": [
+            "Consumable"
+        ],
+        "description": [
+            "Whatever form you enjoy THC, for the next 1d4 rolls you make, you LOSE LEVERAGE. You have"
+        ]
+    },
+    {
+        "type": "item",
+        "id": 11,
+        "name": "Minor Health Potion",
+        "cost": 500,
+        "tags": [
+            "Consumable",
+            "Magical"
+        ],
+        "description": [
+            "Heals 1d6 HP when consumed."
+        ]
+    },
+    {
+        "type": "item",
+        "id": 12,
+        "name": "Stimulating Potion",
+        "cost": 800,
+        "tags": [
+            "Consumable",
+            "Magical"
+        ],
+        "description": [
+            "Boosts your CLEVER & MAGICAL ATTRIBUTES by +1 for 1 hour. Applies -1 to all other ATTRIBUTES."
+        ]
+    },
+    {
+        "type": "item",
+        "id": 13,
+        "name": "Health Potion",
+        "cost": 1000,
+        "tags": [
+            "Consumable",
+            "Magical"
+        ],
+        "description": [
+            "Heals 5 HP when consumed."
+        ]
+    },
+    {
+        "type": "item",
+        "id": 14,
+        "name": "Mana Potion",
+        "cost": 1100,
+        "tags": [
+            "Consumable",
+            "Magical"
+        ],
+        "description": [
+            "Your next 1d4 MAGICAL rolls HAVE LEVERAGE."
+        ]
+    },
+    {
+        "type": "item",
+        "id": 15,
+        "name": "Sleepy Time Potion",
+        "cost": 1200,
+        "tags": [
+            "Consumable",
+            "Magical"
+        ],
+        "description": [
+            "The target automatically falls unconscious once consumed for 1 hour. They can be awoken easily with loud noises, light jostling, or damage. The target can willingly stay asleep after an hour passes."
+        ]
+    },
+    {
+        "type": "item",
+        "id": 16,
+        "name": "Potion of Invisibility",
+        "cost": 1300,
+        "tags": [
+            "Consumable",
+            "Magical"
+        ],
+        "description": [
+            "Makes the drinker invisible for 1 hour. The consumer loses invisibility, when attacking, casting a spell, or damaged."
+        ]
+    }
+]

@@ -1,0 +1,64 @@
+[
+    {
+        "type": "item",
+        "id": 1,
+        "name": "Light Covert Vest",
+        "cost": 500,
+        "tags": [
+            "Wearable"
+        ],
+        "description": [
+            "Reduces damage before armor by 1 when worn."
+        ]
+    },
+    {
+        "type": "item",
+        "id": 2,
+        "name": "AMF Jacket",
+        "cost": 800,
+        "tags": [
+            "Magical",
+            "Wearable"
+        ],
+        "description": [
+            "Reduce damage before armor from spells, magical skills by 1d4."
+        ]
+    },
+    {
+        "type": "item",
+        "id": 3,
+        "name": "Tactical Vest",
+        "cost": 1000,
+        "tags": [
+            "Wearable"
+        ],
+        "description": [
+            "Reduces damage before armor by 2 when worn."
+        ]
+    },
+    {
+        "type": "item",
+        "id": 4,
+        "name": "Amulet of Protection",
+        "cost": 900,
+        "tags": [
+            "Magical",
+            "Wearable"
+        ],
+        "description": [
+            "Reduces damage before armor by 1d4. This reduction can stack with damage reductions."
+        ]
+    },
+    {
+        "type": "item",
+        "id": 5,
+        "name": "Heavy Bullet Proof Vest",
+        "cost": 2000,
+        "tags": [
+            "Wearable"
+        ],
+        "description": [
+            "Reduces damage before armor by 3 when worn."
+        ]
+    }
+]

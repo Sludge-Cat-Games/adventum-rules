@@ -1,0 +1,186 @@
+[
+    {
+        "type": "item",
+        "id": 1,
+        "name": "Crystal Phone",
+        "cost": 600,
+        "tags": [
+            "Utility"
+        ],
+        "description": [
+            "Can make calls and texts. Some applications are also functional."
+        ]
+    },
+    {
+        "type": "item",
+        "id": 2,
+        "name": "Crystal Pistol",
+        "cost": 300,
+        "tags": [
+            "Weapon"
+        ],
+        "description": [
+            "A magic powered gun that can deal some damage. Deals 1d6 damage up to thrown range with ammo. Requires proficiency to use without LOSING LEVERAGE."
+        ]
+    },
+    {
+        "type": "item",
+        "id": 3,
+        "name": "Crystal Top",
+        "cost": 1000,
+        "tags": [
+            "Utility"
+        ],
+        "description": [
+            "Makes research and some applications more achievable. You can roll WITH LEVERAGE when doing research."
+        ]
+    },
+    {
+        "type": "item",
+        "id": 4,
+        "name": "Health Potion",
+        "cost": 1000,
+        "tags": [
+            "Consumable",
+            "Magical"
+        ],
+        "description": [
+            "Heals the consumer of 5 damage."
+        ]
+    },
+    {
+        "type": "item",
+        "id": 5,
+        "name": "Knife",
+        "cost": 100,
+        "tags": [
+            "Weapon"
+        ],
+        "description": [
+            "Deals 1d4 damage and doesn't require proficiency to use."
+        ]
+    },
+    {
+        "type": "item",
+        "id": 6,
+        "name": "Extendable Baton",
+        "cost": 100,
+        "tags": [
+            "Weapon"
+        ],
+        "description": [
+            "A handy dandy extendable baton. Not the most threatening weapon but you can certainly give someone a thrashing. This deals 2 damage and doesn't require proficiency to use."
+        ]
+    },
+    {
+        "type": "item",
+        "id": 7,
+        "name": "Tazer",
+        "cost": 500,
+        "tags": [
+            "Utility"
+        ],
+        "description": [
+            "Can be used to try to stun someone. Make a melee attack against an afflictable target. On a SUCCESS, the target is stunned. The next roll against them HAS LEVERAGE. You deal 1 damage before ARMOR on a SNAG."
+        ]
+    },
+    {
+        "type": "item",
+        "id": 8,
+        "name": "Nunchucks",
+        "cost": 200,
+        "tags": [
+            "Weapon"
+        ],
+        "description": [
+            "A great weapon for a skilled martial artist. Tricky to use though. Deals MARTIAL + DEXTROUS damage on SUCCESS. Deals 1d4 damage on SNAG."
+        ]
+    },
+    {
+        "type": "item",
+        "id": 9,
+        "name": "Sword",
+        "cost": 300,
+        "tags": [
+            "Melee",
+            "Weapon"
+        ],
+        "description": [
+            "Deals 4 damage plus STRONG or MARTIAL. (Deals only 1d4 on SNAG)"
+        ]
+    },
+    {
+        "type": "item",
+        "id": 10,
+        "name": "Staff",
+        "cost": 200,
+        "tags": [
+            "Weapon"
+        ],
+        "description": [
+            "A quality staff can be used well by a skilled martial artist. Deals 1d6 damage."
+        ]
+    },
+    {
+        "type": "item",
+        "id": 11,
+        "name": "Light Covert Vest",
+        "cost": 200,
+        "tags": [
+            "Wearable"
+        ],
+        "description": [
+            "Reduces incoming damage by 1 when worn."
+        ]
+    },
+    {
+        "type": "item",
+        "id": 12,
+        "name": "Heavy Bullet Proof Vest",
+        "cost": 500,
+        "tags": [
+            "Wearable"
+        ],
+        "description": [
+            "Reduces incoming damage by 2 when worn. (Can't reduce damage to 0)"
+        ]
+    },
+    {
+        "type": "item",
+        "id": 13,
+        "name": "Weed x 5",
+        "cost": 420,
+        "tags": [
+            "Consumable"
+        ],
+        "description": [
+            "Whatever form you enjoy THC, for the next 1d4 rolls you make, you LOSE LEVERAGE. If you're sharing with someone, you GAIN LEVERAGE when you use social rollls with them."
+        ]
+    },
+    {
+        "type": "item",
+        "id": 14,
+        "name": "AMF (Arcane & Magic Field) Jacket",
+        "cost": 400,
+        "tags": [
+            "Magical",
+            "Wearable"
+        ],
+        "description": [
+            "You can block a lot of magical energies and frequencies. Reduces damage from spells and magic by 1."
+        ]
+    },
+    {
+        "type": "item",
+        "id": 15,
+        "name": "Brass Knuckles",
+        "cost": 150,
+        "tags": [
+            "Wearable",
+            "Weapon"
+        ],
+        "description": [
+            "Adds +1 to what would otherwise be unarmed damage."
+        ]
+    }
+]
