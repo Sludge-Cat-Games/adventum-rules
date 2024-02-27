@@ -2,203 +2,98 @@
     {
         "type": "item",
         "id": 1,
-        "name": "Extendable Baton",
-        "cost": 50,
+        "name": "1 Day Minimum Wage",
+        "cost": 35,
         "tags": [
-            "Melee",
-            "Weapon"
+            "Salaried"
         ],
         "description": [
-            "A handy danady extendable baton. This deals 2 damage and doesn't require proficiency to use. "
+            "When the boss makes a dollar, I make a dime, so I like to poop on company time."
         ]
     },
     {
         "type": "item",
         "id": 2,
-        "name": "Knife",
-        "cost": 100,
+        "name": "Cheap Freelance Task",
+        "cost": 4,
         "tags": [
-            "Melee",
-            "Weapon"
+            "Gig"
         ],
         "description": [
-            "Deals 2 damage + DEXTROUS (1 damage on SNAG) and doesn't require proficiency to use."
+            "What you might pay upfront for a simple delivery."
         ]
     },
     {
         "type": "item",
         "id": 3,
-        "name": "Brass Knuckles",
-        "cost": 100,
+        "name": "Cheap Freelance Day of labor",
+        "cost": 6,
         "tags": [
-            "Weapon",
-            "Wearable"
+            "Gig",
+            "Variable"
         ],
         "description": [
-            "Adds +1 to what would otherwise be unarmed damage."
+            "Depending on the day and task, you can get ⓜ100 on SUCCESS, 1d10 * ⓜ10 on SNAG, or ⓜ10 on FAILURE."
         ]
     },
     {
         "type": "item",
         "id": 4,
-        "name": "Crystal Charge x 5",
-        "cost": 100,
+        "name": "1 Day Low Wage",
+        "cost": 40,
         "tags": [
-            "Ammo",
-            "Magical"
+            "Salaried"
         ],
         "description": [
-            "Ammo used in a magical ranged weapon. Each shot fired consumes 1 AMMO on a SNAG or FAILURE."
+            "It's not much but it beats minimum wage!"
         ]
     },
     {
         "type": "item",
         "id": 5,
-        "name": "Tazer",
-        "cost": 200,
+        "name": "1 Day of Lower Middle Class Wage",
+        "cost": 60,
         "tags": [
-            "Utility"
+            "Salaried"
         ],
         "description": [
-            "Can be used to try to stun someone. Make a melee attack roll against an afflictable target. On a SUCCESS, the target is stunned. The next roll against them HAS LEVERAGE. (1 damage on SNAG).",
-            "Requires magical ammo."
+            "The promise of economic mobility is almost in sight!"
         ]
     },
     {
         "type": "item",
         "id": 6,
-        "name": "Nunchucks",
-        "cost": 200,
+        "name": "1 Day of Middle Class Wage",
+        "cost": 100,
         "tags": [
-            "Melee",
-            "Weapon"
+            "Salaried"
         ],
         "description": [
-            "A great weapon for a skilled martial artist. Tricky to use though. Deals MARTIAL + DEXTROUS damage on SUCCESS. Deals 1d4 damage on SNAG."
+            "Let's hope this class doesn't shrink!"
         ]
     },
     {
         "type": "item",
         "id": 7,
-        "name": "Staff",
+        "name": "1 Day of Upper Middle Class",
         "cost": 200,
         "tags": [
-            "Melee",
-            "Weapon"
+            "Salaried"
         ],
         "description": [
-            "A quality staff can be used well by a skilled martial artist. Deals 2 + MARTIAL damage. (Deals 2 Damage on SNAG)"
+            "Living the dream!"
         ]
     },
     {
         "type": "item",
         "id": 8,
-        "name": "Silver Knuckles",
-        "cost": 200,
-        "tags": [
-            "Weapon",
-            "Wearable"
-        ],
-        "description": [
-            "Adds +2 to what would otherwise be unarmed damage."
-        ]
-    },
-    {
-        "type": "item",
-        "id": 9,
-        "name": "Sword",
+        "name": "1 Day of Upper Class",
         "cost": 300,
         "tags": [
-            "Melee",
-            "Weapon"
+            "Salaried"
         ],
         "description": [
-            "A standard sword deals 2 damage + MARTIAL or STRONG. (2 damage on SNAG)"
-        ]
-    },
-    {
-        "type": "item",
-        "id": 10,
-        "name": "Crystal Pistol",
-        "cost": 300,
-        "tags": [
-            "Ranged",
-            "Weapon"
-        ],
-        "description": [
-            "A magic powered gun that can deals 6 damage (1d6 on SNAG). Requires proficiency to use without LOSING LEVERAGE.",
-            "Requires magical ammo."
-        ]
-    },
-    {
-        "type": "item",
-        "id": 11,
-        "name": "Auto-Magic Rifle",
-        "cost": 500,
-        "tags": [
-            "Magical",
-            "Ranged",
-            "Weapon"
-        ],
-        "description": [
-            "Deals 1d8 damage on SUCCESS (1d4 on SNAG).",
-            "Requires magical ammo."
-        ]
-    },
-    {
-        "type": "item",
-        "id": 12,
-        "name": "Longsword",
-        "cost": 600,
-        "tags": [
-            "Melee",
-            "Weapon"
-        ],
-        "description": [
-            "Deal 3 damage (1d4 on SNAG). Add STRONG on SUCCESS."
-        ]
-    },
-    {
-        "type": "item",
-        "id": 13,
-        "name": "Crystal Rifle",
-        "cost": 700,
-        "tags": [
-            "Ranged",
-            "Weapon"
-        ],
-        "description": [
-            "A magic powered rifle that can shoot targets over far distances. Deals 6 damage (1d4 on SNAG). Add DEXTROUS to damage when shooting targets further than the THROWN, range.",
-            "Requires magical ammo."
-        ]
-    },
-    {
-        "type": "item",
-        "id": 14,
-        "name": "Scythe",
-        "cost": 800,
-        "tags": [
-            "Melee",
-            "Weapon"
-        ],
-        "description": [
-            "Deals 4 + MARTIAL & STRONG. (Deals 2 + STRONG on SNAG)"
-        ]
-    },
-    {
-        "type": "item",
-        "id": 15,
-        "name": "Crystal Sword",
-        "cost": 1000,
-        "tags": [
-            "Magical",
-            "Melee",
-            "Weapon"
-        ],
-        "description": [
-            "A clear crystalline hilt with no blade until magic is funneled into the weapon (which can be done at will and only if your MAGICAL ATTRIBUTE is more than 0).",
-            "Magic can be funneled at will or imbued. When this is done, a thin neon beam of mana in a color of your choosing extends from your blade. The thickness can vary but the length stays the same and matches the length of a standard sword.",
-            "Does 4 damage + MAGICAL and MARTIAL or 4 damage + MAGICAL & DEXTROUS on SUCCESS (1d4 damage only on SNAG)."
+            "When people ask what you make, you can start saying \"I'm doing well for myself\" now."
         ]
     }
 ]
