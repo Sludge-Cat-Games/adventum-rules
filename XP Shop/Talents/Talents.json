@@ -37,6 +37,13 @@
     {
         "type" : "talent",
         "cost" : 10,
+        "name" : "Earthy",
+        "tag" : "Natural",
+        "description" : "You can buy Natural skills for half its original XP cost."
+    },
+    {
+        "type" : "talent",
+        "cost" : 10,
         "name" : "Divine",
         "tag" : "Holy",
         "description" : "You can buy Holy skills for half its original XP cost."
