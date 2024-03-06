@@ -1,17 +1,7 @@
 # XP Shop
 
-In Adventum you have XP and you have different things you can spend it on. **SKILL UP!’s** can increase proficiency in an **ATTRIBUTE**, **TALENTS** can half the cost of **SKILLS**. And of course, **SKILLs** empower your character to do cool stuff.
+In Adventum you gain XP through failure, relationships, and group experiences you go through as a party. You can use XP to make your character more versatile and powerful via **TALENTS**, **SKILL UP!'s**, and **TALENTS**.
 
-[Talents (10 XP)](https://www.thatowlguy.com/adventum/xp-shop/talents)
+**SKILL UP!’s** can increase proficiency in an **ATTRIBUTE**, ***TALENTS** half the cost of **SKILLS**. And of course, **SKILLs** empower your character to do cool stuff through new abilities.
 
-[Skill Up!](https://www.thatowlguy.com/adventum/xp-shop/skill-up)
-
-[Tier 1 Skills (10 XP)](https://www.thatowlguy.com/adventum/xp-shop/tier-1-skills)
-
-[Tier 2 Skills (20 XP)](https://www.thatowlguy.com/adventum/xp-shop/tier-2-skills)
-
-[Tier 3 Skills (30 XP)](https://www.thatowlguy.com/adventum/xp-shop/tier-3-skills)
-
-[Tier 4 Skills (40 XP)](https://www.thatowlguy.com/adventum/xp-shop/tier-4-skills)
-
-[Tier 5 Skills (50 XP)](https://www.thatowlguy.com/adventum/xp-shop/tier-5-skills)
+_* Note: You can't stack discounts with **TALENTS**._

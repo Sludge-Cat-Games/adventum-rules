@@ -1,3 +1,5 @@
+# Relationships
+
 In Adventum, relationships aren’t only great flavor to contextualize your adventures. You can also mark them on your sheet to gain experience & get a bonus in certain social situations. To mark down a relationship on your character sheet, you need the name of the character you’re tracking, the **NATURE** of the relationship, & the **INTENSITY**.
 
 ## Nature

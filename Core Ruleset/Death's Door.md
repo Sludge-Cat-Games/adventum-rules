@@ -1,15 +1,17 @@
+# Death's Door
+
 When your character hits 0 **HP**, they are at **DEATH'S DOOR**. You will have to make a **NORMAL** roll sometime soon to determine the fate of your character. If your character does not survive, that is ok. Make sure to discuss potential plans for a new character and establish what kinds of things you want to happen in the case of a character death. If there's a **SKILL** your character has that activates on death, you have to play it before rolling **DEATH'S DOOR**.
 
 Here are the consequences of a **DEATH's DOOR** roll. (FAILURE is below chart)
 
-**SUCCESS:  
-**You have escaped the clutches of the reaper for now. You return to life with 1 HP.
+###### SUCCESS:  
+You have escaped the clutches of the reaper for now. You return to life with 1 HP.
 
-**SNAG:  
-**Look at your highest ATTRIBUTE (or ATTRIBUTES if they tie) and choose a corresponding option or the standard bargain on the Death's Bargains Chart. You also return to life with 1 HP. You can’t take the same bargain twice unless it’s the Standard Bargain.
+###### SNAG:  
+Look at your highest ATTRIBUTE (or ATTRIBUTES if they tie) and choose a corresponding option or the standard bargain on the Death's Bargains Chart. You also return to life with 1 HP. You can’t take the same bargain twice unless it’s the Standard Bargain.
 
-**FAILURE:  
-**Your character does not get back up once they drop. They might not die right now but they will soon. Make what little time they have left count.
+###### FAILURE:  
+Your character does not get back up once they drop. They might not die right now but they will soon. Make what little time they have left count.
 
 ## Death’s Bargains
 

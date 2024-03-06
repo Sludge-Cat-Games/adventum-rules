@@ -1,4 +1,6 @@
-## You Can Try
+# Rolling
+
+## You Can (Almost) Always Try
 
 When playing Adventum there will be many many MANY times where you want to do something with the chance of failure. When this happens, the **AL** will ask you to roll a d20, and the result will guide the **AL** to interpret what happens next.
 
@@ -26,7 +28,19 @@ When you succeed on a roll, you can get an elevated success if you get a 20 on t
 
 Now every action isn’t equally likely to succeed, snag, or fail. Some actions will vary in difficulty and that’s where Adventum’s **Dynamic Difficulty** (DD) comes in. When the **AL** asks you to roll, they will tell you what the **DD** type or let you know that it’s been set. The **DD** will either add or subtract from the roll, making it easier or more difficult. The **DD** levels the **AL** will use are as follows:
 
-![](https://images.squarespace-cdn.com/content/v1/5b0714251137a6cb3941db4b/8c868c5b-a8e9-48f6-a773-d5f10fadcdd4/Screen+Shot+2023-07-27+at+1.34.30+PM.png)
+|Modifier|Difficulty|
+|---|---|
+|+10|Guaranteed|
+|+8|Trivial|
+|+6|Basic|
+|+4|Simple|
+|+2|Easy|
+|+/-0|Normal|
+|-2|Hard|
+|-4|Difficult|
+|-6|Challenging|
+|-8|Severe|
+|-10|Impossible|
 
 The names should serve as a shorthand for how difficult an activity should be. Resetting a chain on a bike? Might be **BASIC**(+6). Fighting a GOBLIN? **NORMAL** (+0). Convincing a wizard that your barbarian is a magical scholar? **IMPOSSIBLE** (-10).
 
@@ -54,17 +68,20 @@ Characters in Adventum don’t have stats like in other RPG’s, but they do hav
 
 For example, let’s say that you need to convince a maester at a Wizard’s college that your Barbarian friend has a hidden talent for magic. The **AL** says that your character knows that this will be **IMPOSSIBLE** (-10) given the circumstances but one of your party members has a high **CLEVER ATTRIBUTE** , and the skill Proselytize.
 
-> **_Proselytize_**
-> 
+#### Proselytize
+>
 > _If an NPC you encounter has no strong declaration of faith or philosophy, you have a chance to convert them to your belief system._
-> 
-> _Success:  
+>
+> ###### Success  
+>
 > You successfully convinced the NPC! Huzzah! You can now use the_ **_HOLY_** _or_ **_CLEVER_ ATTRIBUTES _WITH LEVERAGE_** _when convincing, bluffing, intimidating or persuading the proselytized unless they no longer believe in your philosophy/religion._
-> 
-> _Mixed Success:  
+>
+> ###### Mixed Success  
+>
 > They see the wisdom of your belief system but remain agnostic. They are not converted but your next roll with/against that NPC is_ **_EASIER_** _(+2). You cannot attempt to Proselytize this NPC again for a long while._
-> 
-> _Failure:  
+>
+> ###### Failure  
+>
 > You represent your philosophy poorly and their opinion is unchanged or yet worsened. Your next social roll with/against this NPC_ **_LOSES LEVERAGE_** _and you can never proselytize them again._
 
 If your proselytizing party member has leveled up their **CLEVER ATTRIBUTE** to **BASIC** (+6), and they succeed on their proselytization, they take what was an **IMPOSSIBLE** situation and made it **DIFFICULT** (-10 to -4). And on top of that, the skill grants them **LEVERAGE** in social situations.
@@ -88,4 +105,4 @@ When rolling one of these general actions, the **AL** determines the consequence
 
 ## **LEVERAGE**
 
-Very simply, if you have **LEVERAGE** in a situation, you roll twice and take the higher result. If you **LOSE**, **LOST** or in a situation that **LOSES LEVERAGE**, you roll twice but take the lower result.
+Very simply, if you have **LEVERAGE** in a situation, you roll twice and take the higher result. If you **LOSE**, **LOST** or in a situation that **LOSES LEVERAGE**, you roll twice and take the lower result.
