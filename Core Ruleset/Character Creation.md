@@ -1,12 +1,12 @@
 # Character Creation
 
-Here are all pieces that make your beautiful, misunderstood, tragic OC alive and real in the world of Adventum. Make your character here and and refere to this guide to know what all the parts of your character sheet mean!
+Here are all pieces that make your beautiful, misunderstood, tragic OC alive and real in the world of Adventum. Make your character here and and refer to this guide to know what all the parts of your character sheet mean!
 
-## Name*
+## Name
 
 Name your Character.
 
-## Attributes*
+## Attributes
 
 By default, all of your **ATTRIBUTES** are set to +0. You can increase any 1 **ATTRIBUTE** by 1 if you subtract 1 point from another. You can increase any **ATTRIBUTE** this way up to +2, but there is no limit to how low you can drop an **ATTRIBUTE** (so be careful). At the end of character creation, your starting **ATTRIBUTES** should average out to 0.
 
@@ -26,15 +26,15 @@ You can adjust your stats yourself when making a new character but you can only 
 
 You can spend XP on **SKILL UP!’s** to increase **ATTRIBUTES** but not on **ATTRIBUTES** directly
 
-### **Skills**
+### Skills
 
 Over the course of an adventure, your character can earn up to 200 **XP**. Any **SKILL** can be bought at and there is over 1600 **XP** worth of **SKILLS** that span 5 Tiers. Each successive tier’s **SKILLS** cost more than the last so make sure to take advantage of **TALENTS** for discounts!
 
-## HP *
+## HP
 
 Your character’s default **Max HP** is 10, but it can be increased with purchased **SKILLs**.
 
-## Starting Equipment *
+## Starting Equipment
 
 By default your character has clothes, a bag to carry items, and 3 items from the starter items list. Any additional possessions need to be brought up and approved by the **AL**.
 
