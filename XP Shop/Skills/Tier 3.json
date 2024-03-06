@@ -15,8 +15,9 @@
         "name" : "Blooded",
         "tags" : ["Strong"],
         "description" : [
-            "When your damage on an enemy is an even number, that enemy is now Blooded.",
-            "Every time you attack that enemy after they are Blooded (until they are defeated or combat ends), add a d6 to the damage."
+            "When you roll damage for an attack on an enemy and get an even number, that enemy is now Blooded.",
+            "Every time you attack that enemy after they are Blooded (until they are defeated or combat ends), add STRONG to the damage.",
+            "_(If you add STRONG to your damage through other moves, Blooded STRONG damage still applies)_"
         ],
         "success" : [],
         "snag": [],

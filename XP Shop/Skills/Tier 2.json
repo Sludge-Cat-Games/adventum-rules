@@ -193,7 +193,14 @@
         "cost" : 20,
         "name" : "Latent Abilities",
         "tags" : ["Magical", "Martial"],
-        "description" : [],
+        "description" : [
+            "You now unlock more abilities with your ki. You now gain these supernatural talents you can spend your ki points on.",
+            "- You can add ki points to healing rolls.",
+            "- You can add ki points to awareness and alertness rolls.",
+            "- You can spend a ki point to make a point of light that stays in place, or goes at a constant velocity until it hits a solid object. You can spend an additional point to adjust its brightness or its color.",
+            "- You can spend 2 ki points to float in place or glide moderate distances."
+
+        ],
         "success" : [],
         "snag": [],
         "fail": []
@@ -217,7 +224,7 @@
     {
         "type" : "skill",
         "cost" : 20,
-        "name" : "Parry",
+        "name" : "Proselytize",
         "tags" : ["Clever", "Holy"],
         "description" : [
             "If an NPC you encounter has no strong declaration of faith or philosophy, you have a chance to convert them to your belief system.",
@@ -237,7 +244,7 @@
             "- You gain 1d4 Anger points.",
             "- Every time you get hit, you gain 1 Anger point.",
             "- 1 ANGER point can be spent at any time to heal yourself 1 HP.",
-            "- You can spend 1 Anger point to add +1 to any STRONG roll",
+            "- You can spend 1 Anger point to add +1 to any STRONG roll.",
             "Your next roll must be used to attack, or defend from harm. If you fail to do either, or do a different action, lose 1 ANGER point.",
             "Once you have 0 Anger, RAGE! ends. If you end RAGE! before exhausting your points, you lose all but 1 ANGER point."
         ],
