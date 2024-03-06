@@ -1,4 +1,6 @@
-# Session 0 Part 1:  Don’ts & Do’s
+# Don’ts & Do’s
+
+## Session 0: Part 1
 
 Before every campaign of Adventum, you will require a world for your adventures to take place in. And that can be done in your first session or session 0. While the full alpha ruleset will take a while to come out, hopefully, you can find some enjoyment in generating some interesting worlds for fun! Looking over the rules, you’ll see here that a LOT of initial world creation has less to do with the actual gritty details of the fiction and more about an agreement between the players. At the end of the day we’re all just playing pretend and any creative decisions made during play aren’t done by dice, but by people. And remember, we’re all just here to have fun!
 
@@ -38,7 +40,7 @@ During this check in, more Do’s can definitely be added to the list if they co
 
 Now, after going through both sections, you might find that a Don’t might intersect with a Do. Here are some things to remember when resolving these intersections.
 
-### Don’ts have priority over Do’s.
+### Don’ts have priority over Do’s
 
 If a Do seems to override a Don’t, it probably shouldn’t be there. There are always exceptions, however, in general, not being able to do one thing you like does not override ruining the game for someone else.
 

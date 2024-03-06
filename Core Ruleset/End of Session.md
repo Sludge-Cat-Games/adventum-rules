@@ -1,3 +1,5 @@
+# End of Session
+
 At the end of every Adventum session the AL should conclude your rousing story with a few questions. Depending on what happened during the game, you and your party might earn extra experience which they can spend now or use during the next session. First, we have individual questions per character, and then Party questions for all the heroes at the table.
 
 ## Individual questions
@@ -12,14 +14,9 @@ You can only report 1 **INVOKING** of a relationship per session. You have have 
 ## Party Questions
 
 - Have we learned anything useful?
-    
 - Have we obtained a rare or special item?
-    
 - Have we defeated a notable or powerful enemy?
-    
 - Have we completed an important quest?
-    
 - Have we made an important ally?
-    
 
 Everyone in the adventuring party receives 1 **XP** to any party question answered "yes".
