@@ -12,7 +12,7 @@ The spell’s **EFFECT** is successfully cast at the spell’s specified **RANGE
 
 ###### SNAG  
 
-**Choose one:**  
+Choose one:
 - Arcane Amnesia: You put too much energy into this incantation and lose your memory of the spell. You can’t cast this spell again until you have the time and space to meditate on the arcane.  
 - Side Effect: Suffer a random consequence on the Magic Side Effects Table.  
   

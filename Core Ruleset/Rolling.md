@@ -48,21 +48,14 @@ The names should serve as a shorthand for how difficult an activity should be. R
 
 Characters in Adventum don’t have stats like in other RPG’s, but they do have **ATTRIBUTES**. **ATTRIBUTES** are added to the **DD** to get the actual modifier for the roll. By default, characters start with no **ATTRIBUTES** but they can gain them when they learn a skill with those **ATTRIBUTE** types and skills. The **ATTRIBUTES** in Adventum are:
 
-**CLEVER**
-
-**DEXTROUS**
-
-**HOLY**
-
-**IRREVERENT**
-
-**MAGICAL**
-
-**MARTIAL**
-
-**NATURAL**
-
-**STRONG**
+- **CLEVER**
+- **DEXTROUS**
+- **HOLY**
+- **IRREVERENT**
+- **MAGICAL**
+- **MARTIAL**
+- **NATURAL**
+- **STRONG**
 
 **ATTRIBUTES** follow the same scaling as **Dynamic Difficulty**. Rolls that can utilize an **ATTRIBUTE** will add that **ATTRIBUTES** difficulty to the **DYNAMIC DIFFICULTY** that would normally be associated with that roll.
 
