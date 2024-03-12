@@ -46,7 +46,7 @@
         "name" : "Divine Judgement",
         "tags" : ["Holy"],
         "description" : [
-            "If you view someone committing a sin in your god’s eyes, or you can prove that they did something morally reprehensible, you can mark them for judgment.",
+            "If you view someone committing a sin in your god's eyes, or you can prove that they did something morally reprehensible, you can mark them for judgment.",
             "When dealing with a target marked for judgement, you can use your HOLY ATTRIBUTE when rolling against it. Even if the HOLY ATTRIBUTE would not normally apply.",
             "You can only mark one target at a time. You cannot switch judgement targets until you’ve rolled against the first target, or a day passes (Whichever comes first)."
         ],

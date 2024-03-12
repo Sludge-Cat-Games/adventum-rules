@@ -3,14 +3,13 @@
         "type" : "skill",
         "cost" : 20,
         "name" : "Alchemist",
-        "tags" : ["Clever", "Irreverent"],
+        "tags" : ["Clever", "Natural"],
         "description" : [
-            "You've discovered how to cobble together a poison or potion in your free time. Once a day, you can make 1 of the following concoctions. You can buy this move more than once to be able to make more than one kind of concoction. To get your concoction into your target, it must be ingested or injected.",
+            "You've discovered how to make concoctions in accordance with the Alchemy rules for <Link to=\"/alchemy\">Concocting</Link>. All of your concoctions are potions and appear as potions.",
+            "You can craft 1 concoction a day.",
             "Concoctions:",
-            "- Sleep Potion: The affected target falls into a light slumber. Touches, noise, or any notable commotion can rouse the afflicted from their slumber.",
             "- Health Potion: The affected target (if it is alive) is healed for 1d4 HP.",
             "- Damage Poison: The affected target suffers 1d4 damage. If the poison is coating a weapon, it can be considered “injected” on Successful attack rolls with the coated weapon.",
-            "You can also learn a new concoction for 5 XP if you spend 1 week studying a sample of a potion. You can only study a potion if you can identify what it is and know what its effects are."
         ],
         "success" : [],
         "snag": [],

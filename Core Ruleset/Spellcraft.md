@@ -1,6 +1,6 @@
-# The Arcane
+# Spellcraft
 
-Most skills need no further explanation; but that is before delving into the study of the arcane. Whether you have a natural talent or have invested time (& XP) into your magical studies, there are some things you need to know when spellcasting, spell-crafting, and what happens when a spell goes wrong.
+Most skills need no further explanation; but that is before delving into the study of the arcane. Whether you have a talent or have invested time (& XP) into your magical studies, there are some things you need to know when spellcasting, spell-crafting, and what happens when a spell goes wrong.
 
 ## Spellcasting
 
@@ -22,7 +22,7 @@ The spell does not cast, and you experience Arcane Burn.
 
 ## Magic Side Effects
 
-|**Number**|**Effect**|**Description**|
+|**Number**|**Spell Effect**|**Description**|
 |---|---|---|
 |1|Light|After the spell is cast, you glow a color of the AL’s choice for 1 hour.|
 |2|Unintended Healing|The target gets healed for 1d4 damage.|
@@ -76,6 +76,10 @@ You are able write the spell but there are some kinks that need to be worked out
 
 You fail to craft your spell.
 
+###### CRIT
+
+You've created a signature spell. You have LEVERAGE whenever you cast this spell.
+
 ### How to make an Arcane Ward (An example of Spellcrafting)
 
 To craft an “Arcane Ward” or magical warding spell, you’ll need a few things.
@@ -87,8 +91,8 @@ To craft an “Arcane Ward” or magical warding spell, you’ll need a few thin
 3) The Spellcrefting Difficulty is: **NORMAL** (+0) - Range Cost - Effect Cost = **DD**  
 So for our ward, it is (+0) - Touch (1) - Tier 4 (10) = **-14**.
 
-4) We roll using our **CLEVER** **ATTRIBUTE**, which is **SIMPLE** (+4), and get a 12 (18 + 4 - 10). This is a **SNAG,** so we'll adjust it by making it **QUIRKY** (_Unintended Side Effect_).
+1) We roll using our **CLEVER** **ATTRIBUTE**, which is **SIMPLE** (+4), and get a 12 (18 + 4 - 10). This is a **SNAG** 
 
-5) We rolled on the Magic Side Effects table and got a 2. We’ll now add _“does +1d4 healing”_ to our spell’s effect.
+2) We'll choose the QUIRKY consequende. We rolled on the Magic Side Effects table and got a 2. We’ll now add _“does +1d4 healing”_ to our spell’s effect.
 
-6) So now we have a “Quirky Healing Arcane Ward” with a **RANGE** of **Touch** and an **EFFECT** of healing 1d4 health at casting, as well as reducing magical damage by 1d6 for 1 hour.
+3) So now we have a “Quirky Healing Arcane Ward” with a **RANGE** of **Touch** and an **EFFECT** of healing 1d4 health at casting, as well as reducing magical damage by 1d6 for 1 hour.
