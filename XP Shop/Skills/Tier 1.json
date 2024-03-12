@@ -32,15 +32,9 @@
         "description": [
             "Wearing HEAVY armor no longer makes you LOSE LEVERAGE."
         ],
-        "success": [
-            ""
-        ],
-        "snag": [
-            ""
-        ],
-        "fail": [
-            ""
-        ]
+        "success": [],
+        "snag": [],
+        "fail": []
     },
     {
         "type": "skill",
@@ -109,15 +103,9 @@
             "- Blessings",
             "- Curses"
         ],
-        "success": [
-            ""
-        ],
-        "snag": [
-            ""
-        ],
-        "fail": [
-            ""
-        ]
+        "success": [],
+        "snag": [],
+        "fail": []
     },
     {
         "type": "skill",
@@ -129,15 +117,9 @@
         "description": [
             "Once a day, you can petition your benevolent spirit, god, or gods to guide you on the right path. They may steer you into or away from danger as is appropriate for their care or plans for you. However, the direction they point you to can only be communicated in coincidences, tricks of lights, or other common physical phenomena."
         ],
-        "success": [
-            ""
-        ],
-        "snag": [
-            ""
-        ],
-        "fail": [
-            ""
-        ]
+        "success": [],
+        "snag": [],
+        "fail": []
     },
     {
         "type": "skill",
@@ -215,15 +197,9 @@
         "description": [
             "You can use your Grace ATTRIBUTE in social situations with people who have the same god/faith/or philosophy as you."
         ],
-        "success": [
-            ""
-        ],
-        "snag": [
-            ""
-        ],
-        "fail": [
-            ""
-        ]
+        "success": [],
+        "snag": [],
+        "fail": []
     },
     {
         "type": "skill",
@@ -260,15 +236,9 @@
             "Instead of defending yourself from harm, you can choose to take the damage instead and attack them as if you attacked the target successfully.",
             "To be able to take your revenge, you need to be able to attack the target normally. If you wouldn't be able to attack your assailant normally, you can't take revenge either."
         ],
-        "success": [
-            ""
-        ],
-        "snag": [
-            ""
-        ],
-        "fail": [
-            ""
-        ]
+        "success": [],
+        "snag": [],
+        "fail": []
     },
     {
         "type": "skill",
@@ -301,15 +271,9 @@
         "description": [
             "Permanently add 5 HP to your Max HP."
         ],
-        "success": [
-            ""
-        ],
-        "snag": [
-            ""
-        ],
-        "fail": [
-            ""
-        ]
+        "success": [],
+        "snag": [],
+        "fail": []
     },
     {
         "type": "skill",
@@ -350,15 +314,9 @@
         "description": [
             "For any survivalist situation, roll with LEVERAGE."
         ],
-        "success": [
-            ""
-        ],
-        "snag": [
-            ""
-        ],
-        "fail": [
-            ""
-        ]
+        "success": [],
+        "snag": [],
+        "fail": []
     },
     {
         "type": "skill",
@@ -376,15 +334,9 @@
             "- Rifle",
             "- Crossbow"
         ],
-        "success": [
-            ""
-        ],
-        "snag": [
-            ""
-        ],
-        "fail": [
-            ""
-        ]
+        "success": [],
+        "snag": [],
+        "fail": []
     },
     {
         "type": "skill",
@@ -403,15 +355,9 @@
             "- Heavy",
             "- Flail"
         ],
-        "success": [
-            ""
-        ],
-        "snag": [
-            ""
-        ],
-        "fail": [
-            ""
-        ]
+        "success": [],
+        "snag": [],
+        "fail": []
     },
     {
         "type": "skill",
@@ -424,15 +370,9 @@
         "description": [
             "You have the ability to talk to animals. By talking to animals you can convince them to do simple tasks, get a survey of certain areas, or even befriend them (Given the animal has an amicable disposition)."
         ],
-        "success": [
-            ""
-        ],
-        "snag": [
-            ""
-        ],
-        "fail": [
-            ""
-        ]
+        "success": [],
+        "snag": [],
+        "fail": []
     },
     {
         "type": "skill",
@@ -445,15 +385,9 @@
         "description": [
             "Whenever you try to steal something from someone off their person, roll WITH LEVERAGE."
         ],
-        "success": [
-            ""
-        ],
-        "snag": [
-            ""
-        ],
-        "fail": [
-            ""
-        ]
+        "success": [],
+        "snag": [],
+        "fail": []
     },
     {
         "type": "skill",
@@ -465,14 +399,8 @@
         "description": [
             "You are proficient at hand to hand combat. Instead of dealing 1 damage, unarmed, you now deal 1d4 damage."
         ],
-        "success": [
-            ""
-        ],
-        "snag": [
-            ""
-        ],
-        "fail": [
-            ""
-        ]
+        "success": [],
+        "snag": [],
+        "fail": []
     }
 ]

@@ -12,15 +12,9 @@
             "Faith:",
             "You can spend faith whenever you want in exchange for invulnerability when you or another player would incur harm/receive damage. Even if the damage would be lethal, you can spend a faith point to nullify the damage."
         ],
-        "success": [
-            ""
-        ],
-        "snag": [
-            ""
-        ],
-        "fail": [
-            ""
-        ]
+        "success": [],
+        "snag": [],
+        "fail": []
     },
     {
         "type": "skill",
@@ -78,14 +72,59 @@
             "You can now change into any animal in your domain. Your domain can also be 1 animal of your choice instead of a type of environment",
             "When you transform into an animal that weighs more than twice the average humanoid (360 lbs / 160 kgs), your max HP is doubled."
         ],
+        "success": [],
+        "snag": [],
+        "fail": []
+    },
+    {
+        "type": "skill",
+        "cost": 50,
+        "name": "Herculean Strength",
+        "tags": [
+            "Strong"
+        ],
+        "description": [
+            "Through great effort, training, and god given talent. You are able to lift anything, break anything, and throw anything that isn't apart of the earth itself (but at great exertion)."
+        ],
         "success": [
-            ""
+            "You successfully lift this weight with great exertion and efficacy. You decide what to do with it, but decide quickly!"
         ],
         "snag": [
-            ""
+            "You are able to lift this weight but under great strain. Your take 1d10 damage. If you're brought down to or past 0, your hp is set to 1."
         ],
         "fail": [
-            ""
+            "You are unable carry this burden. If you are under the object, you are crushed for 1d20 damage."
+        ]
+    },
+    {
+        "type": "skill",
+        "cost": 50,
+        "name": "Secret Technique",
+        "tags": [
+            "Martial"
+        ],
+        "description": [
+            "You are a martial genius and have come up with a secret technique that is as dangerous as it is powerful. The strain it puts on your body makes it risky to use more than once. Before you strike down any foes, use your wisdom and prowess to define your master technique. Please define the technique's Method, Effect, and Risk.",
+            "**Method**:",
+            "- Pressure Point: Where on the body do you have to touch your opponent?",
+            "- Strike: How and what weapon must you strike them so they feel the power of your technique?",
+            "- Ki: If you are able to use Ki (or magic) where must the energy be drawn?",
+            "Effect:",
+            "- Incapacitation: Your foe falls asleep and cannot be awoken for a day by any means. On Failure, you suffer the same fate. This works on any being that is biologically alive or utilizes magic/ki.",
+            "- Amputation: Your foe loses a limb of your choice, but the cut is clean and you deal damage as if you had attacked normally. After a limb is lost, you gain Leverage on your opponent for the rest of the battle.",
+            "- Obliteration: You automatically do max damage on your attack. And crit on a success,",
+            "- Equal & Opposite: You suffer the same fate that you would have inflicted upon your foe.",
+            "- Unbalanced: You lose 2 Leverage with Martial Skills for the rest of combat.",
+            "- Terrible Cost: You can continue to fight as normal. However, your loss is more foreboding. Roll 1d4. Your Max HP decreases by this much. Permanently."
+        ],
+        "success": [
+            "Using your chosen method, the effect of your secret technique is realized."
+        ],
+        "snag": [
+            "Using your chosen method, the effect of your secret technique is realized. However, it strains your body. You receive 1d10 damage and you roll with 1 less Leverage while in combat, or until you are healed outside of combat."
+        ],
+        "fail": [
+            "The effect of your method is not realized. You fall to the Risk of your secret technique."
         ]
     }
 ]

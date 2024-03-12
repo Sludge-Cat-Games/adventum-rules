@@ -10,15 +10,9 @@
         "description": [
             "If you fully succeed in attacking a target that’s unaware of you (or while you’re stealthed), double the damage dice you would use to attack the target."
         ],
-        "success": [
-            ""
-        ],
-        "snag": [
-            ""
-        ],
-        "fail": [
-            ""
-        ]
+        "success": [],
+        "snag": [],
+        "fail": []
     },
     {
         "type": "skill",
@@ -31,15 +25,9 @@
             "When your damage on an enemy is an even number, that enemy is now Blooded.",
             "Every time you attack that enemy after they are Blooded (until they are defeated or combat ends), add a d6 to the damage."
         ],
-        "success": [
-            ""
-        ],
-        "snag": [
-            ""
-        ],
-        "fail": [
-            ""
-        ]
+        "success": [],
+        "snag": [],
+        "fail": []
     },
     {
         "type": "skill",
@@ -78,15 +66,9 @@
             "When dealing with a target marked for judgement, you can use your Grace ATTRIBUTE when rolling against it. Even if the Grace ATTRIBUTE would not normally apply.",
             "You can only mark one target at a time. You cannot switch judgement targets until you’ve rolled against the first target, or a day passes (Whichever comes first)."
         ],
-        "success": [
-            ""
-        ],
-        "snag": [
-            ""
-        ],
-        "fail": [
-            ""
-        ]
+        "success": [],
+        "snag": [],
+        "fail": []
     },
     {
         "type": "skill",
@@ -258,14 +240,8 @@
         "description": [
             "You can know and cast cast the 1st 5 rows ot the Magic Side Effects table as spells."
         ],
-        "success": [
-            ""
-        ],
-        "snag": [
-            ""
-        ],
-        "fail": [
-            ""
-        ]
+        "success": [],
+        "snag": [],
+        "fail": []
     }
 ]

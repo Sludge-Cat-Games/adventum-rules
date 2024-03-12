@@ -10,15 +10,9 @@
         "description": [
             "You are now able to transform into animals in your domain. The animal you can transform into can’t weigh more than the average humanoid (150 lbs / 70 kg)."
         ],
-        "success": [
-            ""
-        ],
-        "snag": [
-            ""
-        ],
-        "fail": [
-            ""
-        ]
+        "success": [],
+        "snag": [],
+        "fail": []
     },
     {
         "type": "skill",
@@ -31,15 +25,9 @@
             "You have a knack for defying and navigating authoritarian structures.",
             "You now always have LEVERAGE and can use your IRREVERENT ATTRIBUTE when dealing with someone who would normally have authority over you."
         ],
-        "success": [
-            ""
-        ],
-        "snag": [
-            ""
-        ],
-        "fail": [
-            ""
-        ]
+        "success": [],
+        "snag": [],
+        "fail": []
     },
     {
         "type": "skill",
@@ -95,15 +83,9 @@
         "description": [
             "If you roll a 1 on any CLEVER die roll, you can reroll the die. You must take the result of the 2nd roll."
         ],
-        "success": [
-            ""
-        ],
-        "snag": [
-            ""
-        ],
-        "fail": [
-            ""
-        ]
+        "success": [],
+        "snag": [],
+        "fail": []
     },
     {
         "type": "skill",
@@ -116,15 +98,9 @@
         "description": [
             "Your rippling muscles resist even the reality rending effects of magic. When you are damaged by a spell or magic, you can roll 1d6 to reduce the damage by that amount."
         ],
-        "success": [
-            ""
-        ],
-        "snag": [
-            ""
-        ],
-        "fail": [
-            ""
-        ]
+        "success": [],
+        "snag": [],
+        "fail": []
     },
     {
         "type": "skill",
@@ -160,15 +136,9 @@
             "You can now craft spells and record them with your grimoire. When you learn a new spell, you can extract its SUCCESS consequence as an EFFECT for 5 XP. Any EFFECT you know can be used in spell crafting. If the skill doesn't have a success decision because it is a passive, you gain the ability for 1 hour or until you choose to dismiss the spell.",
             "To craft a spell, look at the spell-craft guidelines"
         ],
-        "success": [
-            ""
-        ],
-        "snag": [
-            ""
-        ],
-        "fail": [
-            ""
-        ]
+        "success": [],
+        "snag": [],
+        "fail": []
     },
     {
         "type": "skill",
@@ -180,14 +150,8 @@
         "description": [
             "You can now gain KNOWLEDGE for Enchantments from IRREVERENT Skills too. You can also use IRREVERENT as your ATTUNEMENT and ENCHANTING ATTRIBUTE as well."
         ],
-        "success": [
-            ""
-        ],
-        "snag": [
-            ""
-        ],
-        "fail": [
-            ""
-        ]
+        "success": [],
+        "snag": [],
+        "fail": []
     }
 ]
