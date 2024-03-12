@@ -74,7 +74,7 @@ You are able write the spell but there are some kinks that need to be worked out
 
 ###### FAIL
 
-You fail to craft your spell.
+You fail to craft your spell. You must take 1 week to recoup and stuy before attempting to craft another spell.
 
 ###### CRIT
 

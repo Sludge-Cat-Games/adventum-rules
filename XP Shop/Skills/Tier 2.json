@@ -1,244 +1,456 @@
 [
     {
-        "type" : "skill",
-        "cost" : 20,
-        "name" : "Alchemist",
-        "tags" : ["Clever", "Natural"],
-        "description" : [
-            "You've discovered how to make concoctions in accordance with the Alchemy rules for <Link to=\"/alchemy\">Concocting</Link>. All of your concoctions are potions and appear as potions.",
-            "You can craft 1 concoction a day.",
+        "type": "skill",
+        "cost": 20,
+        "name": "Alchemist",
+        "tags": [
+            "Clever",
+            "Irreverent"
+        ],
+        "description": [
+            "You've discovered how to cobble together a poison or potion in your free time. Once a day, you can make 1 of the following concoctions. You can buy this move more than once to be able to make more than one kind of concoction. To get your concoction into your target, it must be ingested or injected.",
             "Concoctions:",
+            "- Sleep Potion: The affected target falls into a light slumber. Touches, noise, or any notable commotion can rouse the afflicted from their slumber.",
             "- Health Potion: The affected target (if it is alive) is healed for 1d4 HP.",
             "- Damage Poison: The affected target suffers 1d4 damage. If the poison is coating a weapon, it can be considered “injected” on Successful attack rolls with the coated weapon.",
+            "You can also learn a new concoction for 5 XP if you spend 1 week studying a sample of a potion. You can only study a potion if you can identify what it is and know what its effects are."
         ],
-        "success" : [],
-        "snag": [],
-        "fail": []
+        "success": [
+            ""
+        ],
+        "snag": [
+            ""
+        ],
+        "fail": [
+            ""
+        ]
     },
     {
-        "type" : "skill",
-        "cost" : 20,
-        "name" : "Archery",
-        "tags" : ["Dextrous", "Martial"],
-        "description" : ["You are able to handle a single type of ranged weapon without LOSING LEVERAGE."],
-        "success" : [],
-        "snag": [],
-        "fail": []
+        "type": "skill",
+        "cost": 20,
+        "name": "Archery",
+        "tags": [
+            "Dextrous",
+            "Martial"
+        ],
+        "description": [
+            "You are able to handle a single type of ranged weapon without LOSING LEVERAGE."
+        ],
+        "success": [
+            ""
+        ],
+        "snag": [
+            ""
+        ],
+        "fail": [
+            ""
+        ]
     },
     {
-        "type" : "skill",
-        "cost" : 20,
-        "name" : "Animal Companion",
-        "tags" : ["Natural"],
-        "description" : [
+        "type": "skill",
+        "cost": 20,
+        "name": "Animal Companion",
+        "tags": [
+            "Natural"
+        ],
+        "description": [
             "You are now able to develop a deep bond that renders what would be an animal friend into an animal companion. To turn an animal into a companion, you need to be on good standing with the animal. You can only have 1 companion at a time.",
             "Animal companions confer these benefits:",
             "- They can complete simple tasks that are physically possible for the creature.",
             "- The animal can't deal damage on its own, but it can attack in tandem with you. When performing a “Tandem Attack” add a d4 in damage.",
             "- If the animal is physically/cognitively able, it can give you +1 to a roll when assisting you, including “Tandem Attacks”."
         ],
-        "success" : [],
-        "snag": [],
-        "fail": []
+        "success": [
+            ""
+        ],
+        "snag": [
+            ""
+        ],
+        "fail": [
+            ""
+        ]
     },
     {
-        "type" : "skill",
-        "cost" : 20,
-        "name" : "Balance",
-        "tags" : ["Natural"],
-        "description" : [
+        "type": "skill",
+        "cost": 20,
+        "name": "Balance",
+        "tags": [
+            "Natural"
+        ],
+        "description": [
             "When you are attacked or healed by someone else, you can roll a d4. The result is the amount of “balance” you currently have. You cannot stack balance and rolling balance discards any balance you already have.",
             "You can use \"balance\" to add to other player's attempt rolls or your own damage rolls."
         ],
-        "success" : [],
-        "snag": [],
-        "fail": []
+        "success": [
+            ""
+        ],
+        "snag": [
+            ""
+        ],
+        "fail": [
+            ""
+        ]
     },
     {
-        "type" : "skill",
-        "cost" : 20,
-        "name" : "Curse",
-        "tags" : ["Irreverent", "Magical"],
-        "description" : [
+        "type": "skill",
+        "cost": 20,
+        "name": "Curse",
+        "tags": [
+            "Irreverent",
+            "Magical"
+        ],
+        "description": [
             "Through an occult petition, you can choose to curse a single target or object. When you attempt to curse someone or something:"
         ],
-        "success" : ["You successfully curse your target. Roll a d4 and record the result. For the duration of the curse, when someone acts against the target (and never when aiding it), add that result to their roll."],
-        "snag": ["You successfully curse the target but can't avoid the twist of fate. Your next roll LOSES LEVERAGE."],
-        "fail": ["You fail to curse your target and need to pay for your hubris. Receive 1d4 damage that ignores armor."]
-    },
-    {
-        "type" : "skill",
-        "cost" : 20,
-        "name" : "Divination",
-        "tags" : ["Grace", "Magical"],
-        "description" : [
-            "Once a day, you can roll a d20 to receive a portent. Portents can, at any time, replace a player's roll or a DD. If you are adjusting a DD with your roll, the new DD aligns with your portent as follows:",
-            "|Number|DD|Modifier|",
-            "|---|---|---|",
-            "|20|Guaranteed|+10",
-            "|18-19|Trivial|+8|",
-            "|16-17|Basic|+6|",
-            "|14-15|Simple|+4|",
-            "|12-13|Easier|+2|",
-            "|10-11|Normal|+/- 0|",
-            "|8-9|Harder|-2|",
-            "|6-7|Difficult|-4|",
-            "|4-5|Challenging|-6|",
-            "|2-3|Severe|-8|",
-            "|1|Impossible|1|"
+        "success": [
+            "You successfully curse your target. Roll a d4 and record the result. For the duration of the curse, when someone acts against the target (and never when aiding it), add that result to their roll."
         ],
-        "success" : [],
-        "snag": [],
-        "fail": []
+        "snag": [
+            "You successfully curse the target but can't avoid the twist of fate. Your next roll LOSES LEVERAGE."
+        ],
+        "fail": [
+            "You fail to curse your target and need to pay for your hubris. Receive 1d4 damage that ignores armor."
+        ]
     },
     {
-        "type" : "skill",
-        "cost" : 20,
-        "name" : "Do You Even Lift?",
-        "tags" : ["Strong"],
-        "description" : ["When a heavy object that no normal person could carry is in front of you, you attempt to lift it with the STRONG ATTRIBUTE. This object can't be more than 10 ft in diameter."],
-        "success" : ["You can hold the object above your head and carry it for as long as you need to but no longer."],
-        "snag": ["You can lift the object out of they way or take it to where you want but under great duress."],
-        "fail": ["Your technique is off and instead of lifting the object, you pull a muscle. Take 1d6 damage that ignores armor."]
+        "type": "skill",
+        "cost": 20,
+        "name": "Divination",
+        "tags": [
+            "Grace",
+            "Magical"
+        ],
+        "description": [
+            "Once a day, you can roll a d20 to receive a portent. Portents can, at any time, replace a player's roll or a DD. If you are adjusting a DD with your roll, the new DD aligns with your portent as follows:",
+            "",
+            "Number",
+            "DD",
+            "Modifier",
+            "",
+            "",
+            "---",
+            "---",
+            "---",
+            "",
+            "",
+            "20",
+            "Guaranteed",
+            "+10",
+            "",
+            "18-19",
+            "Trivial",
+            "+8",
+            "",
+            "",
+            "16-17",
+            "Basic",
+            "+6",
+            "",
+            "",
+            "14-15",
+            "Simple",
+            "+4",
+            "",
+            "",
+            "12-13",
+            "Easier",
+            "+2",
+            "",
+            "",
+            "10-11",
+            "Normal",
+            "+/- 0",
+            "",
+            "",
+            "8-9",
+            "Harder",
+            "-2",
+            "",
+            "",
+            "6-7",
+            "Difficult",
+            "-4",
+            "",
+            "",
+            "4-5",
+            "Challenging",
+            "-6",
+            "",
+            "",
+            "2-3",
+            "Severe",
+            "-8",
+            "",
+            "",
+            "1",
+            "Impossible",
+            "1",
+            ""
+        ],
+        "success": [
+            ""
+        ],
+        "snag": [
+            ""
+        ],
+        "fail": [
+            ""
+        ]
     },
     {
-        "type" : "skill",
-        "cost" : 20,
-        "name" : "Elemental Infusion: Air",
-        "tags" : ["Martial", "Natural", "Magical"],
-        "description" : [
+        "type": "skill",
+        "cost": 20,
+        "name": "Do You Even Lift?",
+        "tags": [
+            "Strong"
+        ],
+        "description": [
+            "When a heavy object that no normal person could carry is in front of you, you attempt to lift it with the STRONG ATTRIBUTE. This object can't be more than 10 ft in diameter."
+        ],
+        "success": [
+            "You can hold the object above your head and carry it for as long as you need to but no longer."
+        ],
+        "snag": [
+            "You can lift the object out of they way or take it to where you want but under great duress."
+        ],
+        "fail": [
+            "Your technique is off and instead of lifting the object, you pull a muscle. Take 1d6 damage that ignores armor."
+        ]
+    },
+    {
+        "type": "skill",
+        "cost": 20,
+        "name": "Elemental Infusion: Air",
+        "tags": [
+            "Martial",
+            "Natural",
+            "Magical"
+        ],
+        "description": [
             "When you touch or attack a target living or inert object, you can infuse it with the power of Air:",
             "- The winds blow around the target, you can move them away from you with a gust of air to a nearby location (or nearby objects)."
         ],
-        "success" : ["You successfully blow away your target."],
-        "snag": ["You successfully blow away your target but you're knocked off balance. You make your next roll with LOST LEVERAGE."],
-        "fail": ["You lose control of your wind and end up pushing yourself and not your target. You AL will tell you where you end up. If you fall, you receive 1d4 damage."]
+        "success": [
+            "You successfully blow away your target."
+        ],
+        "snag": [
+            "You successfully blow away your target but you're knocked off balance. You make your next roll with LOST LEVERAGE."
+        ],
+        "fail": [
+            "You lose control of your wind and end up pushing yourself and not your target. You AL will tell you where you end up. If you fall, you receive 1d4 damage."
+        ]
     },
     {
-        "type" : "skill",
-        "cost" : 20,
-        "name" : "Elemental Infusion: Earth",
-        "tags" : ["Martial", "Natural", "Magical"],
-        "description" : [
+        "type": "skill",
+        "cost": 20,
+        "name": "Elemental Infusion: Earth",
+        "tags": [
+            "Martial",
+            "Natural",
+            "Magical"
+        ],
+        "description": [
             "When you touch or attack a target living or inert object, you can infuse it with the power of Earth:",
             "- The earth trembles beneath your target. It is grabbed by and stuck to the ground, unable to move until the rock attaching it is broken or you release control. It is DIFFICULT (-4) to break away from the earth."
         ],
-        "success" : ["You successfully ground your target."],
-        "snag": ["You successfully ground your target, but you lose your footing. You make your next roll with LOST LEVERAGE."],
-        "fail": ["Your connection to the earth is tenuous and you end up sinking into the ground yourself. It is DIFFICULT to break away from the earth."]
+        "success": [
+            "You successfully ground your target."
+        ],
+        "snag": [
+            "You successfully ground your target, but you lose your footing. You make your next roll with LOST LEVERAGE."
+        ],
+        "fail": [
+            "Your connection to the earth is tenuous and you end up sinking into the ground yourself. It is DIFFICULT to break away from the earth."
+        ]
     },
     {
-        "type" : "skill",
-        "cost" : 20,
-        "name" : "Elemental Infusion: Fire",
-        "tags" : ["Martial", "Natural", "Magical"],
-        "description" : [
+        "type": "skill",
+        "cost": 20,
+        "name": "Elemental Infusion: Fire",
+        "tags": [
+            "Martial",
+            "Natural",
+            "Magical"
+        ],
+        "description": [
             "When you touch or attack a target living or inert object, you can infuse it with the power of Fire:",
             "- The heat of flame radiates from your body and you can deal 1d4 fire damage to your target."
         ],
-        "success" : ["You successfully burn your target. Your damage ignores armor (unless your target is fire/heat resistant)."],
-        "snag": ["You light your target, but your fire is wild. You and your target both succumb to 1d4 fire damage that ignores armor (heat resistance consideration applies here as well)."],
-        "fail": ["You're not able to fuel your fire and psych yourself out. You've LOST LEVERAGE when commanding fire until you hit a SNAG or SUCCEED to burn something."]
+        "success": [
+            "You successfully burn your target. Your damage ignores armor (unless your target is fire/heat resistant)."
+        ],
+        "snag": [
+            "You light your target, but your fire is wild. You and your target both succumb to 1d4 fire damage that ignores armor (heat resistance consideration applies here as well)."
+        ],
+        "fail": [
+            "You're not able to fuel your fire and psych yourself out. You've LOST LEVERAGE when commanding fire until you hit a SNAG or SUCCEED to burn something."
+        ]
     },
     {
-        "type" : "skill",
-        "cost" : 20,
-        "name" : "Elemental Infusion: Water",
-        "tags" : ["Martial", "Natural", "Magical"],
-        "description" : [
+        "type": "skill",
+        "cost": 20,
+        "name": "Elemental Infusion: Water",
+        "tags": [
+            "Martial",
+            "Natural",
+            "Magical"
+        ],
+        "description": [
             "When you touch or attack a target living or inert object, you can infuse it with the power of Water:",
             "- The cold of ice emanates from your fingertips and reaches your foe. Deal 1d4 cold damage to your target."
         ],
-        "success" : ["You successfully chill your target and deal 1d4 cold damage that ignore armor (unless the target has cold resistance)."],
-        "snag": ["You chill your target but the cold spreads. You and your target both succumb to 1d4 cold damage that ignores armor (cold resistance consideration applies here as well)."],
-        "fail": ["You lose your cool and lose your focus with water. You've LOST LEVERAGE when commanding water or ice until you hit a SNAG or SUCCEED to command your element."]
+        "success": [
+            "You successfully chill your target and deal 1d4 cold damage that ignore armor (unless the target has cold resistance)."
+        ],
+        "snag": [
+            "You chill your target but the cold spreads. You and your target both succumb to 1d4 cold damage that ignores armor (cold resistance consideration applies here as well)."
+        ],
+        "fail": [
+            "You lose your cool and lose your focus with water. You've LOST LEVERAGE when commanding water or ice until you hit a SNAG or SUCCEED to command your element."
+        ]
     },
     {
-        "type" : "skill",
-        "cost" : 20,
-        "name" : "Explout Leverage",
-        "tags" : ["Irreverent"],
-        "description" : ["Whenever you have "],
-        "success" : ["Whenever you have LEVERAGE, you can use your IRREVERENT ATTRIBUTE if you weren't using that already."],
-        "snag": [],
-        "fail": []
+        "type": "skill",
+        "cost": 20,
+        "name": "Explout Leverage",
+        "tags": [
+            "Irreverent"
+        ],
+        "description": [
+            "Whenever you have "
+        ],
+        "success": [
+            "Whenever you have LEVERAGE, you can use your IRREVERENT ATTRIBUTE if you weren't using that already."
+        ],
+        "snag": [
+            ""
+        ],
+        "fail": [
+            ""
+        ]
     },
     {
-        "type" : "skill",
-        "cost" : 20,
-        "name" : "Healthy",
-        "tags" : ["Strong"],
-        "description" : ["Permanently add 10 to your max HP."],
-        "success" : [],
-        "snag": [],
-        "fail": []
+        "type": "skill",
+        "cost": 20,
+        "name": "Healthy",
+        "tags": [
+            "Strong"
+        ],
+        "description": [
+            "Permanently add 10 to your max HP."
+        ],
+        "success": [
+            ""
+        ],
+        "snag": [
+            ""
+        ],
+        "fail": [
+            ""
+        ]
     },
     {
-        "type" : "skill",
-        "cost" : 20,
-        "name" : "Hit & Run",
-        "tags" : ["Dextrous"],
-        "description" : [
+        "type": "skill",
+        "cost": 20,
+        "name": "Hit & Run",
+        "tags": [
+            "Dextrous"
+        ],
+        "description": [
             "After a fully SUCCESSFUL attack against a target, you can use their blind spot or nearby cover to hide from your target.",
             "You are not automatically hidden from targets you haven't attacked. However, the AL may give you the opportunity to hide from them after this skill is used.",
             "You can't \"Hit & Run\" if you hit a SNAG."
         ],
-        "success" : [],
-        "snag": [],
-        "fail": []
+        "success": [
+            ""
+        ],
+        "snag": [
+            ""
+        ],
+        "fail": [
+            ""
+        ]
     },
     {
-        "type" : "skill",
-        "cost" : 20,
-        "name" : "Latent Abilities",
-        "tags" : ["Magical", "Martial"],
-        "description" : [
+        "type": "skill",
+        "cost": 20,
+        "name": "Latent Abilities",
+        "tags": [
+            "Magical",
+            "Martial"
+        ],
+        "description": [
             "You now unlock more abilities with your ki. You now gain these supernatural talents you can spend your ki points on.",
             "- You can add ki points to healing rolls.",
             "- You can add ki points to awareness and alertness rolls.",
             "- You can spend a ki point to make a point of light that stays in place, or goes at a constant velocity until it hits a solid object. You can spend an additional point to adjust its brightness or its color.",
             "- You can spend 2 ki points to float in place or glide moderate distances."
-
         ],
-        "success" : [],
-        "snag": [],
-        "fail": []
+        "success": [
+            ""
+        ],
+        "snag": [
+            ""
+        ],
+        "fail": [
+            ""
+        ]
     },
     {
-        "type" : "skill",
-        "cost" : 20,
-        "name" : "Naturally Adaptive",
-        "tags" : ["Clever", "Natural"],
-        "description" : [
+        "type": "skill",
+        "cost": 20,
+        "name": "Naturally Adaptive",
+        "tags": [
+            "Clever",
+            "Natural"
+        ],
+        "description": [
             "As opposed to wielding a sword, mace, or warhammer, you can instead improvise a weapon out of whatever is lying around. Improvised weapons are inherently more brittle as they weren't designed for battle, but they can also have special characteristics. Improvised weapons do 1d8 damage. Have the AL describe the object you are using as a weapon. If its description matches any or all of the characteristics, the improvised weapon gains those characteristics.",
             "Characteristics:",
             "- Sharp: Ignore armor when you hit a target.",
             "- Sturdy: Your weapon doesn't break on a snag result. Something else happens instead.",
             "- Heavy: If you can lift this, your weapon does an additional d4 damage."
         ],
-        "success" : ["You are able to deal damage and wield your trusty weapon again."],
-        "snag": ["You deal damage, but your improvised weapon breaks and falls apart."],
-        "fail": ["Your improvised weapon breaks apart or is otherwise unusable as a mechanism for violence. You do no damage."]
+        "success": [
+            "You are able to deal damage and wield your trusty weapon again."
+        ],
+        "snag": [
+            "You deal damage, but your improvised weapon breaks and falls apart."
+        ],
+        "fail": [
+            "Your improvised weapon breaks apart or is otherwise unusable as a mechanism for violence. You do no damage."
+        ]
     },
     {
-        "type" : "skill",
-        "cost" : 20,
-        "name" : "Proselytize",
-        "tags" : ["Clever", "Grace"],
-        "description" : [
+        "type": "skill",
+        "cost": 20,
+        "name": "Proselytize",
+        "tags": [
+            "Clever",
+            "Grace"
+        ],
+        "description": [
             "If an NPC you encounter has no strong declaration of faith or philosophy, you have a chance to convert them to your belief system.",
             "Relationship Intensity bonuses (and penalties) are added to this roll."
         ],
-        "success" : ["You successfully convinced the NPC! Huzzah! You can now use the GRACE or CLEVER ATTRIBUTES when convincing, bluffing, intimidating or persuading the proselytized unless they no longer believe in your philosophy/religion."],
-        "snag": ["They see the wisdom of your belief system but remain agnostic. They are not converted but your next social roll with/against that NPC is EASIER (+2). You cannot attempt to Proselytize this NPC again for a long while."],
-        "fail": ["You represent your philosophy poorly and their opinion is unchanged or yet worsened. Your next social roll with/against this NPC is HARDER (-2) and you can never Proselytize them again."]
+        "success": [
+            "You successfully convinced the NPC! Huzzah! You can now use the Grace or CLEVER ATTRIBUTES when convincing, bluffing, intimidating or persuading the proselytized unless they no longer believe in your philosophy/religion."
+        ],
+        "snag": [
+            "They see the wisdom of your belief system but remain agnostic. They are not converted but your next social roll with/against that NPC is EASIER (+2). You cannot attempt to Proselytize this NPC again for a long while."
+        ],
+        "fail": [
+            "You represent your philosophy poorly and their opinion is unchanged or yet worsened. Your next social roll with/against this NPC is HARDER (-2) and you can never Proselytize them again."
+        ]
     },
     {
-        "type" : "skill",
-        "cost" : 20,
-        "name" : "RAGE!",
-        "tags" : ["Strong"],
-        "description" : [
+        "type": "skill",
+        "cost": 20,
+        "name": "RAGE!",
+        "tags": [
+            "Strong"
+        ],
+        "description": [
             "Every day you start out with 1 anger point. When you enter a RAGE!, the following occurs:",
             "- You gain 1d4 Anger points.",
             "- Every time you get hit, you gain 1 Anger point.",
@@ -247,8 +459,14 @@
             "Your next roll must be used to attack, or defend from harm. If you fail to do either, or do a different action, lose 1 ANGER point.",
             "Once you have 0 Anger, RAGE! ends. If you end RAGE! before exhausting your points, you lose all but 1 ANGER point."
         ],
-        "success" : [],
-        "snag": [],
-        "fail": []
+        "success": [
+            ""
+        ],
+        "snag": [
+            ""
+        ],
+        "fail": [
+            ""
+        ]
     }
 ]
