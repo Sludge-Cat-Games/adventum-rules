@@ -8,7 +8,7 @@ Enchanted Items have Attunement Effects. These Effects can't be used until the i
 
 ### Attunement
 
-Attunement usually requires the GRACE ATTRIBUTE.
+Attunement usually requires the GRACE or MAGICAL ATTRIBUTE.
 
 ###### SUCCESS
 
@@ -51,7 +51,7 @@ You can only ENCHANT an object if you have KNOWLEDGE of a certain Effect. You ca
 |5|Anti-Magic|All MAGICAL rolls LOSE LEVERAGE.|
 |6|Complex|Multiple jinxes develop. Roll twice for both jinxes and add a roll for every 6 rolled.|
 
-When rolling to enchant an item, use GRACE or MAGICAL to see the results of your RITUAL.
+When rolling to enchant an item, use GRACE to see the results of your enchantment RITUAL. (You can only do this if you have the ENCHANTER Skill).
 
 ###### SUCCESS
 
