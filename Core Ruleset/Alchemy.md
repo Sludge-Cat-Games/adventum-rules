@@ -28,8 +28,6 @@ To start concocting an alchemical creation, you simply need an Application Metho
 |4|-8|ⓜ 400|
 |5|-10|ⓜ 500|
 
-Not everything in alchemy goes correctly. In case you get or make a bad potion. Here are some side effects you can experience.
-
 ## Concoction Side Effects Table
 
 |Number|Side Effect|Description|
@@ -41,7 +39,8 @@ Not everything in alchemy goes correctly. In case you get or make a bad potion. 
 |5|Neutralized|Your concoction has no other effects. It also neutralizes the effects of other concoctions when mixed or applied.|
 |6|Complex|Your concoction has multiple side effects. Roll twice to get both effects (Roll again if you get 6 again).|
 
-###### SUCCESS
+
+###### \n\nSUCCESS
 
 You're able to craft a marvelous concoction with all the Spell Effects you desired.
 
@@ -64,9 +63,8 @@ Your concoction output is doubled.
 
 To concoct a Sleeping Potion you're going to need a few things.
 - The Alchemy Skill (to be able to make concoctions)
-- A Sleeping Potion Recipe Effect (Tier 5 Effect)
-    - Which you can get with ⓜ 1200 (Sleepy Time Potion) & 5 XP
-- ⓜ 500
+- A Sleeping Potion Recipe Effect (Tier 5 Effect). You can get this with ⓜ 1200 (Sleepy Time Potion cost) & 5 XP
+- ⓜ 500 (the cost of Tier 5 ingredients)
 
 1) Spend ⓜ 500 to gather the ingredients needed for the Sleeping Potion Effect
 2) Choose a Method of Application. We'll choose **Breathe In**.

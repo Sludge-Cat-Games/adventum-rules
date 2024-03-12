@@ -26,10 +26,10 @@
         "type" : "skill",
         "cost" : 40,
         "name" : "Lay on Hands",
-        "tags" : ["Holy", "Magical"],
+        "tags" : ["Grace", "Magical"],
         "description" : ["You can deliver reverent judgement on people you can touch. Depending on if they’re an ally or an enemy, they can be healed or smote by you."],
         "success" : ["Roll a d10. Your target receives the result as healing if they are an ally or believe in your philosophy or religion. If they are an enemy AND do NOT believe in your religion, or philosophy, they receive 1d10 damage instead."],
-        "snag": ["The above SUCCESS condition occurs but something is off. Your next HOLY or MAGICAL roll LOSES LEVERAGE."],
+        "snag": ["The above SUCCESS condition occurs but something is off. Your next GRACE or MAGICAL roll LOSES LEVERAGE."],
         "fail": ["Your hubris belies the faith that’s been placed in you. You deserve punishment and roll with LOST LEVERAGE until you accept 1d6 damage that ignores armor."]
     },
     {

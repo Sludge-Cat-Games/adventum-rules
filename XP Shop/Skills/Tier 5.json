@@ -3,7 +3,7 @@
         "type" : "skill",
         "cost" : 50,
         "name" : "An Invincible Faith",
-        "tags" : ["Holy", "Magical"],
+        "tags" : ["Grace", "Magical"],
         "description" : [
             "When you commune or pray to your god, once a day, you can choose to roll for Faith. When you do, clear any faith you have and roll for 1d4 faith points.",
             "Faith:",

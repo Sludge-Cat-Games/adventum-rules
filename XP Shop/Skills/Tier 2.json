@@ -70,7 +70,7 @@
         "type" : "skill",
         "cost" : 20,
         "name" : "Divination",
-        "tags" : ["Holy", "Magical"],
+        "tags" : ["Grace", "Magical"],
         "description" : [
             "Once a day, you can roll a d20 to receive a portent. Portents can, at any time, replace a player's roll or a DD. If you are adjusting a DD with your roll, the new DD aligns with your portent as follows:",
             "|Number|DD|Modifier|",
@@ -224,12 +224,12 @@
         "type" : "skill",
         "cost" : 20,
         "name" : "Proselytize",
-        "tags" : ["Clever", "Holy"],
+        "tags" : ["Clever", "Grace"],
         "description" : [
             "If an NPC you encounter has no strong declaration of faith or philosophy, you have a chance to convert them to your belief system.",
             "Relationship Intensity bonuses (and penalties) are added to this roll."
         ],
-        "success" : ["You successfully convinced the NPC! Huzzah! You can now use the HOLY or CLEVER ATTRIBUTES when convincing, bluffing, intimidating or persuading the proselytized unless they no longer believe in your philosophy/religion."],
+        "success" : ["You successfully convinced the NPC! Huzzah! You can now use the GRACE or CLEVER ATTRIBUTES when convincing, bluffing, intimidating or persuading the proselytized unless they no longer believe in your philosophy/religion."],
         "snag": ["They see the wisdom of your belief system but remain agnostic. They are not converted but your next social roll with/against that NPC is EASIER (+2). You cannot attempt to Proselytize this NPC again for a long while."],
         "fail": ["You represent your philosophy poorly and their opinion is unchanged or yet worsened. Your next social roll with/against this NPC is HARDER (-2) and you can never Proselytize them again."]
     },
