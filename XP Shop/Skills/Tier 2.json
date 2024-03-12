@@ -468,5 +468,25 @@
         "fail": [
             ""
         ]
+    },
+    {
+        "type": "skill",
+        "cost": 20,
+        "name": "Enchanter",
+        "tags": [
+            "Grace"
+        ],
+        "description": [
+            "You are now able to create Enchanted Items using the rules in the Enchanting Chapter."
+        ],
+        "success": [
+            ""
+        ],
+        "snag": [
+            ""
+        ],
+        "fail": [
+            ""
+        ]
     }
 ]

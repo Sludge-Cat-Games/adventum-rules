@@ -33,7 +33,7 @@ The spell does not cast, and you experience Arcane Burn.
 
 ## Spellcrafting
 
-You have the ability to create spells by writing formulas with Spell Components. Each spell formula must have at least 1 **RANGE** component and 1 **EFFECT** component. Spellcrafting is **NORMAL** and the difficulty to craft depends on the components used. You can write 1 spell a week, and the **ATTRIBUTE** for crafting will be **CLEVER**.
+You have the ability to create spells by writing formulas with Spell Components. Each spell formula must have at least 1 **RANGE** component and 1 **EFFECT** component. Spellcrafting is **NORMAL** and the difficulty to craft depends on the components used. You can write 1 spell a week, and the **ATTRIBUTE** for crafting will be **CLEVER** (You can only do this if you have the GRIMOIRE Skill).
 
 ### Components
 

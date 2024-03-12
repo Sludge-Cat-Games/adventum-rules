@@ -8,7 +8,7 @@ You can learn a recipe by expending 5 XP and analyzing a consumable with the Con
 
 ## Concocting
 
-To start concocting an alchemical creation, you simply need an Application Method, Recipe Effect (or Effects), and Ingredients *(or ⓜ)*.
+To start concocting an alchemical creation, you simply need an Application Method, Recipe Effect (or Effects), and Ingredients *(or ⓜ)*  (You can only do this if you have the Alchemy Skill).
 
 ## Application Difficulty
 
