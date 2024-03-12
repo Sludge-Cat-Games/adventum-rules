@@ -15,15 +15,9 @@
             "- Damage Poison: The affected target suffers 1d4 damage. If the poison is coating a weapon, it can be considered “injected” on Successful attack rolls with the coated weapon.",
             "You can also learn a new concoction for 5 XP if you spend 1 week studying a sample of a potion. You can only study a potion if you can identify what it is and know what its effects are."
         ],
-        "success": [
-            ""
-        ],
-        "snag": [
-            ""
-        ],
-        "fail": [
-            ""
-        ]
+        "success": [],
+        "snag": [],
+        "fail": []
     },
     {
         "type": "skill",
@@ -36,15 +30,9 @@
         "description": [
             "You are able to handle a single type of ranged weapon without LOSING LEVERAGE."
         ],
-        "success": [
-            ""
-        ],
-        "snag": [
-            ""
-        ],
-        "fail": [
-            ""
-        ]
+        "success": [],
+        "snag": [],
+        "fail": []
     },
     {
         "type": "skill",
@@ -60,15 +48,9 @@
             "- The animal can't deal damage on its own, but it can attack in tandem with you. When performing a “Tandem Attack” add a d4 in damage.",
             "- If the animal is physically/cognitively able, it can give you +1 to a roll when assisting you, including “Tandem Attacks”."
         ],
-        "success": [
-            ""
-        ],
-        "snag": [
-            ""
-        ],
-        "fail": [
-            ""
-        ]
+        "success": [],
+        "snag": [],
+        "fail": []
     },
     {
         "type": "skill",
@@ -81,15 +63,9 @@
             "When you are attacked or healed by someone else, you can roll a d4. The result is the amount of “balance” you currently have. You cannot stack balance and rolling balance discards any balance you already have.",
             "You can use \"balance\" to add to other player's attempt rolls or your own damage rolls."
         ],
-        "success": [
-            ""
-        ],
-        "snag": [
-            ""
-        ],
-        "fail": [
-            ""
-        ]
+        "success": [],
+        "snag": [],
+        "fail": []
     },
     {
         "type": "skill",
@@ -261,7 +237,7 @@
     {
         "type": "skill",
         "cost": 20,
-        "name": "Explout Leverage",
+        "name": "Exploit Leverage",
         "tags": [
             "Irreverent"
         ],
@@ -288,15 +264,9 @@
         "description": [
             "Permanently add 10 to your max HP."
         ],
-        "success": [
-            ""
-        ],
-        "snag": [
-            ""
-        ],
-        "fail": [
-            ""
-        ]
+        "success": [],
+        "snag": [],
+        "fail": []
     },
     {
         "type": "skill",
@@ -310,15 +280,9 @@
             "You are not automatically hidden from targets you haven't attacked. However, the AL may give you the opportunity to hide from them after this skill is used.",
             "You can't \"Hit & Run\" if you hit a SNAG."
         ],
-        "success": [
-            ""
-        ],
-        "snag": [
-            ""
-        ],
-        "fail": [
-            ""
-        ]
+        "success": [],
+        "snag": [],
+        "fail": []
     },
     {
         "type": "skill",
@@ -335,15 +299,9 @@
             "- You can spend a ki point to make a point of light that stays in place, or goes at a constant velocity until it hits a solid object. You can spend an additional point to adjust its brightness or its color.",
             "- You can spend 2 ki points to float in place or glide moderate distances."
         ],
-        "success": [
-            ""
-        ],
-        "snag": [
-            ""
-        ],
-        "fail": [
-            ""
-        ]
+        "success": [],
+        "snag": [],
+        "fail": []
     },
     {
         "type": "skill",
@@ -408,15 +366,9 @@
             "Your next roll must be used to attack, or defend from harm. If you fail to do either, or do a different action, lose 1 ANGER point.",
             "Once you have 0 Anger, RAGE! ends. If you end RAGE! before exhausting your points, you lose all but 1 ANGER point."
         ],
-        "success": [
-            ""
-        ],
-        "snag": [
-            ""
-        ],
-        "fail": [
-            ""
-        ]
+        "success": [],
+        "snag": [],
+        "fail": []
     },
     {
         "type": "skill",
@@ -428,14 +380,8 @@
         "description": [
             "You are now able to create Enchanted Items using the rules in the Enchanting Chapter."
         ],
-        "success": [
-            ""
-        ],
-        "snag": [
-            ""
-        ],
-        "fail": [
-            ""
-        ]
+        "success": [],
+        "snag": [],
+        "fail": []
     }
 ]
