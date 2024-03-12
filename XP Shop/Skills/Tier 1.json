@@ -1,36 +1,64 @@
 [
     {
-        "type" : "skill",
-        "cost" : 10,
-        "name" : "Acrobatic",
-        "tags" : ["Dextrous"],
-        "description" : ["You have LEVERAGE on acrobatic rolls."],
-        "success" : ["10! You stick the landing and do so gracefully."],
+        "type": "skill",
+        "cost": 10,
+        "name": "Acrobatic",
+        "tags": [
+            "Dextrous"
+        ],
+        "description": [
+            "You have LEVERAGE on acrobatic rolls."
+        ],
+        "success": [
+            "10! You stick the landing and do so gracefully."
+        ],
         "snag": [
             "7! You have some difficulty sticking the landing. Choose a consequence.",
             "- Endure: Everything looks fine but it really isn't. You land hard but mostly keep your composure. Take 1d4 damage.",
             "- Land Loud: You make it but your landing smacks the surface with such volume that it attracts unwanted attention."
         ],
-        "fail": ["1! You fail to make it up, down, or wherever you wanted to go, and you fall badly. Take 1d8 damage."]
+        "fail": [
+            "1! You fail to make it up, down, or wherever you wanted to go, and you fall badly. Take 1d8 damage."
+        ]
     },
     {
-        "type" : "skill",
-        "cost" : 10,
-        "name" : "Armor Up!",
-        "tags" : ["Dextrous", "Martial"],
-        "description" : ["Wearing armor no longer makes you LOSE LEVERAGE."],
-        "success" : [],
-        "snag": [],
-        "fail": []
+        "type": "skill",
+        "cost": 10,
+        "name": "Armor Up!",
+        "tags": [
+            "Dextrous",
+            "Martial"
+        ],
+        "description": [
+            "Wearing HEAVY armor no longer makes you LOSE LEVERAGE."
+        ],
+        "success": [
+            ""
+        ],
+        "snag": [
+            ""
+        ],
+        "fail": [
+            ""
+        ]
     },
     {
-        "type" : "skill",
-        "cost" : 10,
-        "name" : "Blood Bullet",
-        "tags" : ["Irreverent", "Magical"],
-        "description" : ["Using your health pool, you can turn your blood into a projectile."],
-        "success" : ["Choose an amount of damage to take. You deal twice as much damage to a target you can see within Thrown range."],
-        "snag": ["You takde 1d4 damage. Your target takes 1d8."],
+        "type": "skill",
+        "cost": 10,
+        "name": "Blood Bullet",
+        "tags": [
+            "Irreverent",
+            "Magical"
+        ],
+        "description": [
+            "Using your health pool, you can turn your blood into a projectile."
+        ],
+        "success": [
+            "Choose an amount of damage to take. You deal twice as much damage to a target you can see within Thrown range."
+        ],
+        "snag": [
+            "You takde 1d4 damage. Your target takes 1d8."
+        ],
         "fail": [
             "Your abuse of blood magic has cuaght up to you. Choose a consequence:",
             "- Instant Curse: You take half your current HP (rounded down) as damage.",
@@ -38,11 +66,13 @@
         ]
     },
     {
-        "type" : "skill",
-        "cost" : 10,
-        "name" : "Chef",
-        "tags" : ["Clever"],
-        "description" : [
+        "type": "skill",
+        "cost": 10,
+        "name": "Chef",
+        "tags": [
+            "Clever"
+        ],
+        "description": [
             "You can cook a dish for yourself & others. Every time you cook, you can make up to 4 serverings using 1 ration, 1 ration's worth of moolah, or ingredients that could make at least 1 ration.",
             "Food effects:",
             "1) Sweet: You can add +2 to any social roll.",
@@ -50,16 +80,26 @@
             "3) Spicy: You can add +2 to any damage roll.",
             "4) Umami: Add +2 temporary HP."
         ],
-        "success" : ["You made another wonderful dish! Choose one of the above effects. It lasts for 1 hour."],
-        "snag": ["You made an okay dish but the taste is a bit off from what you intended. Roll a d4 to get the flavor you ended up making."],
-        "fail": ["You use up your ingredients to make something putrid. If anyone eats this, they take 1d4 damage."]
+        "success": [
+            "You made another wonderful dish! Choose one of the above effects. It lasts for 1 hour."
+        ],
+        "snag": [
+            "You made an okay dish but the taste is a bit off from what you intended. Roll a d4 to get the flavor you ended up making."
+        ],
+        "fail": [
+            "You use up your ingredients to make something putrid. If anyone eats this, they take 1d4 damage."
+        ]
     },
     {
-        "type" : "skill",
-        "cost" : 10,
-        "name" : "Clairvoyant Nose",
-        "tags" : ["Holy", "Irreverent", "Magical"],
-        "description" : [
+        "type": "skill",
+        "cost": 10,
+        "name": "Clairvoyant Nose",
+        "tags": [
+            "Grace",
+            "Irreverent",
+            "Magical"
+        ],
+        "description": [
             "Using your nose, you can attempt to smell certain smells that no mortal can detect. Using your supernatural ability, you can detect:",
             "- Angels",
             "- Demons",
@@ -69,118 +109,217 @@
             "- Blessings",
             "- Curses"
         ],
-        "success" : [],
-        "snag": [],
-        "fail": []
+        "success": [
+            ""
+        ],
+        "snag": [
+            ""
+        ],
+        "fail": [
+            ""
+        ]
     },
     {
-        "type" : "skill",
-        "cost" : 10,
-        "name" : "Give Me a Sign",
-        "tags" : ["Holy"],
-        "description" : ["Once a day, you can petition your benevolent spirit, god, or gods to guide you on the right path. They may steer you into or away from danger as is appropriate for their care or plans for you. However, the direction they point you to can only be communicated in coincidences, tricks of lights, or other common physical phenomena."],
-        "success" : [],
-        "snag": [],
-        "fail": []
+        "type": "skill",
+        "cost": 10,
+        "name": "Give Me a Sign",
+        "tags": [
+            "Grace"
+        ],
+        "description": [
+            "Once a day, you can petition your benevolent spirit, god, or gods to guide you on the right path. They may steer you into or away from danger as is appropriate for their care or plans for you. However, the direction they point you to can only be communicated in coincidences, tricks of lights, or other common physical phenomena."
+        ],
+        "success": [
+            ""
+        ],
+        "snag": [
+            ""
+        ],
+        "fail": [
+            ""
+        ]
     },
     {
-        "type" : "skill",
-        "cost" : 10,
-        "name" : "I Have a Guy...",
-        "tags" : ["Clever", "Irreverent"],
-        "description" : ["When you put out word to a community you are a part of about something you want or need, you can roll to potentially find someone who has it."],
-        "success" : ["You have somebody that has exactly what you need or knows where/how to find it."],
+        "type": "skill",
+        "cost": 10,
+        "name": "I Have a Guy...",
+        "tags": [
+            "Clever",
+            "Irreverent"
+        ],
+        "description": [
+            "When you put out word to a community you are a part of about something you want or need, you can roll to potentially find someone who has it."
+        ],
+        "success": [
+            "You have somebody that has exactly what you need or knows where/how to find it."
+        ],
         "snag": [
             "You know someone but:",
             "- Not exactly: Your person doesn't have it but they have something close.",
             "- Pay up: Your person has it but you have to pay a nominal fee for it/their services."
         ],
-        "fail": ["There's no one you know in your network that can help you."]
+        "fail": [
+            "There's no one you know in your network that can help you."
+        ]
     },
     {
-        "type" : "skill",
-        "cost" : 10,
-        "name" : "Ki Training",
-        "tags" : ["Martial", "Magical"],
-        "description" : ["Through rigorous training, you have become able to draw in magical energy in your body as Ki. You can have a maximum of 4 Ki. Ki points can be spent to add damage equal to the ki points spent to an attack."],
-        "success" : ["You are able to absorb latent magic in your environment as ki. You get 4 points of ki."],
-        "snag": ["You are able to absorb only a moderate amount of ki, and at a bit of strain to your body. You absorb 1d4 ki and can't get more until an hour passes."],
-        "fail": ["You fail to consider the strain ki can have on your body. Absorb no ki and take 1d4 damage."]
+        "type": "skill",
+        "cost": 10,
+        "name": "Ki Training",
+        "tags": [
+            "Martial",
+            "Magical"
+        ],
+        "description": [
+            "Through rigorous training, you have become able to draw in magical energy in your body as Ki. You can have a maximum of 4 Ki. Ki points can be spent to add damage equal to the ki points spent to an attack."
+        ],
+        "success": [
+            "You are able to absorb latent magic in your environment as ki. You get 4 points of ki."
+        ],
+        "snag": [
+            "You are able to absorb only a moderate amount of ki, and at a bit of strain to your body. You absorb 1d4 ki and can't get more until an hour passes."
+        ],
+        "fail": [
+            "You fail to consider the strain ki can have on your body. Absorb no ki and take 1d4 damage."
+        ]
     },
     {
-        "type" : "skill",
-        "cost" : 10,
-        "name" : "Minor Healing",
-        "tags" : ["Holy", "Magical"],
-        "description" : [],
-        "success" : ["You can heal a creature for 5 health (You can also choose to heal a minor medical malady as described in the fail condition)."],
-        "snag": ["You can heal a creature for 1d5 health."],
-        "fail": ["Instead of healing you find a minor complication. You avail your patient of the minor malady (itchy throat, achy joints, minor wrist soreness or any other mild annoyance), but don't offer any healing."]
+        "type": "skill",
+        "cost": 10,
+        "name": "Minor Healing",
+        "tags": [
+            "Grace",
+            "Magical"
+        ],
+        "description": [
+            ""
+        ],
+        "success": [
+            "You can heal a creature for 5 health (You can also choose to heal a minor medical malady as described in the fail condition)."
+        ],
+        "snag": [
+            "You can heal a creature for 1d5 health."
+        ],
+        "fail": [
+            "Instead of healing you find a minor complication. You avail your patient of the minor malady (itchy throat, achy joints, minor wrist soreness or any other mild annoyance), but don't offer any healing."
+        ]
     },
     {
-        "type" : "skill",
-        "cost" : 10,
-        "name" : "Of the Same Cloth",
-        "tags" : ["Holy", "Magical"],
-        "description" : ["You can use your HOLY ATTRIBUTE in social situations with people who have the same god/faith/or philosophy as you."],
-        "success" : [],
-        "snag": [],
-        "fail": []
+        "type": "skill",
+        "cost": 10,
+        "name": "Of the Same Cloth",
+        "tags": [
+            "Grace",
+            "Magical"
+        ],
+        "description": [
+            "You can use your Grace ATTRIBUTE in social situations with people who have the same god/faith/or philosophy as you."
+        ],
+        "success": [
+            ""
+        ],
+        "snag": [
+            ""
+        ],
+        "fail": [
+            ""
+        ]
     },
     {
-        "type" : "skill",
-        "cost" : 10,
-        "name" : "Researcher",
-        "tags" : ["Clever"],
-        "description" : ["You have a natural aptitude for understanding and deciphering texts and ancient tomes. With your knowledge and studious aptitude, you are able to uncover secrets or hard to reach information."],
-        "success" : ["You are able to find new information on a specific topic of your choosing. Or, failing that, you know exactly where to go to find it."],
+        "type": "skill",
+        "cost": 10,
+        "name": "Researcher",
+        "tags": [
+            "Clever"
+        ],
+        "description": [
+            "You have a natural aptitude for understanding and deciphering texts and ancient tomes. With your knowledge and studious aptitude, you are able to uncover secrets or hard to reach information."
+        ],
+        "success": [
+            "You are able to find new information on a specific topic of your choosing. Or, failing that, you know exactly where to go to find it."
+        ],
         "snag": [
             "You get limited information on the topic of your choosing. Choose what you found on the subject:",
             "- You've identified an expert. They may or may not help you.",
             "- You've identified where the information MIGHT be.",
             "- You uncover a piece of information but it is incomplete, or unclear."
         ],
-        "fail": ["You are unable to find any new information or you are unable to decipher the text."]
+        "fail": [
+            "You are unable to find any new information or you are unable to decipher the text."
+        ]
     },
     {
-        "type" : "skill",
-        "cost" : 10,
-        "name" : "Revenge!",
-        "tags" : ["Strong", "Irreverent"],
-        "description" : [
+        "type": "skill",
+        "cost": 10,
+        "name": "Revenge!",
+        "tags": [
+            "Strong",
+            "Irreverent"
+        ],
+        "description": [
             "Instead of defending yourself from harm, you can choose to take the damage instead and attack them as if you attacked the target successfully.",
-            "To be able to take your revenge, you need to be able to attack the target normally. If you wouldn't be able to attack your assailant normally, you can't take revenge either."],
-        "success" : [],
-        "snag": [],
-        "fail": []
+            "To be able to take your revenge, you need to be able to attack the target normally. If you wouldn't be able to attack your assailant normally, you can't take revenge either."
+        ],
+        "success": [
+            ""
+        ],
+        "snag": [
+            ""
+        ],
+        "fail": [
+            ""
+        ]
     },
     {
-        "type" : "skill",
-        "cost" : 10,
-        "name" : "Saboteur",
-        "tags" : ["Clever", "Dextrous"],
-        "description" : ["You have a knack for disabling, subtly breaking in, and opening intricate mechanisms."],
-        "success" : ["You shut off, unlock, or otherwise disable standing in your way. Good job!"],
-        "snag": ["Instead of figuring out the mechanism, you solve your problem by breaking it instead. It can't be prepared easily and there's evidence of tampering."],
-        "fail": ["You can't get into the mechanism or figure it out. And you're loud while doing it. Hopefully no one is nearby."]
+        "type": "skill",
+        "cost": 10,
+        "name": "Saboteur",
+        "tags": [
+            "Clever",
+            "Dextrous"
+        ],
+        "description": [
+            "You have a knack for disabling, subtly breaking in, and opening intricate mechanisms."
+        ],
+        "success": [
+            "You shut off, unlock, or otherwise disable standing in your way. Good job!"
+        ],
+        "snag": [
+            "Instead of figuring out the mechanism, you solve your problem by breaking it instead. It can't be prepared easily and there's evidence of tampering."
+        ],
+        "fail": [
+            "You can't get into the mechanism or figure it out. And you're loud while doing it. Hopefully no one is nearby."
+        ]
     },
     {
-        "type" : "skill",
-        "cost" : 10,
-        "name" : "Scrappy",
-        "tags" : ["Strong"],
-        "description" : ["Permanently add 5 HP to your Max HP."],
-        "success" : [],
-        "snag": [],
-        "fail": []
+        "type": "skill",
+        "cost": 10,
+        "name": "Scrappy",
+        "tags": [
+            "Strong"
+        ],
+        "description": [
+            "Permanently add 5 HP to your Max HP."
+        ],
+        "success": [
+            ""
+        ],
+        "snag": [
+            ""
+        ],
+        "fail": [
+            ""
+        ]
     },
     {
-        "type" : "skill",
-        "cost" : 10,
-        "name" : "Sorcerer",
-        "tags" : ["Magical"],
-        "description" : [
-            "All of your MAGICAL skills are now spells. (Look up <Link to=\"/the-arcane\">The Arcane</Link> for spellcasting rules). You also learn the Imbue spell.",
+        "type": "skill",
+        "cost": 10,
+        "name": "Sorcerer",
+        "tags": [
+            "Magical"
+        ],
+        "description": [
+            "All of your MAGICAL skills are now spells. (Look in the Spellcraft chapter for spellcasting rules). You also learn the Imbue spell.",
             "**_Imbue_**",
             "Range: Ranged",
             "Effect: You can push magic into an object or person. An imbued object is considered MAGICAL for a short time. You can also choose to do 1 of these 3 things to the object.",
@@ -188,11 +327,13 @@
             "- Deal 1d6 damage.",
             "- Push it up to 10 ft away (if it collides with something, it receives 1d4 damage)."
         ],
-        "success" : ["The spell's EFFECT is successfully cast within the spell's specified RANGE."],
+        "success": [
+            "The spell's EFFECT is successfully cast within the spell's specified RANGE."
+        ],
         "snag": [
             "Choose one:",
             "- Arcane Amnesia: You put too much energy into this incantation and lose your memory of the spell. You can't cast this spell again until you have the time and space to meditate on the arcane.",
-            "- Side Effect: Suffer a random consequence on the <Link to=\"/the-arcane\">Magic Side Effects Table</Link>."
+            "- Side Effect: Suffer a random consequence on the Magic Side Effects Table."
         ],
         "fail": [
             "The spell does not cast, and you experience Arcane Burn.",
@@ -200,21 +341,34 @@
         ]
     },
     {
-        "type" : "skill",
-        "cost" : 10,
-        "name" : "Survivalist",
-        "tags" : ["Natural"],
-        "description" : ["For any survivalist situation, roll with LEVERAGE."],
-        "success" : [],
-        "snag": [],
-        "fail": []
+        "type": "skill",
+        "cost": 10,
+        "name": "Survivalist",
+        "tags": [
+            "Natural"
+        ],
+        "description": [
+            "For any survivalist situation, roll with LEVERAGE."
+        ],
+        "success": [
+            ""
+        ],
+        "snag": [
+            ""
+        ],
+        "fail": [
+            ""
+        ]
     },
     {
-        "type" : "skill",
-        "cost" : 10,
-        "name" : "Marksmanship",
-        "tags" : ["Dextrous", "Martial"],
-        "description" : [
+        "type": "skill",
+        "cost": 10,
+        "name": "Marksmanship",
+        "tags": [
+            "Dextrous",
+            "Martial"
+        ],
+        "description": [
             "You are able to handle a single type of ranged weapon without LOSING LEVERAGE. You can take this again to learn a new kind of ranged weapon.",
             "Choose a ranged weapon type:",
             "- Bow",
@@ -222,16 +376,25 @@
             "- Rifle",
             "- Crossbow"
         ],
-        "success" : [],
-        "snag": [],
-        "fail": []
+        "success": [
+            ""
+        ],
+        "snag": [
+            ""
+        ],
+        "fail": [
+            ""
+        ]
     },
     {
-        "type" : "skill",
-        "cost" : 10,
-        "name" : "Swordsmanship",
-        "tags" : ["Martial", "Strong"],
-        "description" : [
+        "type": "skill",
+        "cost": 10,
+        "name": "Swordsmanship",
+        "tags": [
+            "Martial",
+            "Strong"
+        ],
+        "description": [
             "You are able to handle a single type of melee weapon without LOSING LEVERAGE. You can take this again to learn a new kind of melee weapon.",
             "Choose a melee weapon type:",
             "- Knife",
@@ -240,38 +403,76 @@
             "- Heavy",
             "- Flail"
         ],
-        "success" : [],
-        "snag": [],
-        "fail": []
+        "success": [
+            ""
+        ],
+        "snag": [
+            ""
+        ],
+        "fail": [
+            ""
+        ]
     },
     {
-        "type" : "skill",
-        "cost" : 10,
-        "name" : "Talk to Animals",
-        "tags" : ["Magical", "Natural"],
-        "description" : ["You have the ability to talk to animals. By talking to animals you can convince them to do simple tasks, get a survey of certain areas, or even befriend them (Given the animal has an amicable disposition)."],
-        "success" : [],
-        "snag": [],
-        "fail": []
+        "type": "skill",
+        "cost": 10,
+        "name": "Talk to Animals",
+        "tags": [
+            "Magical",
+            "Natural"
+        ],
+        "description": [
+            "You have the ability to talk to animals. By talking to animals you can convince them to do simple tasks, get a survey of certain areas, or even befriend them (Given the animal has an amicable disposition)."
+        ],
+        "success": [
+            ""
+        ],
+        "snag": [
+            ""
+        ],
+        "fail": [
+            ""
+        ]
     },
     {
-        "type" : "skill",
-        "cost" : 10,
-        "name" : "Thief",
-        "tags" : ["Dextrous", "Irreverent"],
-        "description" : ["Whenever you try to steal something from someone off their person, roll WITH LEVERAGE."],
-        "success" : [],
-        "snag": [],
-        "fail": []
+        "type": "skill",
+        "cost": 10,
+        "name": "Thief",
+        "tags": [
+            "Dextrous",
+            "Irreverent"
+        ],
+        "description": [
+            "Whenever you try to steal something from someone off their person, roll WITH LEVERAGE."
+        ],
+        "success": [
+            ""
+        ],
+        "snag": [
+            ""
+        ],
+        "fail": [
+            ""
+        ]
     },
     {
-        "type" : "skill",
-        "cost" : 10,
-        "name" : "Martial Artist",
-        "tags" : ["Martial"],
-        "description" : ["You are proficient at hand to hand combat. Instead of dealing 1 damage, unarmed, you now deal 1d4 damage."],
-        "success" : [],
-        "snag": [],
-        "fail": []
+        "type": "skill",
+        "cost": 10,
+        "name": "Martial Artist",
+        "tags": [
+            "Martial"
+        ],
+        "description": [
+            "You are proficient at hand to hand combat. Instead of dealing 1 damage, unarmed, you now deal 1d4 damage."
+        ],
+        "success": [
+            ""
+        ],
+        "snag": [
+            ""
+        ],
+        "fail": [
+            ""
+        ]
     }
 ]

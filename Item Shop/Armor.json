@@ -33,7 +33,7 @@
             "Wearable"
         ],
         "description": [
-            "Reduces damage before armor by 2 when worn."
+            "Reduces damage before armor by 2 when worn. Also causes the wearer to LOSE LEVERAGE on all rolls due to being HEAVY."
         ]
     },
     {
@@ -58,7 +58,7 @@
             "Wearable"
         ],
         "description": [
-            "Reduces damage before armor by 3 when worn."
+            "Reduces damage before armor by 3 when worn. Also causes the wearer to LOSE LEVERAGE on all rolls due to being HEAVY."
         ]
     }
 ]

@@ -4,7 +4,7 @@ At the end of every Adventum session the AL should conclude your rousing story w
 
 ## Individual questions
 
-- Have you acted on your motivation?
+- What is your character's motivation? Have they acted on it?
 - Did you **INVOKE** any relationships? (Did you have a special interaction with a character you have a written relationship with?)
 
 Each of these questions can reward an individual character 1 **XP** if answered "yes".

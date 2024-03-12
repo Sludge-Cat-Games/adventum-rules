@@ -1,107 +1,91 @@
 [
     {
-        "type" : "skill",
-        "cost" : 50,
-        "name" : "An Invincible Faith",
-        "tags" : ["Holy", "Magical"],
-        "description" : [
+        "type": "skill",
+        "cost": 50,
+        "name": "An Invincible Faith",
+        "tags": [
+            "Grace",
+            "Magical"
+        ],
+        "description": [
             "When you commune or pray to your god, once a day, you can choose to roll for Faith. When you do, clear any faith you have and roll for 1d4 faith points.",
             "Faith:",
             "You can spend faith whenever you want in exchange for invulnerability when you or another player would incur harm/receive damage. Even if the damage would be lethal, you can spend a faith point to nullify the damage."
         ],
-        "success" : [],
-        "snag": [],
-        "fail": []
+        "success": [
+            ""
+        ],
+        "snag": [
+            ""
+        ],
+        "fail": [
+            ""
+        ]
     },
     {
-        "type" : "skill",
-        "cost" : 50,
-        "name" : "Assassinate",
-        "tags" : ["Irreverent"],
-        "description" : [
+        "type": "skill",
+        "cost": 50,
+        "name": "Assassinate",
+        "tags": [
+            "Irreverent"
+        ],
+        "description": [
             "If you have LEVERAGE, and you haven't attacked your target yet, you may choose to attempt to assassinate instead of attacking normally.",
             "An assassination is like a regular attack, except:"
         ],
-        "success" : [
+        "success": [
             "- You automatically do full damage. (On a crit, your damage is doubled.)",
             "- If you don't kill the target, you know how much hp they have left.",
             "- You ignore armor."
         ],
-        "snag": ["Choose only 1 of the 3 SUCCESS options."],
-        "fail": ["You are noticed and the target gets a free attack or they flee."]
+        "snag": [
+            "Choose only 1 of the 3 SUCCESS options."
+        ],
+        "fail": [
+            "You are noticed and the target gets a free attack or they flee."
+        ]
     },
     {
-        "type" : "skill",
-        "cost" : 50,
-        "name" : "Reflexive",
-        "tags" : ["Dextrous"],
-        "description" : [
+        "type": "skill",
+        "cost": 50,
+        "name": "Reflexive",
+        "tags": [
+            "Dextrous"
+        ],
+        "description": [
             "Once a day, if you would die from an incoming attack, projectile, or physical object, you can attempt to avoid it instead.",
             "You can use this even if the incoming damage is the result of a FAIL. You can also use this skill at Death's Door, effectively retconning your death."
         ],
-        "success" : ["Your quick reflexes and focus leave you unscathed. If you alrady lost HP, you gain it back (You were never hit, after all)."],
-        "snag": [],
-        "fail": []
+        "success": [
+            "Your quick reflexes and focus leave you unscathed. If you alrady lost HP, you gain it back (You were never hit, after all)."
+        ],
+        "snag": [
+            ""
+        ],
+        "fail": [
+            ""
+        ]
     },
     {
-        "type" : "skill",
-        "cost" : 50,
-        "name" : "Great Beast Form",
-        "tags" : ["Magical", "Natural"],
-        "description" : [
+        "type": "skill",
+        "cost": 50,
+        "name": "Great Beast Form",
+        "tags": [
+            "Magical",
+            "Natural"
+        ],
+        "description": [
             "You can now change into any animal in your domain. Your domain can also be 1 animal of your choice instead of a type of environment",
             "When you transform into an animal that weighs more than twice the average humanoid (360 lbs / 160 kgs), your max HP is doubled."
         ],
-        "success" : [],
-        "snag": [],
-        "fail": []
-    },
-    {
-        "type" : "skill",
-        "cost" : 50,
-        "name" : "Grimoire",
-        "tags" : ["Magical", "Clever"],
-        "description" : [
-            "You can now craft spells and record them with your grimoire. When you learn a new spell, you can extract its SUCCESS consequence as an EFFECT for 5 XP. Any EFFECT you know can be used in spell crafting. If the skill doesn't have a success decision because it is a passive, you gain the ability for 1 hour or until you choose to dismiss the spell.",
-            "To craft a spell, look at the spell-craft guidelines"
+        "success": [
+            ""
         ],
-        "success" : [],
-        "snag": [],
-        "fail": []
-    },
-    {
-        "type" : "skill",
-        "cost" : 50,
-        "name" : "Herculean Strength",
-        "tags" : ["Strong"],
-        "description" : [
-            "Through great effort, training, and god given talent. You are able to lift anything, break anything, and throw anything that isn't apart of the earth itself (but at great exertion)."
+        "snag": [
+            ""
         ],
-        "success" : ["You successfully lift this weight with great exertion and efficacy. You decide what to do with it, but decide quickly!"],
-        "snag": ["You are able to lift this weight but under great strain. Your take 1d10 damage. If you're brought down to or past 0, your hp is set to 1."],
-        "fail": ["You are unable carry this burden. If you are under the object, you are crushed for 1d20 damage."]
-    },
-    {
-        "type" : "skill",
-        "cost" : 50,
-        "name" : "Secret Technique",
-        "tags" : ["Martial"],
-        "description" : [
-            "You are a martial genius and have come up with a secret technique that is as dangerous as it is powerful. The strain it puts on your body makes it risky to use more than once. Before you strike down any foes, use your wisdom and prowess to define your master technique. Please define the technique's Method, Effect, and Risk.",
-            "**Method**:",
-            "- Pressure Point: Where on the body do you have to touch your opponent?",
-            "- Strike: How and what weapon must you strike them so they feel the power of your technique?",
-            "- Ki: If you are able to use Ki (or magic) where must the energy be drawn?",
-            "Effect:",
-            "- Incapacitation: Your foe falls asleep and cannot be awoken for a day by any means. On Failure, you suffer the same fate. This works on any being that is biologically alive or utilizes magic/ki.",
-            "- Amputation: Your foe loses a limb of your choice, but the cut is clean and you deal damage as if you had attacked normally. After a limb is lost, you gain Leverage on your opponent for the rest of the battle.",
-            "- Obliteration: You automatically do max damage on your attack. And crit on a success,",
-            "- Equal & Opposite: You suffer the same fate that you would have inflicted upon your foe.",
-            "- Unbalanced: You lose 2 Leverage with Martial Skills for the rest of combat.",
-            "- Terrible Cost: You can continue to fight as normal. However, your loss is more foreboding. Roll 1d4. Your Max HP decreases by this much. Permanently."
-        ],
-        "success" : ["Using your chosen method, the effect of your secret technique is realized."],
-        "snag": ["Using your chosen method, the effect of your secret technique is realized. However, it strains your body. You receive 1d10 damage and you roll with 1 less Leverage while in combat, or until you are healed outside of combat."],
-        "fail": ["The effect of your method is not realized. You fall to the Risk of your secret technique."]
+        "fail": [
+            ""
+        ]
     }
 ]

@@ -50,7 +50,7 @@ Characters in Adventum don’t have stats like in other RPG’s, but they do hav
 
 - **CLEVER**
 - **DEXTROUS**
-- **HOLY**
+- **GRACE**
 - **IRREVERENT**
 - **MAGICAL**
 - **MARTIAL**
@@ -67,7 +67,7 @@ For example, let’s say that you need to convince a maester at a Wizard’s col
 >
 > ###### Success  
 >
-> You successfully convinced the NPC! Huzzah! You can now use the_ **_HOLY_** _or_ **_CLEVER_ ATTRIBUTES _WITH LEVERAGE_** _when convincing, bluffing, intimidating or persuading the proselytized unless they no longer believe in your philosophy/religion._
+> You successfully convinced the NPC! Huzzah! You can now use the_ **_GRACE_** _or_ **_CLEVER_ ATTRIBUTES _WITH LEVERAGE_** _when convincing, bluffing, intimidating or persuading the proselytized unless they no longer believe in your philosophy/religion._
 >
 > ###### Mixed Success  
 >
@@ -88,7 +88,7 @@ When an **ATTRIBUTE** is written on a **SKILL**, and you have to roll to utilize
 |Figure It Out|You are attempting to understand something or solve a problem using your thoughts and experience.|CLEVER (You can substitute an ATTRIBUTE that's relevant to the problem at hand)|
 |Hiding|You are attempting to be unseen, either by limiting your visibility or blending in with your environment.|CLEVER, DEXTROUS|
 |Improvising|You're attempting to use an implement in a way it's not meant to be used, and it's not obvious what ATTRIBUTE is applicable otherwise.|CLEVER|
-|Intimidating|As a manner of posturing or a show of force, you are subtly threatening someone to see your point of view.|STRONG, IRREVERENT, HOLY|
+|Intimidating|As a manner of posturing or a show of force, you are subtly threatening someone to see your point of view.|STRONG, IRREVERENT, GRACE|
 |Melee Attack|You are hitting someone close up, with your hands or a weapon that doesn't utilize a projectile.|STRONG, MARTIAL|
 |Persuading|You are trying to change someone's mind or convince them of something.|CLEVER, (You can substitute any other ATTRIBUTE w/ AL approval)|
 |Ranged Attack|You are aiming at a target to strike from afar with a projectile, or a long flexible instrument or or tool.|DEXTROUS, MARTIAL|
