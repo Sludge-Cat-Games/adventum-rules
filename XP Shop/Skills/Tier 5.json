@@ -54,10 +54,10 @@
             "Your quick reflexes and focus leave you unscathed. If you alrady lost HP, you gain it back (You were never hit, after all)."
         ],
         "snag": [
-            ""
+            "You were able to avoid the worst of it and are still standing. You have 1d4 HP."
         ],
         "fail": [
-            ""
+            "Sorry... but Death's Door awaits you."
         ]
     },
     {

@@ -11,12 +11,22 @@ New characters have short list of things they need.
 - 1 Skill
 - And 5 XP to start out
 
-*Optionally, they can also manipulate their stats to make their character even cooler.*
+*Optionally, you can also manipulate their ATTRIBUTES to make your character even cooler.*
 Let's go through each of these items and build a new character!
 
 ### Name & Description
 
 What they're called and what they look like (Make sure to talk to your AL if you want to do something aprticularly wonky and out there).
+
+### Attributes
+
+Your character has 8 ATTRIBUTES (Clever, Dextrous, Grace, Irreverent, Magical, Martial, & Natural) that define their abilities and aptitude with certain skills. If a skill you're using has SUCCESS conditions, you can roll using one of its associated ATTRIBUTES. Otherwise, the AL determines when you roll which ATTRIBUTE.
+
+By default, you have +0 to all of your ATTRIBUTES. You can increase them by +2 by buying SkillUp!'s with XP in the [XP Shop](/xp-shop). The more SkillUp!'s you have under an ATTRIBUTE, the more expensive the next SkillUp! is. But there's another way to buff your ATTRIBUTES without spending XP.
+
+### Stat Manipulation
+
+You can increase any of your ATTRIBUTES by up to +2. However, you must subtract your increase to another ATTRIBUTE. There is no limit to how low you can decrease a stat, so feel free to dump to your heart's content (Just be careful)! Does this mean you can increase every stat by 2 except for 1? YES! Does that make that one stat your glaring weakness? ALSO YES! Choose wisely when manipulating your stats.
 
 ### 1 Free Talent
 
@@ -30,4 +40,4 @@ Your main ways of earning XP will be through rolls. Every time you Fail a roll, 
 
 ## Relationships
 
-Relationships are a great way to gain XP in Adventum. To define a relationship, write down the name of the character you want to mark down, the **NATURE** of the relationship and the **INTENSITY** of the relationship (With the AL’s approval).
+Relationships are a great way to gain XP in Adventum. To define a relationship, write down the name of the character you want to mark down, the NATURE of the relationship and the INTENSITY of the relationship (With the AL’s approval).

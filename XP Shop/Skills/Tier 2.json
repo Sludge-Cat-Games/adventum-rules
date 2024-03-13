@@ -112,15 +112,9 @@
             "|2-3|Severe|-8|",
             "|1|Impossible|1|"
         ],
-        "success": [
-            ""
-        ],
-        "snag": [
-            ""
-        ],
-        "fail": [
-            ""
-        ]
+        "success": [],
+        "snag": [],
+        "fail": []
     },
     {
         "type": "skill",
@@ -242,17 +236,11 @@
             "Irreverent"
         ],
         "description": [
-            "Whenever you have "
+            "Whenever you have LEVERAGE, you can use your IRREVERENT ATTRIBUTE on a SKILL if it isn't GRACEFUL, MAGICAL, or MARTIAL."
         ],
-        "success": [
-            "Whenever you have LEVERAGE, you can use your IRREVERENT ATTRIBUTE if you weren't using that already."
-        ],
-        "snag": [
-            ""
-        ],
-        "fail": [
-            ""
-        ]
+        "success": [],
+        "snag": [],
+        "fail": []
     },
     {
         "type": "skill",

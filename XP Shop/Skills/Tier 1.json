@@ -173,9 +173,7 @@
             "Grace",
             "Magical"
         ],
-        "description": [
-            ""
-        ],
+        "description": [],
         "success": [
             "You can heal a creature for 5 health (You can also choose to heal a minor medical malady as described in the fail condition)."
         ],
