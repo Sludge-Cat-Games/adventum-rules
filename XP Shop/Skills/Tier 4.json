@@ -121,7 +121,7 @@
             "- Bruised: You push yourself to 11 and don't have a way to put on the brakes. You stumble and take 1d6 damage."
         ],
         "fail": [
-            ""
+            "You don't make it in time. Let's hope that wasn't too important."
         ]
     },
     {

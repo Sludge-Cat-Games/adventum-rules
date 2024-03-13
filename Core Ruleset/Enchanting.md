@@ -4,11 +4,11 @@ Through careful dedication to magic rituals and reverence to the arcane, you hav
 
 ## Enchanted Items
 
-Enchanted Items have Attunement Effects. These Effects can't be used until the item is attuned to. You can be ATTUNED to 1+ GRACE items at 1 time. If the Attunement Effect has a success condition, use GRACE to roll for it. If not, it activates on attunement or at dawn. An Attunement Effect won't stack on itself.
+Enchanted Items have Attunement Effects. These Effects can't be used until the item is attuned to. You can be ATTUNED to 1+ GRACEFUL items at 1 time. If the Attunement Effect has a success condition, use GRACEFUL to roll for it. If not, it activates on attunement or at dawn. An Attunement Effect won't stack on itself.
 
 ### Attunement
 
-Attunement usually requires the GRACE or MAGICAL ATTRIBUTE.
+Attunement usually requires the GRACEFUL or MAGICAL ATTRIBUTE.
 
 ###### SUCCESS
 
@@ -28,7 +28,7 @@ You're more than attuned to the object. You're SYNCHRONIZED. You have LEVERAGE w
 
 ### Knowledge
 
-You can only ENCHANT an object if you have KNOWLEDGE of a certain Effect. You can spend 5 XP to gain KNOWLEDGE of any GRACE skill. You can also gain KNOWLEDGE by expending 5 XP and destroying an ENCHANTED ITEM you are attuned to. You automatically have KNOWLEDGE of any GRACE skill you know.
+You can only ENCHANT an object if you have KNOWLEDGE of a certain Effect. You can spend 5 XP to gain KNOWLEDGE of any GRACEFUL skill. You can also gain KNOWLEDGE by expending 5 XP and destroying an ENCHANTED ITEM you are attuned to. You automatically have KNOWLEDGE of any GRACEFUL skill you know.
 
 ## Enchantment Tier Table
 
@@ -45,13 +45,13 @@ You can only ENCHANT an object if you have KNOWLEDGE of a certain Effect. You ca
 |Number|Jinx|Description|
 |---|---|---|
 |1|Slightly Unnverving|You have -1 on all social rolls.|
-|2|Burden|Roll 1d8. You have a -2 penalty on the corresponding ATTRIBUTE.\n1) CLEVER\n2) DEXTROUS\n3) GRACE\n4) IRREVERENT\n5) MAGICAL\n6) MARTIAL\n7) NATURAL\n8) STRONG|
+|2|Burden|Roll 1d8. You have a -2 penalty on the corresponding ATTRIBUTE.\n1) CLEVER\n2) DEXTROUS\n3) GRACEFUL\n4) IRREVERENT\n5) MAGICAL\n6) MARTIAL\n7) NATURAL\n8) STRONG|
 |3|Parasitic|Decrease Max HP by 1d6. Can't be less than 1.|
 |4|Unlucky|When you roll a 4 or 13, your next roll LOSES LEVERAGE.|
 |5|Anti-Magic|All MAGICAL rolls LOSE LEVERAGE.|
 |6|Complex|Multiple jinxes develop. Roll twice for both jinxes and add a roll for every 6 rolled.|
 
-When rolling to enchant an item, use GRACE to see the results of your enchantment RITUAL. (You can only do this if you have the ENCHANTER Skill).
+When rolling to enchant an item, use GRACEFUL to see the results of your enchantment RITUAL. (You can only do this if you have the ENCHANTER Skill).
 
 ###### SUCCESS
 
@@ -84,6 +84,6 @@ To create a staff of Soul Rending you'll need:
 2) Choose an Attunement Effect. We're using Spiritual Absorption.
 3) Spiritual Absorption is a Tier 3 Skill. We'll now wait 5 in game days to complete the ritual.
 4) We'll now calculate the Dynamic Difficulty for Enchanting: The Skill we're using as our Attunement Effect is Tier 3, so the DD is -7. 
-5) We rolled a 13 + GRACE (+4) = 17. The DD takes us down to 10. A SNAG.
+5) We rolled a 13 + GRACEFUL (+4) = 17. The DD takes us down to 10. A SNAG.
 6) We decided that our mistake was a Lack of Reverence. So we'll roll on the Enchantment Jinx Table. We got a 1, which gives us the Outcast Jinx.
 7) We now have a Staff of Soul Rending, that also imposes a -1 on all of our Social rolls.

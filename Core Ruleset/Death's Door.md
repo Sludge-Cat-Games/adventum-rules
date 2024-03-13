@@ -17,10 +17,10 @@ Your character does not get back up once they drop. They might not die right now
 
 |Associated Attribute|Name of Bargain|Consequence of Survival|
 |---|---|---|
-|**None**|Standard Bargain|Roll a d8. Reduce the corresponding **ATTRIBUTE** by 2. (1)**CLEVER** (2)**DEXTROUS** (3)**GRACE** (4)**IRREVERENT** (5)**MAGICAL** (6)**MARTIAL** (7)**NATURAL** (8)**STRONG**|
+|**None**|Standard Bargain|Roll a d8. Reduce the corresponding **ATTRIBUTE** by 2. (1)**CLEVER** (2)**DEXTROUS** (3)**GRACEFUL** (4)**IRREVERENT** (5)**MAGICAL** (6)**MARTIAL** (7)**NATURAL** (8)**STRONG**|
 |**CLEVER**|Brain Drain|Your experience cap is reduced by 2d10.|
 |**DEXTROUS**|Paralyzing Fear|When you encounter the same weapon, person, or situation that nearly killed you, roll **WITHOUT LEVERAGE** when **DEFENDING** if **FAILURE** could result in death.|
-|**GRACE**|Reverent Promise|If you knowingly tell someone a falsehood, or lie, ROLL DEATH'S door again. If you choose the GRACE option again, on a SNAG, receive 1d10 damage instead (if this triggers another **DEATH's DOO**R roll, so be it).|
+|**GRACEFUL**|Reverent Promise|If you knowingly tell someone a falsehood, or lie, ROLL DEATH'S door again. If you choose the GRACEFUL option again, on a SNAG, receive 1d10 damage instead (if this triggers another **DEATH's DOO**R roll, so be it).|
 |**IRREVERENT**|Unlucky|Whenever you get a , on the die (before modifiers) in an **IRREVERENT** roll, your next roll **LOSES LEVERAGE.**|
 |**MAGICAL**|Arcane Exposure|Your magic keeps you alive but leaves you strained. Forget 1d4 Magical Skills or Spells of your choice. You can't buy these again with **XP**.|
 |**MARTIAL**|Overexerted|You are capable but at risk of exhausting yourself. When you **SNAG** or **FAIL** a **MARTIAL** roll, make a choice. Either take 1d4 damage or make your next MARTIAL roll with **LOST LEVERAGE.**|
