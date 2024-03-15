@@ -17,6 +17,44 @@
     {
         "type": "skill",
         "cost": 30,
+        "name": "Beast Limb",
+        "tags": [
+            "Magical",
+            "Natural"
+        ],
+        "description": [
+            "You are able to change up to all of your limbs into that of an animal in your nature domain. If you don't have a nature domain, choose one of these environments as a domain:",
+            "- Desert",
+            "- Forest",
+            "- Ocean",
+            "- Savana",
+            "- Tundra",
+            "Roll Natural or Magical when using your beast limbs."
+        ],
+        "success": [
+            "You are able to transform up to all of your limbs into the appendages of your chosen animal.",
+            "You can dismiss the limbs at will."
+        ],
+        "snag": [
+            "You are able to tranform but it is a slightly awkward process. Roll 1d4. That many limbs get transformed.",
+            "You can dismiss the limbs after you SNAG or SUCCEED a NATURAL roll."
+        ],
+        "fail": [
+            "You fail to transform correctly. Roll 1d8 and accept your failed transformation:",
+            "- Antenna: You grow one ant's antenna and LOSE LEVERAGE on CLEVER rolls.",
+            "- Cloven Hooves: Your feet and hands are replaced with horse hooves. LOSE LEVERAGE on DEXTROUS rolls.",
+            "- Ram's Horns: You develop curly rams' horns and LOSE LEVERAGE on GRACEFUL rolls.",
+            "- Fluffy Wool: Your entire body grow curly white sheep's fur and LOSE LEVERAGE on IRREVERENT rolls.",
+            "- Bug Eyes: Your eyes transform into lime green compound flies eyes and LOSE LEVERAGE on MAGICAL rolls.",
+            "- Worm Fingers: Your fingers and toes have been replaced with worms. Lose LEVERAGE on MARTIAL rolls.",
+            "- You fail to transform entirely, but something feels off and you LOSE LEVERAGE on NATURAL rolls (Can be dismissed just like the rest of the limbs).",
+            "- T-Rex Arms: Your arms are replaced by T-Rex Arms and LOSE LEVERAGE on STRONG rolls.",
+            "You can't dismiss the limbs but they go away when you SUCCEED or SNAG another BEAST LIMB Roll'"
+        ]
+    },
+    {
+        "type": "skill",
+        "cost": 30,
         "name": "Blooded",
         "tags": [
             "Strong"
