@@ -75,13 +75,13 @@
         "type": "item",
         "id": 6,
         "name": "Abundant Scone",
-        "cost": 100,
+        "cost": 350,
         "tags": [
             "Consumable",
             "Magical"
         ],
         "description": [
-            "An exquisitely sweet dessert made with concentrated health potion extract. Heals 1d10 HP when consumed."
+            "An exquisitely sweet dessert made with concentrated health potion extract. Heals 2 HP when consumed."
         ]
     },
     {

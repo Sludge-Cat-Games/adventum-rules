@@ -27,9 +27,9 @@ The spell does not cast, and you experience Arcane Burn.
 |1|Light|After the spell is cast, you glow a color of the AL’s choice for 1 hour.|
 |2|Unintended Healing|The target gets healed for 1d4 damage.|
 |3|Arcane Burn|You try to cast the spell but it hurts to release the energy. You take 1d4 damage that ignores ARMOR (If this isn't a side effect, it affects the target and not the caster).|
-|4|Misdirection|The closest viable target to the caster is hit with the spell effect instead of the original target.|
-|5|2nd target|The next closest unaffected living/animated target is hit as well.|
-|6|Complex|Add another side effect. Roll a 1d6 for each side effect accrued.|
+|4|Misdirection|The target becomes the closest viable target within line of sight to the target.|
+|5|2nd target|All spell effects (except for this one) are applied to the closest option in line of sight of the last target. The extra target must be viable and unaffected by the same spell.|
+|6|Complex|Accrue 1 more side effect. Roll 1d6 for each side effect.|
 
 ## Spellcrafting
 
@@ -74,7 +74,7 @@ You are able write the spell but there are some kinks that need to be worked out
 
 ###### FAIL
 
-You fail to craft your spell. You must take 1 week to recoup and stuy before attempting to craft another spell.
+You fail to craft your spell. You must take 1 week to recoup and study before attempting to craft another spell.
 
 ###### CRIT
 
@@ -84,7 +84,7 @@ You've created a signature spell. You have LEVERAGE whenever you cast this spell
 
 To craft an “Arcane Ward” or magical warding spell, you’ll need a few things.
 
-1) To have spent 5 XP to extract an **EFFECT** from a **SKILL**. In this case, we want [**“Puny Wizard!”**](https://www.thatowlguy.com/adventum/xp-shop/tier-4-skills), which is a Tier 4 **SKILL**.
+1) To have spent 5 XP to extract an **EFFECT** from a **SKILL**. In this case, we want **“Puny Wizard!”** from the [XP Shop](/xp-shop), which is a Tier 4 **SKILL**.
 
 2) To select a **RANGE**. We’ll choose **Touch**. Since the effect from **“Puny Wizard!”** doesn’t come from a **SUCCESS** condition, it will be a passive effect that lasts only 1 hour. So if we’re smart, we can apply the ward before it’s needed to ourselves or other allies.
 
@@ -93,6 +93,6 @@ So for our ward, it is (+0) - Touch (1) - Tier 4 (10) = **-14**.
 
 1) We roll using our **CLEVER** **ATTRIBUTE**, which is **SIMPLE** (+4), and get a 12 (18 + 4 - 10). This is a **SNAG** 
 
-2) We'll choose the QUIRKY consequende. We rolled on the Magic Side Effects table and got a 2. We’ll now add _“does +1d4 healing”_ to our spell’s effect.
+2) We'll choose the QUIRKY consequence. We rolled on the Magic Side Effects table and got a 2. We’ll now add _“does +1d4 healing”_ to our spell’s effect.
 
 3) So now we have a “Quirky Healing Arcane Ward” with a **RANGE** of **Touch** and an **EFFECT** of healing 1d4 health at casting, as well as reducing magical damage by 1d6 for 1 hour.
