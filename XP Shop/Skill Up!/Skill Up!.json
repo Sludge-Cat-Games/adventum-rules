@@ -1,27 +1,27 @@
 [
     {
         "type": "Skill Up!",
-        "cost" : 10,
+        "cost" : 5,
         "increase" : "1st"
     },
     {
         "type": "Skill Up!",
-        "cost" : 20,
+        "cost" : 10,
         "increase" : "2nd"
     },
     {
         "type": "Skill Up!",
-        "cost" : 30,
+        "cost" : 15,
         "increase" : "3rd"
     },
     {
         "type": "Skill Up!",
-        "cost" : 40,
+        "cost" : 20,
         "increase" : "4th"
     },
     {
         "type": "Skill Up!",
-        "cost" : 50,
+        "cost" : 25,
         "increase" : "5th"
     }
 ]
