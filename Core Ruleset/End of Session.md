@@ -6,7 +6,7 @@ At the end of every Adventum session the AL should conclude your rousing story w
 
 - Has your character acted on their motivation?
 - Has the NATURE of any of your marked Relationships change?
-- Has the INTENSITY of any of your marked Relationships change?
+- Has the INTENSITY of any of your marked Relationships change? (If your INTENSITY flipped then you get 2 XP)
 
 Each of these questions can reward an individual character 1 **XP** if answered "yes" (and are justified to the AL).
 
