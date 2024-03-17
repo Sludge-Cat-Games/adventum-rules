@@ -10,11 +10,11 @@ Whenever you roll to successfully complete an action, your result can be one of 
 
 ### Success
 
-To succeed on a roll, you need to get a 17 or higher.
+To succeed on a roll, you need to get a 15 or higher.
 
 ### Snag
 
-To snag a roll, you can get any number from 7 to 16.
+To snag a roll, you can get any number from 7 to 14.
 
 ### Failure
 
