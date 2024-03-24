@@ -1,6 +1,6 @@
 [
     {
-        "type": "skill",
+        "type": "Skill",
         "cost": 10,
         "name": "Acrobatic",
         "tags": [
@@ -22,7 +22,7 @@
         ]
     },
     {
-        "type": "skill",
+        "type": "Skill",
         "cost": 10,
         "name": "Armor Up!",
         "tags": [
@@ -37,7 +37,7 @@
         "fail": []
     },
     {
-        "type": "skill",
+        "type": "Skill",
         "cost": 10,
         "name": "Blood Bullet",
         "tags": [
@@ -60,7 +60,7 @@
         ]
     },
     {
-        "type": "skill",
+        "type": "Skill",
         "cost": 10,
         "name": "Chef",
         "tags": [
@@ -85,7 +85,7 @@
         ]
     },
     {
-        "type": "skill",
+        "type": "Skill",
         "cost": 10,
         "name": "Clairvoyant Nose",
         "tags": [
@@ -108,7 +108,7 @@
         "fail": []
     },
     {
-        "type": "skill",
+        "type": "Skill",
         "cost": 10,
         "name": "Give Me a Sign",
         "tags": [
@@ -122,7 +122,7 @@
         "fail": []
     },
     {
-        "type": "skill",
+        "type": "Skill",
         "cost": 10,
         "name": "I Have a Guy...",
         "tags": [
@@ -145,7 +145,7 @@
         ]
     },
     {
-        "type": "skill",
+        "type": "Skill",
         "cost": 10,
         "name": "Ki Training",
         "tags": [
@@ -166,7 +166,7 @@
         ]
     },
     {
-        "type": "skill",
+        "type": "Skill",
         "cost": 10,
         "name": "Minor Healing",
         "tags": [
@@ -185,7 +185,7 @@
         ]
     },
     {
-        "type": "skill",
+        "type": "Skill",
         "cost": 10,
         "name": "Of the Same Cloth",
         "tags": [
@@ -200,7 +200,7 @@
         "fail": []
     },
     {
-        "type": "skill",
+        "type": "Skill",
         "cost": 10,
         "name": "Researcher",
         "tags": [
@@ -223,7 +223,7 @@
         ]
     },
     {
-        "type": "skill",
+        "type": "Skill",
         "cost": 10,
         "name": "Revenge!",
         "tags": [
@@ -239,7 +239,7 @@
         "fail": []
     },
     {
-        "type": "skill",
+        "type": "Skill",
         "cost": 10,
         "name": "Saboteur",
         "tags": [
@@ -260,7 +260,7 @@
         ]
     },
     {
-        "type": "skill",
+        "type": "Skill",
         "cost": 10,
         "name": "Scrappy",
         "tags": [
@@ -274,7 +274,7 @@
         "fail": []
     },
     {
-        "type": "skill",
+        "type": "Skill",
         "cost": 10,
         "name": "Sorcerer",
         "tags": [
@@ -303,7 +303,7 @@
         ]
     },
     {
-        "type": "skill",
+        "type": "Skill",
         "cost": 10,
         "name": "Survivalist",
         "tags": [
@@ -317,7 +317,7 @@
         "fail": []
     },
     {
-        "type": "skill",
+        "type": "Skill",
         "cost": 10,
         "name": "Marksmanship",
         "tags": [
@@ -337,7 +337,7 @@
         "fail": []
     },
     {
-        "type": "skill",
+        "type": "Skill",
         "cost": 10,
         "name": "Swordsmanship",
         "tags": [
@@ -358,7 +358,7 @@
         "fail": []
     },
     {
-        "type": "skill",
+        "type": "Skill",
         "cost": 10,
         "name": "Talk to Animals",
         "tags": [
@@ -373,7 +373,7 @@
         "fail": []
     },
     {
-        "type": "skill",
+        "type": "Skill",
         "cost": 10,
         "name": "Thief",
         "tags": [
@@ -388,7 +388,7 @@
         "fail": []
     },
     {
-        "type": "skill",
+        "type": "Skill",
         "cost": 10,
         "name": "Martial Artist",
         "tags": [

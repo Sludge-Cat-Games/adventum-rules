@@ -1,6 +1,6 @@
 [
     {
-        "type": "skill",
+        "type": "Skill",
         "cost": 30,
         "name": "Backstab",
         "tags": [
@@ -15,7 +15,7 @@
         "fail": []
     },
     {
-        "type": "skill",
+        "type": "Skill",
         "cost": 30,
         "name": "Beast Limb",
         "tags": [
@@ -53,7 +53,7 @@
         ]
     },
     {
-        "type": "skill",
+        "type": "Skill",
         "cost": 30,
         "name": "Blooded",
         "tags": [
@@ -68,7 +68,7 @@
         "fail": []
     },
     {
-        "type": "skill",
+        "type": "Skill",
         "cost": 30,
         "name": "Counter Spell",
         "tags": [
@@ -93,7 +93,7 @@
         ]
     },
     {
-        "type": "skill",
+        "type": "Skill",
         "cost": 30,
         "name": "Divine Judgement",
         "tags": [
@@ -109,7 +109,7 @@
         "fail": []
     },
     {
-        "type": "skill",
+        "type": "Skill",
         "cost": 30,
         "name": "Elemental Affinity: Air",
         "tags": [
@@ -131,7 +131,7 @@
         ]
     },
     {
-        "type": "skill",
+        "type": "Skill",
         "cost": 30,
         "name": "Elemental Affinity: Earth",
         "tags": [
@@ -153,7 +153,7 @@
         ]
     },
     {
-        "type": "skill",
+        "type": "Skill",
         "cost": 30,
         "name": "Elemental Affinity: Fire",
         "tags": [
@@ -175,7 +175,7 @@
         ]
     },
     {
-        "type": "skill",
+        "type": "Skill",
         "cost": 30,
         "name": "Elemental Affinity: Water",
         "tags": [
@@ -197,7 +197,7 @@
         ]
     },
     {
-        "type": "skill",
+        "type": "Skill",
         "cost": 30,
         "name": "Macgyver",
         "tags": [
@@ -223,7 +223,7 @@
         ]
     },
     {
-        "type": "skill",
+        "type": "Skill",
         "cost": 30,
         "name": "Spiritual Absorption",
         "tags": [
@@ -248,7 +248,7 @@
         ]
     },
     {
-        "type": "skill",
+        "type": "Skill",
         "cost": 30,
         "name": "TLC",
         "tags": [
@@ -269,7 +269,7 @@
         ]
     },
     {
-        "type": "skill",
+        "type": "Skill",
         "cost": 30,
         "name": "Magic Trick",
         "tags": [

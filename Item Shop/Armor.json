@@ -1,6 +1,6 @@
 [
     {
-        "type": "item",
+        "type": "Item",
         "id": 1,
         "name": "Light Covert Vest",
         "cost": 500,
@@ -12,7 +12,7 @@
         ]
     },
     {
-        "type": "item",
+        "type": "Item",
         "id": 2,
         "name": "AMF Jacket",
         "cost": 800,
@@ -25,7 +25,7 @@
         ]
     },
     {
-        "type": "item",
+        "type": "Item",
         "id": 3,
         "name": "Tactical Vest",
         "cost": 1000,
@@ -37,7 +37,7 @@
         ]
     },
     {
-        "type": "item",
+        "type": "Item",
         "id": 4,
         "name": "Amulet of Protection",
         "cost": 900,
@@ -50,7 +50,7 @@
         ]
     },
     {
-        "type": "item",
+        "type": "Item",
         "id": 5,
         "name": "Heavy Bullet Proof Vest",
         "cost": 2000,

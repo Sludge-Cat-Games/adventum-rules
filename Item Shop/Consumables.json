@@ -1,6 +1,6 @@
 [
     {
-        "type": "item",
+        "type": "Item",
         "id": 1,
         "name": "Arcane Ramen x 5",
         "cost": 5,
@@ -13,7 +13,7 @@
         ]
     },
     {
-        "type": "item",
+        "type": "Item",
         "id": 2,
         "name": "Magicwaveable Food",
         "cost": 10,
@@ -26,7 +26,7 @@
         ]
     },
     {
-        "type": "item",
+        "type": "Item",
         "id": 3,
         "name": "Wonderful Meal",
         "cost": 50,
@@ -42,7 +42,7 @@
         ]
     },
     {
-        "type": "item",
+        "type": "Item",
         "id": 4,
         "name": "Basic Poison",
         "cost": 100,
@@ -56,7 +56,7 @@
         ]
     },
     {
-        "type": "item",
+        "type": "Item",
         "id": 5,
         "name": "Immaculate Meal",
         "cost": 100,
@@ -72,7 +72,7 @@
         ]
     },
     {
-        "type": "item",
+        "type": "Item",
         "id": 6,
         "name": "Abundant Scone",
         "cost": 350,
@@ -85,7 +85,7 @@
         ]
     },
     {
-        "type": "item",
+        "type": "Item",
         "id": 7,
         "name": "Demonic Muffin",
         "cost": 100,
@@ -98,7 +98,7 @@
         ]
     },
     {
-        "type": "item",
+        "type": "Item",
         "id": 8,
         "name": "Fast Acting Poison",
         "cost": 200,
@@ -112,7 +112,7 @@
         ]
     },
     {
-        "type": "item",
+        "type": "Item",
         "id": 9,
         "name": "Gourmet Meal",
         "cost": 400,
@@ -128,7 +128,7 @@
         ]
     },
     {
-        "type": "item",
+        "type": "Item",
         "id": 10,
         "name": "Weed x 5",
         "cost": 420,
@@ -140,7 +140,7 @@
         ]
     },
     {
-        "type": "item",
+        "type": "Item",
         "id": 11,
         "name": "Minor Health Potion",
         "cost": 500,
@@ -153,7 +153,7 @@
         ]
     },
     {
-        "type": "item",
+        "type": "Item",
         "id": 12,
         "name": "Stimulating Potion",
         "cost": 800,
@@ -166,7 +166,7 @@
         ]
     },
     {
-        "type": "item",
+        "type": "Item",
         "id": 13,
         "name": "Health Potion",
         "cost": 1000,
@@ -179,7 +179,7 @@
         ]
     },
     {
-        "type": "item",
+        "type": "Item",
         "id": 14,
         "name": "Mana Potion",
         "cost": 1100,
@@ -192,7 +192,7 @@
         ]
     },
     {
-        "type": "item",
+        "type": "Item",
         "id": 15,
         "name": "Sleepy Time Potion",
         "cost": 1200,
@@ -205,7 +205,7 @@
         ]
     },
     {
-        "type": "item",
+        "type": "Item",
         "id": 16,
         "name": "Potion of Invisibility",
         "cost": 1300,

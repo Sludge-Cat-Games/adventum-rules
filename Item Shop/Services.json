@@ -1,6 +1,6 @@
 [
     {
-        "type": "item",
+        "type": "Item",
         "id": 1,
         "name": "1 Day Minimum Wage",
         "cost": 35,
@@ -12,7 +12,7 @@
         ]
     },
     {
-        "type": "item",
+        "type": "Item",
         "id": 2,
         "name": "Cheap Freelance Task",
         "cost": 4,
@@ -24,7 +24,7 @@
         ]
     },
     {
-        "type": "item",
+        "type": "Item",
         "id": 3,
         "name": "Cheap Freelance Day of labor",
         "cost": 6,
@@ -37,7 +37,7 @@
         ]
     },
     {
-        "type": "item",
+        "type": "Item",
         "id": 4,
         "name": "1 Day Low Wage",
         "cost": 40,
@@ -49,7 +49,7 @@
         ]
     },
     {
-        "type": "item",
+        "type": "Item",
         "id": 5,
         "name": "1 Day of Lower Middle Class Wage",
         "cost": 60,
@@ -61,7 +61,7 @@
         ]
     },
     {
-        "type": "item",
+        "type": "Item",
         "id": 6,
         "name": "1 Day of Middle Class Wage",
         "cost": 100,
@@ -73,7 +73,7 @@
         ]
     },
     {
-        "type": "item",
+        "type": "Item",
         "id": 7,
         "name": "1 Day of Upper Middle Class",
         "cost": 200,
@@ -85,7 +85,7 @@
         ]
     },
     {
-        "type": "item",
+        "type": "Item",
         "id": 8,
         "name": "1 Day of Upper Class",
         "cost": 300,
