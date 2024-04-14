@@ -1,10 +1,10 @@
 [
     {
-        "type": "skill",
+        "type": "Skill",
         "cost": 50,
         "name": "An Invincible Faith",
         "tags": [
-            "Grace",
+            "Graceful",
             "Magical"
         ],
         "description": [
@@ -17,7 +17,7 @@
         "fail": []
     },
     {
-        "type": "skill",
+        "type": "Skill",
         "cost": 50,
         "name": "Assassinate",
         "tags": [
@@ -40,7 +40,7 @@
         ]
     },
     {
-        "type": "skill",
+        "type": "Skill",
         "cost": 50,
         "name": "Reflexive",
         "tags": [
@@ -61,7 +61,7 @@
         ]
     },
     {
-        "type": "skill",
+        "type": "Skill",
         "cost": 50,
         "name": "Great Beast Form",
         "tags": [
@@ -77,7 +77,7 @@
         "fail": []
     },
     {
-        "type": "skill",
+        "type": "Skill",
         "cost": 50,
         "name": "Herculean Strength",
         "tags": [
@@ -97,7 +97,7 @@
         ]
     },
     {
-        "type": "skill",
+        "type": "Skill",
         "cost": 50,
         "name": "Secret Technique",
         "tags": [

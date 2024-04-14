@@ -1,6 +1,6 @@
 [
     {
-        "type": "skill",
+        "type": "Skill",
         "cost": 10,
         "name": "Acrobatic",
         "tags": [
@@ -22,7 +22,7 @@
         ]
     },
     {
-        "type": "skill",
+        "type": "Skill",
         "cost": 10,
         "name": "Armor Up!",
         "tags": [
@@ -37,7 +37,7 @@
         "fail": []
     },
     {
-        "type": "skill",
+        "type": "Skill",
         "cost": 10,
         "name": "Blood Bullet",
         "tags": [
@@ -60,7 +60,7 @@
         ]
     },
     {
-        "type": "skill",
+        "type": "Skill",
         "cost": 10,
         "name": "Chef",
         "tags": [
@@ -85,11 +85,11 @@
         ]
     },
     {
-        "type": "skill",
+        "type": "Skill",
         "cost": 10,
         "name": "Clairvoyant Nose",
         "tags": [
-            "Grace",
+            "Graceful",
             "Irreverent",
             "Magical"
         ],
@@ -108,11 +108,11 @@
         "fail": []
     },
     {
-        "type": "skill",
+        "type": "Skill",
         "cost": 10,
         "name": "Give Me a Sign",
         "tags": [
-            "Grace"
+            "Graceful"
         ],
         "description": [
             "Once a day, you can petition your benevolent spirit, god, or gods to guide you on the right path. They may steer you into or away from danger as is appropriate for their care or plans for you. However, the direction they point you to can only be communicated in coincidences, tricks of lights, or other common physical phenomena."
@@ -122,7 +122,7 @@
         "fail": []
     },
     {
-        "type": "skill",
+        "type": "Skill",
         "cost": 10,
         "name": "I Have a Guy...",
         "tags": [
@@ -145,7 +145,7 @@
         ]
     },
     {
-        "type": "skill",
+        "type": "Skill",
         "cost": 10,
         "name": "Ki Training",
         "tags": [
@@ -166,11 +166,11 @@
         ]
     },
     {
-        "type": "skill",
+        "type": "Skill",
         "cost": 10,
         "name": "Minor Healing",
         "tags": [
-            "Grace",
+            "Graceful",
             "Magical"
         ],
         "description": [],
@@ -185,12 +185,11 @@
         ]
     },
     {
-        "type": "skill",
+        "type": "Skill",
         "cost": 10,
         "name": "Of the Same Cloth",
         "tags": [
-            "Grace",
-            "Magical"
+            "Graceful"
         ],
         "description": [
             "You can use your Grace ATTRIBUTE in social situations with people who have the same god/faith/or philosophy as you."
@@ -200,7 +199,7 @@
         "fail": []
     },
     {
-        "type": "skill",
+        "type": "Skill",
         "cost": 10,
         "name": "Researcher",
         "tags": [
@@ -223,7 +222,7 @@
         ]
     },
     {
-        "type": "skill",
+        "type": "Skill",
         "cost": 10,
         "name": "Revenge!",
         "tags": [
@@ -239,7 +238,7 @@
         "fail": []
     },
     {
-        "type": "skill",
+        "type": "Skill",
         "cost": 10,
         "name": "Saboteur",
         "tags": [
@@ -260,7 +259,7 @@
         ]
     },
     {
-        "type": "skill",
+        "type": "Skill",
         "cost": 10,
         "name": "Scrappy",
         "tags": [
@@ -274,7 +273,7 @@
         "fail": []
     },
     {
-        "type": "skill",
+        "type": "Skill",
         "cost": 10,
         "name": "Sorcerer",
         "tags": [
@@ -303,7 +302,7 @@
         ]
     },
     {
-        "type": "skill",
+        "type": "Skill",
         "cost": 10,
         "name": "Survivalist",
         "tags": [
@@ -317,7 +316,7 @@
         "fail": []
     },
     {
-        "type": "skill",
+        "type": "Skill",
         "cost": 10,
         "name": "Marksmanship",
         "tags": [
@@ -337,7 +336,7 @@
         "fail": []
     },
     {
-        "type": "skill",
+        "type": "Skill",
         "cost": 10,
         "name": "Swordsmanship",
         "tags": [
@@ -358,7 +357,7 @@
         "fail": []
     },
     {
-        "type": "skill",
+        "type": "Skill",
         "cost": 10,
         "name": "Talk to Animals",
         "tags": [
@@ -373,7 +372,7 @@
         "fail": []
     },
     {
-        "type": "skill",
+        "type": "Skill",
         "cost": 10,
         "name": "Thief",
         "tags": [
@@ -388,7 +387,7 @@
         "fail": []
     },
     {
-        "type": "skill",
+        "type": "Skill",
         "cost": 10,
         "name": "Martial Artist",
         "tags": [

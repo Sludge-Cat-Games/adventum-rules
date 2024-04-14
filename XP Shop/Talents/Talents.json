@@ -1,58 +1,58 @@
 [
     {
-        "type" : "talent",
+        "type" : "Talent",
         "cost" : 25,
         "name" : "Arcane",
-        "tag" : "Magical",
-        "description" : "You can buy Magical skills for half its original XP cost."
+        "tags" : ["Magical"],
+        "info" : ["You can buy Magical skills for half their original XP cost."]
     },
     {
-        "type" : "talent",
+        "type" : "Talent",
         "cost" : 25,
         "name" : "Barbaric",
-        "tag" : "Strong",
-        "description" : "You can buy Strong skills for half its original XP cost."
+        "tags" : ["Strong"],
+        "info" : ["You can buy Strong skills for half their original XP cost."]
     },
     {
-        "type" : "talent",
+        "type" : "Talent",
         "cost" : 25,
         "name" : "Cheeky",
-        "tag" : "Irreverent",
-        "description" : "You can buy Irreverent skills for half its original XP cost."
+        "tags" : ["Irreverent"],
+        "info" : ["You can buy Irreverent skills for half their original XP cost."]
     },
     {
-        "type" : "talent",
+        "type" : "Talent",
         "cost" : 25,
         "name" : "Cunning",
-        "tag" : "Clever",
-        "description" : "You can buy Clever skills for half its original XP cost."
+        "tags" : ["Clever"],
+        "info" : ["You can buy Clever skills for half their original XP cost."]
     },
     {
-        "type" : "talent",
+        "type" : "Talent",
         "cost" : 25,
         "name" : "Disciplined",
-        "tag" : "Martial",
-        "description" : "You can buy Martial skills for half its original XP cost."
+        "tags" : ["Martial"],
+        "info" : ["You can buy Martial skills for half their original XP cost."]
     },
     {
-        "type" : "talent",
+        "type" : "Talent",
         "cost" : 25,
         "name" : "Earthy",
-        "tag" : "Natural",
-        "description" : "You can buy Natural skills for half its original XP cost."
+        "tags" : ["Natural"],
+        "info" : ["You can buy Natural skills for half their original XP cost."]
     },
     {
-        "type" : "talent",
+        "type" : "Talent",
         "cost" : 25,
         "name" : "Divine",
-        "tag" : "Grace",
-        "description" : "You can buy Grace skills for half its original XP cost."
+        "tags" : ["Graceful"],
+        "info" : ["You can buy Grace skills for half their original XP cost."]
     },
     {
-        "type" : "talent",
+        "type" : "Talent",
         "cost" : 25,
         "name" : "Swift",
-        "tag" : "Dextrous",
-        "description" : "You can buy Dextrous skills for half its original XP cost."
+        "tags" : ["Dextrous"],
+        "info" : ["You can buy Dextrous skills for half their original XP cost."]
     }
 ]

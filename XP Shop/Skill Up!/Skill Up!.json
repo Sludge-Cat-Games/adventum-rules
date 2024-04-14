@@ -2,26 +2,41 @@
     {
         "type": "Skill Up!",
         "cost" : 5,
-        "increase" : "1st"
+        "tags" : ["1st Skill Up!"],
+        "info" : [
+            "Increase an attribute by +2 that has 0 SkillUp!'s."
+        ]
     },
     {
         "type": "Skill Up!",
         "cost" : 10,
-        "increase" : "2nd"
+        "tags" : ["2nd Skill Up!"],
+        "info" : [
+            "Increase an attribute by +2 that has 1 SkillUp!."
+        ]
     },
     {
         "type": "Skill Up!",
         "cost" : 15,
-        "increase" : "3rd"
+        "tags" : ["3rd Skill Up!"],
+        "info" : [
+            "Increase an attribute by +2 that has 2 SkillUp!'s."
+        ]
     },
     {
         "type": "Skill Up!",
         "cost" : 20,
-        "increase" : "4th"
+        "tags" : ["4th Skill Up!"],
+        "info" : [
+            "Increase an attribute by +2 that has 3 SkillUp!'s."
+        ]
     },
     {
         "type": "Skill Up!",
         "cost" : 25,
-        "increase" : "5th"
+        "tags" : ["5th Skill Up!"],
+        "info" : [
+            "Increase an attribute by +2 that has 4 SkillUp!'s."
+        ]
     }
 ]

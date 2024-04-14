@@ -1,6 +1,6 @@
 [
     {
-        "type": "item",
+        "type": "Item",
         "id": 1,
         "name": "Extendable Baton",
         "cost": 50,
@@ -8,12 +8,13 @@
             "Melee",
             "Weapon"
         ],
+        "amount": 1,
         "description": [
             "A handy dandy extendable baton. This deals 2 damage and doesn't require proficiency to use. "
         ]
     },
     {
-        "type": "item",
+        "type": "Item",
         "id": 2,
         "name": "Knife",
         "cost": 100,
@@ -21,12 +22,13 @@
             "Melee",
             "Weapon"
         ],
+        "amount": 1,
         "description": [
             "Deals 2 damage + DEXTROUS (1 damage on SNAG) and doesn't require proficiency to use."
         ]
     },
     {
-        "type": "item",
+        "type": "Item",
         "id": 3,
         "name": "Brass Knuckles",
         "cost": 100,
@@ -34,12 +36,13 @@
             "Weapon",
             "Wearable"
         ],
+        "amount": 1,
         "description": [
             "Adds +1 to what would otherwise be unarmed damage."
         ]
     },
     {
-        "type": "item",
+        "type": "Item",
         "id": 4,
         "name": "Crystal Charge x 5",
         "cost": 100,
@@ -47,25 +50,27 @@
             "Ammo",
             "Magical"
         ],
+        "amount": 1,
         "description": [
             "Ammo used in a magical ranged weapon. Each shot fired consumes 1 AMMO on a SNAG or FAILURE."
         ]
     },
     {
-        "type": "item",
+        "type": "Item",
         "id": 5,
         "name": "Tazer",
         "cost": 200,
         "tags": [
             "Utility"
         ],
+        "amount": 1,
         "description": [
             "Can be used to try to stun someone. Make a melee attack roll against an afflictable target. On a SUCCESS, the target is stunned. The next roll against them HAS LEVERAGE. (1 damage on SNAG).",
             "Requires magical ammo."
         ]
     },
     {
-        "type": "item",
+        "type": "Item",
         "id": 6,
         "name": "Nunchucks",
         "cost": 200,
@@ -73,12 +78,13 @@
             "Melee",
             "Weapon"
         ],
+        "amount": 1,
         "description": [
             "A great weapon for a skilled martial artist. Tricky to use though. Deals MARTIAL + DEXTROUS damage on SUCCESS. Deals 1d4 damage on SNAG."
         ]
     },
     {
-        "type": "item",
+        "type": "Item",
         "id": 7,
         "name": "Staff",
         "cost": 200,
@@ -86,12 +92,13 @@
             "Melee",
             "Weapon"
         ],
+        "amount": 1,
         "description": [
             "A quality staff can be used well by a skilled martial artist. Deals 2 + MARTIAL damage. (Deals 2 Damage on SNAG)"
         ]
     },
     {
-        "type": "item",
+        "type": "Item",
         "id": 8,
         "name": "Silver Knuckles",
         "cost": 200,
@@ -99,12 +106,13 @@
             "Weapon",
             "Wearable"
         ],
+        "amount": 1,
         "description": [
             "Adds +2 to what would otherwise be unarmed damage."
         ]
     },
     {
-        "type": "item",
+        "type": "Item",
         "id": 9,
         "name": "Sword",
         "cost": 300,
@@ -112,12 +120,13 @@
             "Melee",
             "Weapon"
         ],
+        "amount": 1,
         "description": [
             "A standard sword deals 2 damage + MARTIAL or STRONG. (2 damage on SNAG)"
         ]
     },
     {
-        "type": "item",
+        "type": "Item",
         "id": 10,
         "name": "Crystal Pistol",
         "cost": 300,
@@ -125,13 +134,14 @@
             "Ranged",
             "Weapon"
         ],
+        "amount": 1,
         "description": [
             "A magic powered gun that can deals 6 damage (1d6 on SNAG). Requires proficiency to use without LOSING LEVERAGE.",
             "Requires magical ammo."
         ]
     },
     {
-        "type": "item",
+        "type": "Item",
         "id": 11,
         "name": "Auto-Magic Rifle",
         "cost": 500,
@@ -140,13 +150,14 @@
             "Ranged",
             "Weapon"
         ],
+        "amount": 1,
         "description": [
             "Deals 1d8 damage on SUCCESS (1d4 on SNAG).",
             "Requires magical ammo."
         ]
     },
     {
-        "type": "item",
+        "type": "Item",
         "id": 12,
         "name": "Longsword",
         "cost": 600,
@@ -154,12 +165,13 @@
             "Melee",
             "Weapon"
         ],
+        "amount": 1,
         "description": [
             "Deal 3 damage (1d4 on SNAG). Add STRONG on SUCCESS."
         ]
     },
     {
-        "type": "item",
+        "type": "Item",
         "id": 13,
         "name": "Crystal Rifle",
         "cost": 700,
@@ -167,13 +179,14 @@
             "Ranged",
             "Weapon"
         ],
+        "amount": 1,
         "description": [
             "A magic powered rifle that can shoot targets over far distances. Deals 6 damage (1d4 on SNAG). Add DEXTROUS to damage when shooting targets further than the THROWN, range.",
             "Requires magical ammo."
         ]
     },
     {
-        "type": "item",
+        "type": "Item",
         "id": 14,
         "name": "Scythe",
         "cost": 800,
@@ -181,12 +194,13 @@
             "Melee",
             "Weapon"
         ],
+        "amount": 1,
         "description": [
             "Deals 4 + MARTIAL & STRONG. (Deals 2 + STRONG on SNAG)"
         ]
     },
     {
-        "type": "item",
+        "type": "Item",
         "id": 15,
         "name": "Crystal Sword",
         "cost": 1000,
@@ -195,6 +209,7 @@
             "Melee",
             "Weapon"
         ],
+        "amount": 1,
         "description": [
             "A clear crystalline hilt with no blade until magic is funneled into the weapon (which can be done at will and only if your MAGICAL ATTRIBUTE is more than 0).",
             "Magic can be funneled at will or imbued. When this is done, a thin neon beam of mana in a color of your choosing extends from your blade. The thickness can vary but the length stays the same and matches the length of a standard sword.",
