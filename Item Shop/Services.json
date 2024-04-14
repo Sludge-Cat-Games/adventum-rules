@@ -1,30 +1,32 @@
 [
     {
-        "type": "item",
+        "type": "Item",
         "id": 1,
         "name": "1 Day Minimum Wage",
         "cost": 35,
         "tags": [
             "Salaried"
         ],
+        "amount": 1,
         "description": [
             "When the boss makes a dollar, I make a dime, so I like to poop on company time."
         ]
     },
     {
-        "type": "item",
+        "type": "Item",
         "id": 2,
         "name": "Cheap Freelance Task",
         "cost": 4,
         "tags": [
             "Gig"
         ],
+        "amount": 1,
         "description": [
             "What you might pay upfront for a simple delivery."
         ]
     },
     {
-        "type": "item",
+        "type": "Item",
         "id": 3,
         "name": "Cheap Freelance Day of labor",
         "cost": 6,
@@ -32,66 +34,72 @@
             "Gig",
             "Variable"
         ],
+        "amount": 1,
         "description": [
             "Depending on the day and task, you can get ⓜ100 on SUCCESS, 1d10 * ⓜ10 on SNAG, or ⓜ10 on FAILURE."
         ]
     },
     {
-        "type": "item",
+        "type": "Item",
         "id": 4,
         "name": "1 Day Low Wage",
         "cost": 40,
         "tags": [
             "Salaried"
         ],
+        "amount": 1,
         "description": [
             "It's not much but it beats minimum wage!"
         ]
     },
     {
-        "type": "item",
+        "type": "Item",
         "id": 5,
         "name": "1 Day of Lower Middle Class Wage",
         "cost": 60,
         "tags": [
             "Salaried"
         ],
+        "amount": 1,
         "description": [
             "The promise of economic mobility is almost in sight!"
         ]
     },
     {
-        "type": "item",
+        "type": "Item",
         "id": 6,
         "name": "1 Day of Middle Class Wage",
         "cost": 100,
         "tags": [
             "Salaried"
         ],
+        "amount": 1,
         "description": [
             "Let's hope this class doesn't shrink!"
         ]
     },
     {
-        "type": "item",
+        "type": "Item",
         "id": 7,
         "name": "1 Day of Upper Middle Class",
         "cost": 200,
         "tags": [
             "Salaried"
         ],
+        "amount": 1,
         "description": [
             "Living the dream!"
         ]
     },
     {
-        "type": "item",
+        "type": "Item",
         "id": 8,
         "name": "1 Day of Upper Class",
         "cost": 300,
         "tags": [
             "Salaried"
         ],
+        "amount": 1,
         "description": [
             "When people ask what you make, you can start saying \"I'm doing well for myself\" now."
         ]

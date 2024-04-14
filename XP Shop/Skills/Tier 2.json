@@ -1,6 +1,6 @@
 [
     {
-        "type": "skill",
+        "type": "Skill",
         "cost": 20,
         "name": "Alchemist",
         "tags": [
@@ -20,7 +20,7 @@
         "fail": []
     },
     {
-        "type": "skill",
+        "type": "Skill",
         "cost": 20,
         "name": "Archery",
         "tags": [
@@ -35,7 +35,7 @@
         "fail": []
     },
     {
-        "type": "skill",
+        "type": "Skill",
         "cost": 20,
         "name": "Animal Companion",
         "tags": [
@@ -53,7 +53,7 @@
         "fail": []
     },
     {
-        "type": "skill",
+        "type": "Skill",
         "cost": 20,
         "name": "Balance",
         "tags": [
@@ -68,7 +68,7 @@
         "fail": []
     },
     {
-        "type": "skill",
+        "type": "Skill",
         "cost": 20,
         "name": "Curse",
         "tags": [
@@ -89,11 +89,11 @@
         ]
     },
     {
-        "type": "skill",
+        "type": "Skill",
         "cost": 20,
         "name": "Divination",
         "tags": [
-            "Grace",
+            "Graceful",
             "Magical"
         ],
         "description": [
@@ -117,7 +117,7 @@
         "fail": []
     },
     {
-        "type": "skill",
+        "type": "Skill",
         "cost": 20,
         "name": "Do You Even Lift?",
         "tags": [
@@ -137,7 +137,7 @@
         ]
     },
     {
-        "type": "skill",
+        "type": "Skill",
         "cost": 20,
         "name": "Elemental Infusion: Air",
         "tags": [
@@ -160,7 +160,7 @@
         ]
     },
     {
-        "type": "skill",
+        "type": "Skill",
         "cost": 20,
         "name": "Elemental Infusion: Earth",
         "tags": [
@@ -183,7 +183,7 @@
         ]
     },
     {
-        "type": "skill",
+        "type": "Skill",
         "cost": 20,
         "name": "Elemental Infusion: Fire",
         "tags": [
@@ -206,17 +206,18 @@
         ]
     },
     {
-        "type": "skill",
+        "type": "Skill",
         "cost": 20,
-        "name": "Elemental Infusion: Water",
+        "name": "Elemental Infusion: Ice",
         "tags": [
             "Martial",
             "Natural",
             "Magical"
         ],
         "description": [
-            "When you touch or attack a target living or inert object, you can infuse it with the power of Water:",
-            "- The cold of ice emanates from your fingertips and reaches your foe. Deal 1d4 cold damage to your target."
+            "When you touch or attack a target living or inert object, you can infuse it with the power of Ice:",
+            "- The cold of ice emanates from your fingertips and reaches your foe. Deal 1d4 cold damage to your target.",
+            "- You can choose to melt the ice at will."
         ],
         "success": [
             "You successfully chill your target and deal 1d4 cold damage that ignore armor (unless the target has cold resistance)."
@@ -225,25 +226,25 @@
             "You chill your target but the cold spreads. You and your target both succumb to 1d4 cold damage that ignores armor (cold resistance consideration applies here as well)."
         ],
         "fail": [
-            "You lose your cool and lose your focus with water. You've LOST LEVERAGE when commanding water or ice until you hit a SNAG or SUCCEED to command your element."
+            "You lose your cool and lose your focus with ice. You've LOST LEVERAGE when commanding water or ice until you hit a SNAG or SUCCEED to command your element."
         ]
     },
     {
-        "type": "skill",
+        "type": "Skill",
         "cost": 20,
         "name": "Exploit Leverage",
         "tags": [
             "Irreverent"
         ],
         "description": [
-            "Whenever you have LEVERAGE, you can use your IRREVERENT ATTRIBUTE on a SKILL if it isn't GRACEFUL, MAGICAL, or MARTIAL."
+            "Whenever you have LEVERAGE, while using an IRREVERENT skill, you CRIT on a 19 as well as a 20."
         ],
         "success": [],
         "snag": [],
         "fail": []
     },
     {
-        "type": "skill",
+        "type": "Skill",
         "cost": 20,
         "name": "Healthy",
         "tags": [
@@ -257,7 +258,7 @@
         "fail": []
     },
     {
-        "type": "skill",
+        "type": "Skill",
         "cost": 20,
         "name": "Hit & Run",
         "tags": [
@@ -273,7 +274,7 @@
         "fail": []
     },
     {
-        "type": "skill",
+        "type": "Skill",
         "cost": 20,
         "name": "Latent Abilities",
         "tags": [
@@ -292,7 +293,7 @@
         "fail": []
     },
     {
-        "type": "skill",
+        "type": "Skill",
         "cost": 20,
         "name": "Naturally Adaptive",
         "tags": [
@@ -317,12 +318,12 @@
         ]
     },
     {
-        "type": "skill",
+        "type": "Skill",
         "cost": 20,
         "name": "Proselytize",
         "tags": [
             "Clever",
-            "Grace"
+            "Graceful"
         ],
         "description": [
             "If an NPC you encounter has no strong declaration of faith or philosophy, you have a chance to convert them to your belief system.",
@@ -339,7 +340,7 @@
         ]
     },
     {
-        "type": "skill",
+        "type": "Skill",
         "cost": 20,
         "name": "RAGE!",
         "tags": [
@@ -359,11 +360,11 @@
         "fail": []
     },
     {
-        "type": "skill",
+        "type": "Skill",
         "cost": 20,
         "name": "Enchanter",
         "tags": [
-            "Grace"
+            "Graceful"
         ],
         "description": [
             "You are now able to create Enchanted Items using the rules in the Enchanting Chapter."
