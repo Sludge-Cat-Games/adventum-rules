@@ -97,7 +97,7 @@
         "cost": 30,
         "name": "Divine Judgement",
         "tags": [
-            "Grace"
+            "Graceful"
         ],
         "description": [
             "If you view someone committing a sin in your god’s eyes, or you can prove that they did something morally reprehensible, you can mark them for judgment.",
@@ -227,7 +227,7 @@
         "cost": 30,
         "name": "Spiritual Absorption",
         "tags": [
-            "Grace",
+            "Graceful",
             "Irreverent",
             "Magical"
         ],
@@ -252,7 +252,7 @@
         "cost": 30,
         "name": "TLC",
         "tags": [
-            "Grace",
+            "Graceful",
             "Magical"
         ],
         "description": [

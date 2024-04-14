@@ -7,6 +7,7 @@
         "tags": [
             "Salaried"
         ],
+        "amount": 1,
         "description": [
             "When the boss makes a dollar, I make a dime, so I like to poop on company time."
         ]
@@ -19,6 +20,7 @@
         "tags": [
             "Gig"
         ],
+        "amount": 1,
         "description": [
             "What you might pay upfront for a simple delivery."
         ]
@@ -32,6 +34,7 @@
             "Gig",
             "Variable"
         ],
+        "amount": 1,
         "description": [
             "Depending on the day and task, you can get ⓜ100 on SUCCESS, 1d10 * ⓜ10 on SNAG, or ⓜ10 on FAILURE."
         ]
@@ -44,6 +47,7 @@
         "tags": [
             "Salaried"
         ],
+        "amount": 1,
         "description": [
             "It's not much but it beats minimum wage!"
         ]
@@ -56,6 +60,7 @@
         "tags": [
             "Salaried"
         ],
+        "amount": 1,
         "description": [
             "The promise of economic mobility is almost in sight!"
         ]
@@ -68,6 +73,7 @@
         "tags": [
             "Salaried"
         ],
+        "amount": 1,
         "description": [
             "Let's hope this class doesn't shrink!"
         ]
@@ -80,6 +86,7 @@
         "tags": [
             "Salaried"
         ],
+        "amount": 1,
         "description": [
             "Living the dream!"
         ]
@@ -92,6 +99,7 @@
         "tags": [
             "Salaried"
         ],
+        "amount": 1,
         "description": [
             "When people ask what you make, you can start saying \"I'm doing well for myself\" now."
         ]

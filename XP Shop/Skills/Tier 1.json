@@ -89,7 +89,7 @@
         "cost": 10,
         "name": "Clairvoyant Nose",
         "tags": [
-            "Grace",
+            "Graceful",
             "Irreverent",
             "Magical"
         ],
@@ -112,7 +112,7 @@
         "cost": 10,
         "name": "Give Me a Sign",
         "tags": [
-            "Grace"
+            "Graceful"
         ],
         "description": [
             "Once a day, you can petition your benevolent spirit, god, or gods to guide you on the right path. They may steer you into or away from danger as is appropriate for their care or plans for you. However, the direction they point you to can only be communicated in coincidences, tricks of lights, or other common physical phenomena."
@@ -170,7 +170,7 @@
         "cost": 10,
         "name": "Minor Healing",
         "tags": [
-            "Grace",
+            "Graceful",
             "Magical"
         ],
         "description": [],
@@ -189,8 +189,7 @@
         "cost": 10,
         "name": "Of the Same Cloth",
         "tags": [
-            "Grace",
-            "Magical"
+            "Graceful"
         ],
         "description": [
             "You can use your Grace ATTRIBUTE in social situations with people who have the same god/faith/or philosophy as you."

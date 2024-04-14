@@ -45,7 +45,7 @@
         "type" : "Talent",
         "cost" : 25,
         "name" : "Divine",
-        "tags" : ["Grace"],
+        "tags" : ["Graceful"],
         "info" : ["You can buy Grace skills for half their original XP cost."]
     },
     {
