@@ -9,7 +9,7 @@
             "Magical"
         ],
         "amount": 5,
-        "description": [
+        "info": [
             "Simply add boiling water, and you've got some tasty ramen! Also can be prepared in a magicwave!"
         ]
     },
@@ -23,7 +23,7 @@
             "Magical"
         ],
         "amount": 1,
-        "description": [
+        "info": [
             "A simply okay meal for the magician on the go! Simply use the Heat Infusion scroll on the package to warm it up!"
         ]
     },
@@ -36,7 +36,7 @@
             "Consumable"
         ],
         "amount": 1,
-        "description": [
+        "info": [
             "Gives a small boost for 1 hour based on the dominant flavor.",
             "Sweet: You can add +1 to any social roll.",
             "Salty: You can add +1 to any magical roll.",
@@ -53,7 +53,7 @@
             "Consumable"
         ],
         "amount": 1,
-        "description": [
+        "info": [
             "When successfully applied, the target is poisoned. Roll a d6; Receive 1 damage for that many rolled actions.",
             "This effect stops if you're cured of poison.",
             "Poison can also be applied to wepaons, which an in turn poison relevant targets. When a poisoned weapon hits a target, becomes wet, or is deliberately cleaned, it loses its poison effect."
@@ -68,7 +68,7 @@
             "Consumable"
         ],
         "amount": 1,
-        "description": [
+        "info": [
             "Gives a small boost for 1 hour based on the dominant flavor.",
             "Sweet: You can add +2 to any social roll.",
             "Salty: You can add +2 to any magical roll.",
@@ -86,7 +86,7 @@
             "Magical"
         ],
         "amount": 1,
-        "description": [
+        "info": [
             "An exquisitely sweet dessert made with concentrated health potion extract. Heals 2 HP when consumed."
         ]
     },
@@ -100,7 +100,7 @@
             "Magical"
         ],
         "amount": 1,
-        "description": [
+        "info": [
             "The next MAGICAL action roll you make automatically suceeds. You receive damage equal to twice its Tier."
         ]
     },
@@ -113,7 +113,7 @@
             "Consumable"
         ],
         "amount": 1,
-        "description": [
+        "info": [
             "When successfully applied, the target is poisoned. Roll a d4; Receive 1d4 damage for that many rolled actions.",
             "This effect stops if you're cured of poison.",
             "Poison can also be applied to wepaons, which an in turn poison relevant targets. When a poisoned weapon hits a target, becomes wet, or is deliberately cleaned, it loses its poison effect."
@@ -128,7 +128,7 @@
             "Consumable"
         ],
         "amount": 1,
-        "description": [
+        "info": [
             "Gives an exquisite boost for 1 hours based on the dominant flavor.",
             "Sweet: You can add +4 to any social roll.",
             "Salty: You can add +4 to any magical roll.",
@@ -145,7 +145,7 @@
             "Consumable"
         ],
         "amount": 1,
-        "description": [
+        "info": [
             "Whatever form you enjoy THC, for the next 1d4 rolls you make, you LOSE LEVERAGE. If you're sharing with someone, you GAIN LEVERAGE when you use social rollls with them."
         ]
     },
@@ -159,7 +159,7 @@
             "Magical"
         ],
         "amount": 1,
-        "description": [
+        "info": [
             "Heals 1d6 HP when consumed."
         ]
     },
@@ -173,7 +173,7 @@
             "Magical"
         ],
         "amount": 1,
-        "description": [
+        "info": [
             "Boosts your CLEVER & MAGICAL ATTRIBUTES by +1 for 1 hour. Applies -1 to all other ATTRIBUTES."
         ]
     },
@@ -187,7 +187,7 @@
             "Magical"
         ],
         "amount": 1,
-        "description": [
+        "info": [
             "Heals 5 HP when consumed."
         ]
     },
@@ -201,7 +201,7 @@
             "Magical"
         ],
         "amount": 1,
-        "description": [
+        "info": [
             "Your next 1d4 MAGICAL rolls HAVE LEVERAGE."
         ]
     },
@@ -215,7 +215,7 @@
             "Magical"
         ],
         "amount": 1,
-        "description": [
+        "info": [
             "The target automatically falls unconscious once consumed for 1 hour. They can be awoken easily with loud noises, light jostling, or damage. The target can willingly stay asleep after an hour passes."
         ]
     },
@@ -229,7 +229,7 @@
             "Magical"
         ],
         "amount": 1,
-        "description": [
+        "info": [
             "Makes the drinker invisible for 1 hour. The consumer loses invisibility, when attacking, casting a spell, or damaged."
         ]
     }

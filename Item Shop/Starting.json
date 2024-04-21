@@ -8,7 +8,7 @@
             "Utility"
         ],
         "amount": 1,
-        "description": [
+        "info": [
             "Can make calls and texts. Some applications are also functional."
         ]
     },
@@ -20,7 +20,7 @@
         "tags": [
             "Weapon"
         ],
-        "description": [
+        "info": [
             "A magic powered gun that can deal some damage. Deals 1d6 damage up to thrown range with ammo. Requires proficiency to use without LOSING LEVERAGE."
         ]
     },
@@ -32,7 +32,7 @@
         "tags": [
             "Utility"
         ],
-        "description": [
+        "info": [
             "Makes research and some applications more achievable. You can roll WITH LEVERAGE when doing research."
         ]
     },
@@ -45,7 +45,7 @@
             "Consumable",
             "Magical"
         ],
-        "description": [
+        "info": [
             "Heals the consumer of 5 damage."
         ]
     },
@@ -57,7 +57,7 @@
         "tags": [
             "Weapon"
         ],
-        "description": [
+        "info": [
             "Deals 1d4 damage and doesn't require proficiency to use."
         ]
     },
@@ -69,7 +69,7 @@
         "tags": [
             "Weapon"
         ],
-        "description": [
+        "info": [
             "A handy dandy extendable baton. Not the most threatening weapon but you can certainly give someone a thrashing. This deals 2 damage and doesn't require proficiency to use."
         ]
     },
@@ -81,7 +81,7 @@
         "tags": [
             "Utility"
         ],
-        "description": [
+        "info": [
             "Can be used to try to stun someone. Make a melee attack against an afflictable target. On a SUCCESS, the target is stunned. The next roll against them HAS LEVERAGE. You deal 1 damage before ARMOR on a SNAG."
         ]
     },
@@ -93,7 +93,7 @@
         "tags": [
             "Weapon"
         ],
-        "description": [
+        "info": [
             "A great weapon for a skilled martial artist. Tricky to use though. Deals MARTIAL + DEXTROUS damage on SUCCESS. Deals 1d4 damage on SNAG."
         ]
     },
@@ -106,7 +106,7 @@
             "Melee",
             "Weapon"
         ],
-        "description": [
+        "info": [
             "Deals 4 damage plus STRONG or MARTIAL. (Deals only 1d4 on SNAG)"
         ]
     },
@@ -118,7 +118,7 @@
         "tags": [
             "Weapon"
         ],
-        "description": [
+        "info": [
             "A quality staff can be used well by a skilled martial artist. Deals 1d6 damage."
         ]
     },
@@ -130,7 +130,7 @@
         "tags": [
             "Wearable"
         ],
-        "description": [
+        "info": [
             "Reduces incoming damage by 1 when worn."
         ]
     },
@@ -142,7 +142,7 @@
         "tags": [
             "Wearable"
         ],
-        "description": [
+        "info": [
             "Reduces incoming damage by 2 when worn. (Can't reduce damage to 0)"
         ]
     },
@@ -154,7 +154,7 @@
         "tags": [
             "Consumable"
         ],
-        "description": [
+        "info": [
             "Whatever form you enjoy THC, for the next 1d4 rolls you make, you LOSE LEVERAGE. If you're sharing with someone, you GAIN LEVERAGE when you use social rollls with them."
         ]
     },
@@ -167,7 +167,7 @@
             "Magical",
             "Wearable"
         ],
-        "description": [
+        "info": [
             "You can block a lot of magical energies and frequencies. Reduces damage from spells and magic by 1."
         ]
     },
@@ -180,7 +180,7 @@
             "Wearable",
             "Weapon"
         ],
-        "description": [
+        "info": [
             "Adds +1 to what would otherwise be unarmed damage."
         ]
     }

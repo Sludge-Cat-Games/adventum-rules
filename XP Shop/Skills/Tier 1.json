@@ -6,7 +6,7 @@
         "tags": [
             "Dextrous"
         ],
-        "description": [
+        "info": [
             "You have LEVERAGE on acrobatic rolls."
         ],
         "success": [
@@ -29,7 +29,7 @@
             "Dextrous",
             "Martial"
         ],
-        "description": [
+        "info": [
             "Wearing HEAVY armor no longer makes you LOSE LEVERAGE."
         ],
         "success": [],
@@ -44,7 +44,7 @@
             "Irreverent",
             "Magical"
         ],
-        "description": [
+        "info": [
             "Using your health pool, you can turn your blood into a projectile."
         ],
         "success": [
@@ -66,7 +66,7 @@
         "tags": [
             "Clever"
         ],
-        "description": [
+        "info": [
             "You can cook a dish for yourself & others. Every time you cook, you can make up to 4 serverings using 1 ration, 1 ration's worth of moolah, or ingredients that could make at least 1 ration.",
             "Food effects:",
             "1) Sweet: You can add +2 to any social roll.",
@@ -93,7 +93,7 @@
             "Irreverent",
             "Magical"
         ],
-        "description": [
+        "info": [
             "Using your nose, you can attempt to smell certain smells that no mortal can detect. Using your supernatural ability, you can detect:",
             "- Angels",
             "- Demons",
@@ -114,7 +114,7 @@
         "tags": [
             "Graceful"
         ],
-        "description": [
+        "info": [
             "Once a day, you can petition your benevolent spirit, god, or gods to guide you on the right path. They may steer you into or away from danger as is appropriate for their care or plans for you. However, the direction they point you to can only be communicated in coincidences, tricks of lights, or other common physical phenomena."
         ],
         "success": [],
@@ -129,7 +129,7 @@
             "Clever",
             "Irreverent"
         ],
-        "description": [
+        "info": [
             "When you put out word to a community you are a part of about something you want or need, you can roll to potentially find someone who has it."
         ],
         "success": [
@@ -152,7 +152,7 @@
             "Martial",
             "Magical"
         ],
-        "description": [
+        "info": [
             "Through rigorous training, you have become able to draw in magical energy in your body as Ki. You can have a maximum of 4 Ki. Ki points can be spent to add damage equal to the ki points spent to an attack."
         ],
         "success": [
@@ -173,7 +173,7 @@
             "Graceful",
             "Magical"
         ],
-        "description": [],
+        "info": [],
         "success": [
             "You can heal a creature for 5 health (You can also choose to heal a minor medical malady as described in the fail condition)."
         ],
@@ -191,7 +191,7 @@
         "tags": [
             "Graceful"
         ],
-        "description": [
+        "info": [
             "You can use your Grace ATTRIBUTE in social situations with people who have the same god/faith/or philosophy as you."
         ],
         "success": [],
@@ -205,7 +205,7 @@
         "tags": [
             "Clever"
         ],
-        "description": [
+        "info": [
             "You have a natural aptitude for understanding and deciphering texts and ancient tomes. With your knowledge and studious aptitude, you are able to uncover secrets or hard to reach information."
         ],
         "success": [
@@ -229,7 +229,7 @@
             "Strong",
             "Irreverent"
         ],
-        "description": [
+        "info": [
             "Instead of defending yourself from harm, you can choose to take the damage instead and attack them as if you attacked the target successfully.",
             "To be able to take your revenge, you need to be able to attack the target normally. If you wouldn't be able to attack your assailant normally, you can't take revenge either."
         ],
@@ -245,7 +245,7 @@
             "Clever",
             "Dextrous"
         ],
-        "description": [
+        "info": [
             "You have a knack for disabling, subtly breaking in, and opening intricate mechanisms."
         ],
         "success": [
@@ -265,7 +265,7 @@
         "tags": [
             "Strong"
         ],
-        "description": [
+        "info": [
             "Permanently add 5 HP to your Max HP."
         ],
         "success": [],
@@ -279,7 +279,7 @@
         "tags": [
             "Magical"
         ],
-        "description": [
+        "info": [
             "All of your MAGICAL skills are now spells. (Look in the Spellcraft chapter for spellcasting rules). You also learn the Imbue spell.",
             "**_Imbue_**",
             "Range: Ranged",
@@ -308,7 +308,7 @@
         "tags": [
             "Natural"
         ],
-        "description": [
+        "info": [
             "For any survivalist situation, roll with LEVERAGE."
         ],
         "success": [],
@@ -323,7 +323,7 @@
             "Dextrous",
             "Martial"
         ],
-        "description": [
+        "info": [
             "You are able to handle a single type of ranged weapon without LOSING LEVERAGE. You can take this again to learn a new kind of ranged weapon.",
             "Choose a ranged weapon type:",
             "- Bow",
@@ -343,7 +343,7 @@
             "Martial",
             "Strong"
         ],
-        "description": [
+        "info": [
             "You are able to handle a single type of melee weapon without LOSING LEVERAGE. You can take this again to learn a new kind of melee weapon.",
             "Choose a melee weapon type:",
             "- Knife",
@@ -364,7 +364,7 @@
             "Magical",
             "Natural"
         ],
-        "description": [
+        "info": [
             "You have the ability to talk to animals. By talking to animals you can convince them to do simple tasks, get a survey of certain areas, or even befriend them (Given the animal has an amicable disposition)."
         ],
         "success": [],
@@ -379,7 +379,7 @@
             "Dextrous",
             "Irreverent"
         ],
-        "description": [
+        "info": [
             "Whenever you try to steal something from someone off their person, roll WITH LEVERAGE."
         ],
         "success": [],
@@ -393,7 +393,7 @@
         "tags": [
             "Martial"
         ],
-        "description": [
+        "info": [
             "You are proficient at hand to hand combat. Instead of dealing 1 damage, unarmed, you now deal 1d4 damage."
         ],
         "success": [],

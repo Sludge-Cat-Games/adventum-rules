@@ -8,7 +8,7 @@
             "Wearable"
         ],
         "amount": 1,
-        "description": [
+        "info": [
             "Reduces damage before armor by 1 when worn."
         ]
     },
@@ -22,7 +22,7 @@
             "Wearable"
         ],
         "amount": 1,
-        "description": [
+        "info": [
             "Reduce damage before armor from spells, magical skills by 1d4."
         ]
     },
@@ -35,7 +35,7 @@
             "Wearable"
         ],
         "amount": 1,
-        "description": [
+        "info": [
             "Reduces damage before armor by 2 when worn. Also causes the wearer to LOSE LEVERAGE on all rolls due to being HEAVY."
         ]
     },
@@ -49,7 +49,7 @@
             "Wearable"
         ],
         "amount": 1,
-        "description": [
+        "info": [
             "Reduces damage before armor by 1d4. This reduction can stack with damage reductions."
         ]
     },
@@ -62,7 +62,7 @@
             "Wearable"
         ],
         "amount": 1,
-        "description": [
+        "info": [
             "Reduces damage before armor by 3 when worn. Also causes the wearer to LOSE LEVERAGE on all rolls due to being HEAVY."
         ]
     }

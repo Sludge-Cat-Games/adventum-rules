@@ -7,7 +7,7 @@
             "Dextrous",
             "Irreverent"
         ],
-        "description": [
+        "info": [
             "If you fully succeed in attacking a target that’s unaware of you (or while you’re stealthed), double the damage dice you would use to attack the target."
         ],
         "success": [],
@@ -22,7 +22,7 @@
             "Magical",
             "Natural"
         ],
-        "description": [
+        "info": [
             "You are able to change up to all of your limbs into that of an animal in your nature domain. If you don't have a nature domain, choose one of these environments as a domain:",
             "- Desert",
             "- Forest",
@@ -59,7 +59,7 @@
         "tags": [
             "Strong"
         ],
-        "description": [
+        "info": [
             "Permanently add 5 HP to your Max HP."
         ],
         "success": [],
@@ -73,7 +73,7 @@
         "tags": [
             "Strong"
         ],
-        "description": [
+        "info": [
             "When your damage on an enemy is an even number, that enemy is now Blooded.",
             "Every time you attack that enemy after they are Blooded (until they are defeated or combat ends), add a d6 to the damage."
         ],
@@ -89,7 +89,7 @@
             "Magical",
             "Clever"
         ],
-        "description": [
+        "info": [
             "Your continued use of magic gives you an innate understanding of how to stop magic spells as they’re being cast.",
             "As you see someone cast a spell, you can attempt to nullify it. The difficulty to counter scales with the tier the magical effect is subject to the DD."
         ],
@@ -113,7 +113,7 @@
         "tags": [
             "Graceful"
         ],
-        "description": [
+        "info": [
             "If you view someone committing a sin in your god’s eyes, or you can prove that they did something morally reprehensible, you can mark them for judgment.",
             "When dealing with a target marked for judgement, you can use your Grace ATTRIBUTE when rolling against it. Even if the Grace ATTRIBUTE would not normally apply.",
             "You can only mark one target at a time. You cannot switch judgement targets until you’ve rolled against the first target, or a day passes (Whichever comes first)."
@@ -131,7 +131,7 @@
             "Martial",
             "Natural"
         ],
-        "description": [
+        "info": [
             "You have a natural connection to elemental magic, allowing you to harness the power of air. If you’re attacking someone, you deal 1d8 damage."
         ],
         "success": [
@@ -153,7 +153,7 @@
             "Martial",
             "Natural"
         ],
-        "description": [
+        "info": [
             "You have a natural connection to elemental magic, allowing you to harness the power of the earth.If you’re attacking someone, you deal 1d8 damage. "
         ],
         "success": [
@@ -175,7 +175,7 @@
             "Martial",
             "Natural"
         ],
-        "description": [
+        "info": [
             "You have a natural connection to elemental magic, allowing you to harness the power of the earth. If you’re attacking someone, you deal 1d8 damage."
         ],
         "success": [
@@ -197,7 +197,7 @@
             "Martial",
             "Natural"
         ],
-        "description": [
+        "info": [
             "You have a natural connection to elemental magic, allowing you to harness the power of the earth. If you’re attacking someone, you deal 1d8 damage."
         ],
         "success": [
@@ -217,7 +217,7 @@
         "tags": [
             "Clever"
         ],
-        "description": [
+        "info": [
             "Thinking and acting quickly, you can cobble together common components to make a novel gadget that works just as long as you need it. Tell the AL what you want to make and out of what. After the AL approves your MacGyver attempt, attempt to make one of these gadgets.",
             "You also use the CLEVER attribute when operating your new gadget, and suffer the Macgyver consequences on a SNAG or FAIL.",
             "- Glider: You can’t ascend but you can fall slowly and maybe even over great distances.",
@@ -245,7 +245,7 @@
             "Irreverent",
             "Magical"
         ],
-        "description": [
+        "info": [
             "When an enemy falls to 0 HP, you can attempt to trap their soul into a suitable vessel (made of Crystal, or stone). This Trapped Soul is now an Enchanted Item. It has several Enchantment Effects, and using any of these Effects (which last until next dawn) uses up the soul inside.",
             "- Gain 1d10 temporary HP.",
             "- Boost 1 ATTRIBUTE by +1.",
@@ -269,7 +269,7 @@
             "Graceful",
             "Magical"
         ],
-        "description": [
+        "info": [
             "You can attempt to remedy various physical ailments that can’t be ameliorated from basic healing (Poison, blindness, deafness, non-magical sickness). You can’t use TLC to give an ability that the target would not have otherwise."
         ],
         "success": [
@@ -289,7 +289,7 @@
         "tags": [
             "Magical"
         ],
-        "description": [
+        "info": [
             "You can know and cast cast the 1st 5 rows ot the Magic Side Effects table as spells."
         ],
         "success": [],

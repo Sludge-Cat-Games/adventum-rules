@@ -7,7 +7,7 @@
             "Magical",
             "Natural"
         ],
-        "description": [
+        "info": [
             "You are now able to transform into animals in your domain. The animal you can transform into can’t weigh more than the average humanoid (150 lbs / 70 kg)."
         ],
         "success": [],
@@ -21,7 +21,7 @@
         "tags": [
             "Irreverent"
         ],
-        "description": [
+        "info": [
             "You have a knack for defying and navigating authoritarian structures.",
             "You now always have LEVERAGE and can use your IRREVERENT ATTRIBUTE when dealing with someone who would normally have authority over you."
         ],
@@ -37,7 +37,7 @@
             "Graceful",
             "Magical"
         ],
-        "description": [
+        "info": [
             "You can deliver reverent judgement on people you can touch. Depending on if they’re an ally or an enemy, they can be healed or smote by you."
         ],
         "success": [
@@ -58,7 +58,7 @@
             "Magical",
             "Martial"
         ],
-        "description": [
+        "info": [
             "You are able to use ki to fire blasts of energy. For each ki point used in a blast, the damage goes up by 1d4."
         ],
         "success": [
@@ -80,7 +80,7 @@
         "tags": [
             "Clever"
         ],
-        "description": [
+        "info": [
             "If you roll a 1 on any CLEVER die roll, you can reroll the die. You must take the result of the 2nd roll."
         ],
         "success": [],
@@ -95,7 +95,7 @@
             "Magical",
             "Strong"
         ],
-        "description": [
+        "info": [
             "Your rippling muscles resist even the reality rending effects of magic. When you are damaged by a spell or magic, you can roll 1d6 to reduce the damage by that amount."
         ],
         "success": [],
@@ -109,7 +109,7 @@
         "tags": [
             "Dextrous"
         ],
-        "description": [
+        "info": [
             "If a situation called for fast reflexes, you can roll DEXTROUS with LEVERAGE."
         ],
         "success": [
@@ -132,7 +132,7 @@
             "Magical",
             "Clever"
         ],
-        "description": [
+        "info": [
             "You can now craft spells and record them with your grimoire. When you learn a new spell, you can extract its SUCCESS consequence as an EFFECT for 5 XP. Any EFFECT you know can be used in spell crafting. If the skill doesn't have a success decision because it is a passive, you gain the ability for 1 hour or until you choose to dismiss the spell.",
             "To craft a spell, look at the spell-craft guidelines"
         ],
@@ -147,7 +147,7 @@
         "tags": [
             "Irreverent"
         ],
-        "description": [
+        "info": [
             "You can now gain KNOWLEDGE for Enchantments from IRREVERENT Skills too. You can also use IRREVERENT as your ATTUNEMENT and ENCHANTING ATTRIBUTE as well."
         ],
         "success": [],
@@ -161,7 +161,7 @@
         "tags": [
             "Strong"
         ],
-        "description": [
+        "info": [
             "Permanently add 5 HP to your Max HP."
         ],
         "success": [],
