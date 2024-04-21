@@ -7,7 +7,7 @@
             "Clever",
             "Irreverent"
         ],
-        "description": [
+        "info": [
             "You've discovered how to cobble together a poison or potion in your free time. Once a day, you can make 1 of the following concoctions. You can buy this move more than once to be able to make more than one kind of concoction. To get your concoction into your target, it must be ingested or injected.",
             "Concoctions:",
             "- Sleep Potion: The affected target falls into a light slumber. Touches, noise, or any notable commotion can rouse the afflicted from their slumber.",
@@ -27,7 +27,7 @@
             "Dextrous",
             "Martial"
         ],
-        "description": [
+        "info": [
             "You are able to handle a single type of ranged weapon without LOSING LEVERAGE."
         ],
         "success": [],
@@ -41,7 +41,7 @@
         "tags": [
             "Natural"
         ],
-        "description": [
+        "info": [
             "You are now able to develop a deep bond that renders what would be an animal friend into an animal companion. To turn an animal into a companion, you need to be on good standing with the animal. You can only have 1 companion at a time.",
             "Animal companions confer these benefits:",
             "- They can complete simple tasks that are physically possible for the creature.",
@@ -59,7 +59,7 @@
         "tags": [
             "Natural"
         ],
-        "description": [
+        "info": [
             "When you are attacked or healed by someone else, you can roll a d4. The result is the amount of “balance” you currently have. You cannot stack balance and rolling balance discards any balance you already have.",
             "You can use \"balance\" to add to other player's attempt rolls or your own damage rolls."
         ],
@@ -75,7 +75,7 @@
             "Irreverent",
             "Magical"
         ],
-        "description": [
+        "info": [
             "Through an occult petition, you can choose to curse a single target or object. When you attempt to curse someone or something:"
         ],
         "success": [
@@ -96,7 +96,7 @@
             "Graceful",
             "Magical"
         ],
-        "description": [
+        "info": [
             "Once a day, you can roll a d20 to receive a portent. Portents can, at any time, replace a player's roll or a DD. If you are adjusting a DD with your roll, the new DD aligns with your portent as follows:",
             "|Number|DD|Modifier|",
             "|---|---|---|",
@@ -123,7 +123,7 @@
         "tags": [
             "Strong"
         ],
-        "description": [
+        "info": [
             "When a heavy object that no normal person could carry is in front of you, you attempt to lift it with the STRONG ATTRIBUTE. This object can't be more than 10 ft in diameter."
         ],
         "success": [
@@ -145,7 +145,7 @@
             "Natural",
             "Magical"
         ],
-        "description": [
+        "info": [
             "When you touch or attack a target living or inert object, you can infuse it with the power of Air:",
             "- The winds blow around the target, you can move them away from you with a gust of air to a nearby location (or nearby objects)."
         ],
@@ -168,7 +168,7 @@
             "Natural",
             "Magical"
         ],
-        "description": [
+        "info": [
             "When you touch or attack a target living or inert object, you can infuse it with the power of Earth:",
             "- The earth trembles beneath your target. It is grabbed by and stuck to the ground, unable to move until the rock attaching it is broken or you release control. It is DIFFICULT (-4) to break away from the earth."
         ],
@@ -191,7 +191,7 @@
             "Natural",
             "Magical"
         ],
-        "description": [
+        "info": [
             "When you touch or attack a target living or inert object, you can infuse it with the power of Fire:",
             "- The heat of flame radiates from your body and you can deal 1d4 fire damage to your target."
         ],
@@ -214,7 +214,7 @@
             "Natural",
             "Magical"
         ],
-        "description": [
+        "info": [
             "When you touch or attack a target living or inert object, you can infuse it with the power of Ice:",
             "- The cold of ice emanates from your fingertips and reaches your foe. Deal 1d4 cold damage to your target.",
             "- You can choose to melt the ice at will."
@@ -236,7 +236,7 @@
         "tags": [
             "Irreverent"
         ],
-        "description": [
+        "info": [
             "Whenever you have LEVERAGE, while using an IRREVERENT skill, you CRIT on a 19 as well as a 20."
         ],
         "success": [],
@@ -250,7 +250,7 @@
         "tags": [
             "Strong"
         ],
-        "description": [
+        "info": [
             "Permanently add 5 to your max HP."
         ],
         "success": [],
@@ -264,7 +264,7 @@
         "tags": [
             "Dextrous"
         ],
-        "description": [
+        "info": [
             "After a fully SUCCESSFUL attack against a target, you can use their blind spot or nearby cover to hide from your target.",
             "You are not automatically hidden from targets you haven't attacked. However, the AL may give you the opportunity to hide from them after this skill is used.",
             "You can't \"Hit & Run\" if you hit a SNAG."
@@ -281,7 +281,7 @@
             "Magical",
             "Martial"
         ],
-        "description": [
+        "info": [
             "You now unlock more abilities with your ki. You now gain these supernatural talents you can spend your ki points on.",
             "- You can add ki points to healing rolls.",
             "- You can add ki points to awareness and alertness rolls.",
@@ -300,7 +300,7 @@
             "Clever",
             "Natural"
         ],
-        "description": [
+        "info": [
             "As opposed to wielding a sword, mace, or warhammer, you can instead improvise a weapon out of whatever is lying around. Improvised weapons are inherently more brittle as they weren't designed for battle, but they can also have special characteristics. Improvised weapons do 1d8 damage. Have the AL describe the object you are using as a weapon. If its description matches any or all of the characteristics, the improvised weapon gains those characteristics.",
             "Characteristics:",
             "- Sharp: Ignore armor when you hit a target.",
@@ -325,7 +325,7 @@
             "Clever",
             "Graceful"
         ],
-        "description": [
+        "info": [
             "If an NPC you encounter has no strong declaration of faith or philosophy, you have a chance to convert them to your belief system.",
             "Relationship Intensity bonuses (and penalties) are added to this roll."
         ],
@@ -346,7 +346,7 @@
         "tags": [
             "Strong"
         ],
-        "description": [
+        "info": [
             "Every day you start out with 1 anger point. When you enter a RAGE!, the following occurs:",
             "- You gain 1d4 Anger points.",
             "- Every time you get hit, you gain 1 Anger point.",
@@ -366,7 +366,7 @@
         "tags": [
             "Graceful"
         ],
-        "description": [
+        "info": [
             "You are now able to create Enchanted Items using the rules in the Enchanting Chapter."
         ],
         "success": [],

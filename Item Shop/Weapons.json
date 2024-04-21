@@ -9,7 +9,7 @@
             "Weapon"
         ],
         "amount": 1,
-        "description": [
+        "info": [
             "A handy dandy extendable baton. This deals 2 damage and doesn't require proficiency to use. "
         ]
     },
@@ -23,7 +23,7 @@
             "Weapon"
         ],
         "amount": 1,
-        "description": [
+        "info": [
             "Deals 2 damage + DEXTROUS (1 damage on SNAG) and doesn't require proficiency to use."
         ]
     },
@@ -37,7 +37,7 @@
             "Wearable"
         ],
         "amount": 1,
-        "description": [
+        "info": [
             "Adds +1 to what would otherwise be unarmed damage."
         ]
     },
@@ -51,7 +51,7 @@
             "Magical"
         ],
         "amount": 1,
-        "description": [
+        "info": [
             "Ammo used in a magical ranged weapon. Each shot fired consumes 1 AMMO on a SNAG or FAILURE."
         ]
     },
@@ -64,7 +64,7 @@
             "Utility"
         ],
         "amount": 1,
-        "description": [
+        "info": [
             "Can be used to try to stun someone. Make a melee attack roll against an afflictable target. On a SUCCESS, the target is stunned. The next roll against them HAS LEVERAGE. (1 damage on SNAG).",
             "Requires magical ammo."
         ]
@@ -79,7 +79,7 @@
             "Weapon"
         ],
         "amount": 1,
-        "description": [
+        "info": [
             "A great weapon for a skilled martial artist. Tricky to use though. Deals MARTIAL + DEXTROUS damage on SUCCESS. Deals 1d4 damage on SNAG."
         ]
     },
@@ -93,7 +93,7 @@
             "Weapon"
         ],
         "amount": 1,
-        "description": [
+        "info": [
             "A quality staff can be used well by a skilled martial artist. Deals 2 + MARTIAL damage. (Deals 2 Damage on SNAG)"
         ]
     },
@@ -107,7 +107,7 @@
             "Wearable"
         ],
         "amount": 1,
-        "description": [
+        "info": [
             "Adds +2 to what would otherwise be unarmed damage."
         ]
     },
@@ -121,7 +121,7 @@
             "Weapon"
         ],
         "amount": 1,
-        "description": [
+        "info": [
             "A standard sword deals 2 damage + MARTIAL or STRONG. (2 damage on SNAG)"
         ]
     },
@@ -135,7 +135,7 @@
             "Weapon"
         ],
         "amount": 1,
-        "description": [
+        "info": [
             "A magic powered gun that can deals 6 damage (1d6 on SNAG). Requires proficiency to use without LOSING LEVERAGE.",
             "Requires magical ammo."
         ]
@@ -151,7 +151,7 @@
             "Weapon"
         ],
         "amount": 1,
-        "description": [
+        "info": [
             "Deals 1d8 damage on SUCCESS (1d4 on SNAG).",
             "Requires magical ammo."
         ]
@@ -166,7 +166,7 @@
             "Weapon"
         ],
         "amount": 1,
-        "description": [
+        "info": [
             "Deal 3 damage (1d4 on SNAG). Add STRONG on SUCCESS."
         ]
     },
@@ -180,7 +180,7 @@
             "Weapon"
         ],
         "amount": 1,
-        "description": [
+        "info": [
             "A magic powered rifle that can shoot targets over far distances. Deals 6 damage (1d4 on SNAG). Add DEXTROUS to damage when shooting targets further than the THROWN, range.",
             "Requires magical ammo."
         ]
@@ -195,7 +195,7 @@
             "Weapon"
         ],
         "amount": 1,
-        "description": [
+        "info": [
             "Deals 4 + MARTIAL & STRONG. (Deals 2 + STRONG on SNAG)"
         ]
     },
@@ -210,7 +210,7 @@
             "Weapon"
         ],
         "amount": 1,
-        "description": [
+        "info": [
             "A clear crystalline hilt with no blade until magic is funneled into the weapon (which can be done at will and only if your MAGICAL ATTRIBUTE is more than 0).",
             "Magic can be funneled at will or imbued. When this is done, a thin neon beam of mana in a color of your choosing extends from your blade. The thickness can vary but the length stays the same and matches the length of a standard sword.",
             "Does 4 damage + MAGICAL and MARTIAL or 4 damage + MAGICAL & DEXTROUS on SUCCESS (1d4 damage only on SNAG)."

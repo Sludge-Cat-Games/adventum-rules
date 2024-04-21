@@ -7,7 +7,7 @@
             "Graceful",
             "Magical"
         ],
-        "description": [
+        "info": [
             "When you commune or pray to your god, once a day, you can choose to roll for Faith. When you do, clear any faith you have and roll for 1d4 faith points.",
             "Faith:",
             "You can spend faith whenever you want in exchange for invulnerability when you or another player would incur harm/receive damage. Even if the damage would be lethal, you can spend a faith point to nullify the damage."
@@ -23,7 +23,7 @@
         "tags": [
             "Irreverent"
         ],
-        "description": [
+        "info": [
             "If you have LEVERAGE, and you haven't attacked your target yet, you may choose to attempt to assassinate instead of attacking normally.",
             "An assassination is like a regular attack, except:"
         ],
@@ -46,7 +46,7 @@
         "tags": [
             "Dextrous"
         ],
-        "description": [
+        "info": [
             "Once a day, if you would die from an incoming attack, projectile, or physical object, you can attempt to avoid it instead.",
             "You can use this even if the incoming damage is the result of a FAIL. You can also use this skill at Death's Door, effectively retconning your death."
         ],
@@ -68,7 +68,7 @@
             "Magical",
             "Natural"
         ],
-        "description": [
+        "info": [
             "You can now change into any animal in your domain. Your domain can also be 1 animal of your choice instead of a type of environment",
             "When you transform into an animal that weighs more than twice the average humanoid (360 lbs / 160 kgs), your max HP is doubled."
         ],
@@ -83,7 +83,7 @@
         "tags": [
             "Strong"
         ],
-        "description": [
+        "info": [
             "Through great effort, training, and god given talent. You are able to lift anything, break anything, and throw anything that isn't apart of the earth itself (but at great exertion)."
         ],
         "success": [
@@ -103,7 +103,7 @@
         "tags": [
             "Martial"
         ],
-        "description": [
+        "info": [
             "You are a martial genius and have come up with a secret technique that is as dangerous as it is powerful. The strain it puts on your body makes it risky to use more than once. Before you strike down any foes, use your wisdom and prowess to define your master technique. Please define the technique's Method, Effect, and Risk.",
             "**Method**:",
             "- Pressure Point: Where on the body do you have to touch your opponent?",
@@ -134,7 +134,7 @@
         "tags": [
             "Strong"
         ],
-        "description": [
+        "info": [
             "Permanently add 10 HP to your Max HP."
         ],
         "success": [],

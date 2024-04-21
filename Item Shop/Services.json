@@ -8,7 +8,7 @@
             "Salaried"
         ],
         "amount": 1,
-        "description": [
+        "info": [
             "When the boss makes a dollar, I make a dime, so I like to poop on company time."
         ]
     },
@@ -21,7 +21,7 @@
             "Gig"
         ],
         "amount": 1,
-        "description": [
+        "info": [
             "What you might pay upfront for a simple delivery."
         ]
     },
@@ -35,7 +35,7 @@
             "Variable"
         ],
         "amount": 1,
-        "description": [
+        "info": [
             "Depending on the day and task, you can get ⓜ100 on SUCCESS, 1d10 * ⓜ10 on SNAG, or ⓜ10 on FAILURE."
         ]
     },
@@ -48,7 +48,7 @@
             "Salaried"
         ],
         "amount": 1,
-        "description": [
+        "info": [
             "It's not much but it beats minimum wage!"
         ]
     },
@@ -61,7 +61,7 @@
             "Salaried"
         ],
         "amount": 1,
-        "description": [
+        "info": [
             "The promise of economic mobility is almost in sight!"
         ]
     },
@@ -74,7 +74,7 @@
             "Salaried"
         ],
         "amount": 1,
-        "description": [
+        "info": [
             "Let's hope this class doesn't shrink!"
         ]
     },
@@ -87,7 +87,7 @@
             "Salaried"
         ],
         "amount": 1,
-        "description": [
+        "info": [
             "Living the dream!"
         ]
     },
@@ -100,7 +100,7 @@
             "Salaried"
         ],
         "amount": 1,
-        "description": [
+        "info": [
             "When people ask what you make, you can start saying \"I'm doing well for myself\" now."
         ]
     }
