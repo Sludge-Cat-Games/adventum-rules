@@ -153,5 +153,19 @@
         "success": [],
         "snag": [],
         "fail": []
+    },
+    {
+        "type": "Skill",
+        "cost": 40,
+        "name": "Hearty",
+        "tags": [
+            "Strong"
+        ],
+        "description": [
+            "Permanently add 5 HP to your Max HP."
+        ],
+        "success": [],
+        "snag": [],
+        "fail": []
     }
 ]
