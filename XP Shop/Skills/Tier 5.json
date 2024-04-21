@@ -126,5 +126,19 @@
         "fail": [
             "The effect of your method is not realized. You fall to the Risk of your secret technique."
         ]
+    },
+    {
+        "type": "Skill",
+        "cost": 50,
+        "name": "Tough",
+        "tags": [
+            "Strong"
+        ],
+        "description": [
+            "Permanently add 10 HP to your Max HP."
+        ],
+        "success": [],
+        "snag": [],
+        "fail": []
     }
 ]

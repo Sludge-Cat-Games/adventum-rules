@@ -55,6 +55,20 @@
     {
         "type": "Skill",
         "cost": 30,
+        "name": "Beefy",
+        "tags": [
+            "Strong"
+        ],
+        "description": [
+            "Permanently add 5 HP to your Max HP."
+        ],
+        "success": [],
+        "snag": [],
+        "fail": []
+    },
+    {
+        "type": "Skill",
+        "cost": 30,
         "name": "Blooded",
         "tags": [
             "Strong"
