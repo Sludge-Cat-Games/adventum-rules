@@ -10,7 +10,7 @@ At the end of every Adventum session the AL should conclude your rousing story w
 
 Each of these questions can reward an individual character 1 **XP** if answered "yes" (and are justified to the AL).
 
-You can only report 1 **INVOKING** of a relationship per session. You have have a max of 5 written relationships at a time. When a relationship has been invoked, erase it to free a relationship slot. You can’t use that character in a relationship slot again unless your relationship has changed.
+You can have have a maximum of 5 written relationships at a time. You can remove a written relationship at any time. If your relationship another character isn't written, that's fine. Written relationships are simply relationships that you want to focus on for narrative or social bonuses.
 
 ## Party Questions
 
