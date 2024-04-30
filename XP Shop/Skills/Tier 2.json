@@ -110,7 +110,8 @@
             "|6-7|Difficult|-4|",
             "|4-5|Challenging|-6|",
             "|2-3|Severe|-8|",
-            "|1|Impossible|1|"
+            "|1|Impossible|1|",
+            "You can replace any roll with your portent. Even if the die rolled is less than a 20. However, the value will be reduced to the maximum possible roll if your portent is a higher number."
         ],
         "success": [],
         "snag": [],

@@ -178,7 +178,7 @@
             "You can heal a creature for 5 health (You can also choose to heal a minor medical malady as described in the fail condition)."
         ],
         "snag": [
-            "You can heal a creature for 1d5 health."
+            "You can heal a creature for 1d4 health."
         ],
         "fail": [
             "Instead of healing you find a minor complication. You avail your patient of the minor malady (itchy throat, achy joints, minor wrist soreness or any other mild annoyance), but don't offer any healing."
