@@ -4,7 +4,7 @@
         "cost": 20,
         "name": "Alchemist",
         "tags": [
-            "Clever",
+            "MIND",
             "Irreverent"
         ],
         "info": [
@@ -122,10 +122,10 @@
         "cost": 20,
         "name": "Do You Even Lift?",
         "tags": [
-            "Strong"
+            "BODY"
         ],
         "info": [
-            "When a heavy object that no normal person could carry is in front of you, you attempt to lift it with the STRONG ATTRIBUTE. This object can't be more than 10 ft in diameter."
+            "When a heavy object that no normal person could carry is in front of you, you attempt to lift it with the BODY ATTRIBUTE. This object can't be more than 10 ft in diameter."
         ],
         "success": [
             "You can hold the object above your head and carry it for as long as you need to but no longer."
@@ -249,7 +249,7 @@
         "cost": 20,
         "name": "Healthy",
         "tags": [
-            "Strong"
+            "BODY"
         ],
         "info": [
             "Permanently add 5 to your max HP."
@@ -298,7 +298,7 @@
         "cost": 20,
         "name": "Naturally Adaptive",
         "tags": [
-            "Clever",
+            "MIND",
             "Natural"
         ],
         "info": [
@@ -323,15 +323,15 @@
         "cost": 20,
         "name": "Proselytize",
         "tags": [
-            "Clever",
+            "MIND",
             "Graceful"
         ],
         "info": [
-            "If an NPC you encounter has no strong declaration of faith or philosophy, you have a chance to convert them to your belief system.",
+            "If an NPC you encounter has no BODY declaration of faith or philosophy, you have a chance to convert them to your belief system.",
             "Relationship Intensity bonuses (and penalties) are added to this roll."
         ],
         "success": [
-            "You successfully convinced the NPC! Huzzah! You can now use the Grace or CLEVER ATTRIBUTES when convincing, bluffing, intimidating or persuading the proselytized unless they no longer believe in your philosophy/religion."
+            "You successfully convinced the NPC! Huzzah! You can now use the Grace or MIND ATTRIBUTES when convincing, bluffing, intimidating or persuading the proselytized unless they no longer believe in your philosophy/religion."
         ],
         "snag": [
             "They see the wisdom of your belief system but remain agnostic. They are not converted but your next social roll with/against that NPC is EASIER (+2). You cannot attempt to Proselytize this NPC again for a long while."
@@ -345,14 +345,14 @@
         "cost": 20,
         "name": "RAGE!",
         "tags": [
-            "Strong"
+            "BODY"
         ],
         "info": [
             "Every day you start out with 1 anger point. When you enter a RAGE!, the following occurs:",
             "- You gain 1d4 Anger points.",
             "- Every time you get hit, you gain 1 Anger point.",
             "- 1 ANGER point can be spent at any time to heal yourself 1 HP.",
-            "- You can spend 1 Anger point to add +1 to any STRONG roll.",
+            "- You can spend 1 Anger point to add +1 to any BODY roll.",
             "Your next roll must be used to attack, or defend from harm. If you fail to do either, or do a different action, lose 1 ANGER point.",
             "Once you have 0 Anger, RAGE! ends. If you end RAGE! before exhausting your points, you lose all but 1 ANGER point."
         ],

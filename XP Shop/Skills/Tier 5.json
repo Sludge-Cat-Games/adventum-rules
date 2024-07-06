@@ -81,7 +81,7 @@
         "cost": 50,
         "name": "Herculean Strength",
         "tags": [
-            "Strong"
+            "BODY"
         ],
         "info": [
             "Through great effort, training, and god given talent. You are able to lift anything, break anything, and throw anything that isn't apart of the earth itself (but at great exertion)."
@@ -132,7 +132,7 @@
         "cost": 50,
         "name": "Tough",
         "tags": [
-            "Strong"
+            "BODY"
         ],
         "info": [
             "Permanently add 10 HP to your Max HP."

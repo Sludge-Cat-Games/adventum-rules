@@ -41,14 +41,14 @@
         ],
         "fail": [
             "You fail to transform correctly. Roll 1d8 and accept your failed transformation:",
-            "1) Antenna: You grow one ant's antenna and LOSE LEVERAGE on CLEVER rolls.",
+            "1) Antenna: You grow one ant's antenna and LOSE LEVERAGE on MIND rolls.",
             "2) Cloven Hooves: Your feet and hands are replaced with horse hooves. LOSE LEVERAGE on DEXTROUS rolls.",
             "3) Ram's Horns: You develop curly rams' horns and LOSE LEVERAGE on GRACEFUL rolls.",
             "4) Fluffy Wool: Your entire body grow curly white sheep's fur and LOSE LEVERAGE on IRREVERENT rolls.",
             "5) Bug Eyes: Your eyes transform into lime green compound flies eyes and LOSE LEVERAGE on MAGICAL rolls.",
             "6) Worm Fingers: Your fingers and toes have been replaced with worms. Lose LEVERAGE on MARTIAL rolls.",
             "7) You fail to transform entirely, but something feels off and you LOSE LEVERAGE on NATURAL rolls (Can be dismissed just like the rest of the limbs).",
-            "8) T-Rex Arms: Your arms are replaced by T-Rex Arms and LOSE LEVERAGE on STRONG rolls.",
+            "8) T-Rex Arms: Your arms are replaced by T-Rex Arms and LOSE LEVERAGE on BODY rolls.",
             "You can't dismiss the limbs but they go away when you SUCCEED or SNAG another BEAST LIMB Roll'"
         ]
     },
@@ -57,7 +57,7 @@
         "cost": 30,
         "name": "Beefy",
         "tags": [
-            "Strong"
+            "BODY"
         ],
         "info": [
             "Permanently add 5 HP to your Max HP."
@@ -71,7 +71,7 @@
         "cost": 30,
         "name": "Blooded",
         "tags": [
-            "Strong"
+            "BODY"
         ],
         "info": [
             "When your damage on an enemy is an even number, that enemy is now Blooded.",
@@ -87,7 +87,7 @@
         "name": "Counter Spell",
         "tags": [
             "Magical",
-            "Clever"
+            "MIND"
         ],
         "info": [
             "Your continued use of magic gives you an innate understanding of how to stop magic spells as they’re being cast.",
@@ -215,11 +215,11 @@
         "cost": 30,
         "name": "Macgyver",
         "tags": [
-            "Clever"
+            "MIND"
         ],
         "info": [
             "Thinking and acting quickly, you can cobble together common components to make a novel gadget that works just as long as you need it. Tell the AL what you want to make and out of what. After the AL approves your MacGyver attempt, attempt to make one of these gadgets.",
-            "You also use the CLEVER attribute when operating your new gadget, and suffer the Macgyver consequences on a SNAG or FAIL.",
+            "You also use the MIND attribute when operating your new gadget, and suffer the Macgyver consequences on a SNAG or FAIL.",
             "- Glider: You can’t ascend but you can fall slowly and maybe even over great distances.",
             "- Armor: You can temporarily bolster your armor by +1. You can’t stack Macgyvered armor.",
             "- Climber: You can scale a surface to get to a higher level.",

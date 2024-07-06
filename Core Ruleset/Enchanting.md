@@ -45,7 +45,7 @@ You can only ENCHANT an object if you have KNOWLEDGE of a certain Effect. You ca
 |Number|Jinx|Description|
 |---|---|---|
 |1|Slightly Unnverving|You have -1 on all social rolls.|
-|2|Burden|Roll 1d8. You have a -2 penalty on the corresponding ATTRIBUTE.\n1) CLEVER\n2) DEXTROUS\n3) GRACEFUL\n4) IRREVERENT\n5) MAGICAL\n6) MARTIAL\n7) NATURAL\n8) STRONG|
+|2|Burden|Roll 1d8. You have a -2 penalty on the corresponding ATTRIBUTE.\n1) MIND\n2) DEXTROUS\n3) GRACEFUL\n4) IRREVERENT\n5) MAGICAL\n6) MARTIAL\n7) NATURAL\n8) BODY|
 |3|Parasitic|Decrease Max HP by 1d6. Can't be less than 1.|
 |4|Unlucky|When you roll a 4 or 13, your next roll LOSES LEVERAGE.|
 |5|Anti-Magic|All MAGICAL rolls LOSE LEVERAGE.|

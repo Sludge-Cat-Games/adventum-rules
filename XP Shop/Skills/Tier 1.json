@@ -64,7 +64,7 @@
         "cost": 10,
         "name": "Chef",
         "tags": [
-            "Clever"
+            "MIND"
         ],
         "info": [
             "You can cook a dish for yourself & others. Every time you cook, you can make up to 4 serverings using 1 ration, 1 ration's worth of moolah, or ingredients that could make at least 1 ration.",
@@ -126,7 +126,7 @@
         "cost": 10,
         "name": "I Have a Guy...",
         "tags": [
-            "Clever",
+            "MIND",
             "Irreverent"
         ],
         "info": [
@@ -203,7 +203,7 @@
         "cost": 10,
         "name": "Researcher",
         "tags": [
-            "Clever"
+            "MIND"
         ],
         "info": [
             "You have a natural aptitude for understanding and deciphering texts and ancient tomes. With your knowledge and studious aptitude, you are able to uncover secrets or hard to reach information."
@@ -226,7 +226,7 @@
         "cost": 10,
         "name": "Revenge!",
         "tags": [
-            "Strong",
+            "BODY",
             "Irreverent"
         ],
         "info": [
@@ -242,7 +242,7 @@
         "cost": 10,
         "name": "Saboteur",
         "tags": [
-            "Clever",
+            "MIND",
             "Dextrous"
         ],
         "info": [
@@ -263,7 +263,7 @@
         "cost": 10,
         "name": "Scrappy",
         "tags": [
-            "Strong"
+            "BODY"
         ],
         "info": [
             "Permanently add 5 HP to your Max HP."
@@ -341,7 +341,7 @@
         "name": "Swordsmanship",
         "tags": [
             "Martial",
-            "Strong"
+            "BODY"
         ],
         "info": [
             "You are able to handle a single type of melee weapon without LOSING LEVERAGE. You can take this again to learn a new kind of melee weapon.",

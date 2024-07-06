@@ -78,10 +78,10 @@
         "cost": 40,
         "name": "Lucky",
         "tags": [
-            "Clever"
+            "MIND"
         ],
         "info": [
-            "If you roll a 1 on any CLEVER die roll, you can reroll the die. You must take the result of the 2nd roll."
+            "If you roll a 1 on any MIND die roll, you can reroll the die. You must take the result of the 2nd roll."
         ],
         "success": [],
         "snag": [],
@@ -93,7 +93,7 @@
         "name": "Puny Wizard!",
         "tags": [
             "Magical",
-            "Strong"
+            "BODY"
         ],
         "info": [
             "Your rippling muscles resist even the reality rending effects of magic. When you are damaged by a spell or magic, you can roll 1d6 to reduce the damage by that amount."
@@ -130,7 +130,7 @@
         "name": "Grimoire",
         "tags": [
             "Magical",
-            "Clever"
+            "MIND"
         ],
         "info": [
             "You can now craft spells and record them with your grimoire. When you learn a new spell, you can extract its SUCCESS consequence as an EFFECT for 5 XP. Any EFFECT you know can be used in spell crafting. If the skill doesn't have a success decision because it is a passive, you gain the ability for 1 hour or until you choose to dismiss the spell.",
@@ -159,7 +159,7 @@
         "cost": 40,
         "name": "Hearty",
         "tags": [
-            "Strong"
+            "BODY"
         ],
         "info": [
             "Permanently add 5 HP to your Max HP."

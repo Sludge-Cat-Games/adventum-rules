@@ -10,8 +10,8 @@
         "type" : "Talent",
         "cost" : 25,
         "name" : "Barbaric",
-        "tags" : ["Strong"],
-        "info" : ["You can buy Strong skills for half their original XP cost."]
+        "tags" : ["BODY"],
+        "info" : ["You can buy BODY skills for half their original XP cost."]
     },
     {
         "type" : "Talent",
@@ -24,8 +24,8 @@
         "type" : "Talent",
         "cost" : 25,
         "name" : "Cunning",
-        "tags" : ["Clever"],
-        "info" : ["You can buy Clever skills for half their original XP cost."]
+        "tags" : ["MIND"],
+        "info" : ["You can buy MIND skills for half their original XP cost."]
     },
     {
         "type" : "Talent",

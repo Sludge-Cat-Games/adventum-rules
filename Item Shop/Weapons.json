@@ -122,7 +122,7 @@
         ],
         "amount": 1,
         "info": [
-            "A standard sword deals 2 damage + MARTIAL or STRONG. (2 damage on SNAG)"
+            "A standard sword deals 2 damage + MARTIAL or BODY. (2 damage on SNAG)"
         ]
     },
     {
@@ -167,7 +167,7 @@
         ],
         "amount": 1,
         "info": [
-            "Deal 3 damage (1d4 on SNAG). Add STRONG on SUCCESS."
+            "Deal 3 damage (1d4 on SNAG). Add BODY on SUCCESS."
         ]
     },
     {
@@ -196,7 +196,7 @@
         ],
         "amount": 1,
         "info": [
-            "Deals 4 + MARTIAL & STRONG. (Deals 2 + STRONG on SNAG)"
+            "Deals 4 + MARTIAL & BODY. (Deals 2 + BODY on SNAG)"
         ]
     },
     {

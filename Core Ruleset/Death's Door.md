@@ -15,14 +15,14 @@ Your character does not get back up once they drop. They might not die right now
 
 ## Death’s Bargains
 
-|Associated Attribute|Name of Bargain|Consequence of Survival|
+|Attribute Requirement|Name of Bargain|Consequence of Survival|
 |---|---|---|
-|**None**|Standard Bargain|Roll a d8. Reduce the corresponding **ATTRIBUTE** by 2. (1)**CLEVER** (2)**DEXTROUS** (3)**GRACEFUL** (4)**IRREVERENT** (5)**MAGICAL** (6)**MARTIAL** (7)**NATURAL** (8)**STRONG**|
-|**CLEVER**|Brain Drain|Your experience cap is reduced by 2d10.|
-|**DEXTROUS**|Paralyzing Fear|When you encounter the same weapon, person, or situation that nearly killed you, roll **WITHOUT LEVERAGE** when **DEFENDING** if **FAILURE** could result in death.|
-|**GRACEFUL**|Reverent Promise|If you knowingly tell someone a falsehood, or lie, ROLL DEATH'S door again. If you choose the GRACEFUL option again, on a SNAG, receive 1d10 damage instead (if this triggers another **DEATH's DOO**R roll, so be it).|
-|**IRREVERENT**|Unlucky|Whenever you get a , on the die (before modifiers) in an **IRREVERENT** roll, your next roll **LOSES LEVERAGE.**|
-|**MAGICAL**|Arcane Exposure|Your magic keeps you alive but leaves you strained. Forget 1d4 Magical Skills or Spells of your choice. You can't buy these again with **XP**.|
-|**MARTIAL**|Overexerted|You are capable but at risk of exhausting yourself. When you **SNAG** or **FAIL** a **MARTIAL** roll, make a choice. Either take 1d4 damage or make your next MARTIAL roll with **LOST LEVERAGE.**|
-|**NATURAL**|Nature's Price|You survive but are forever changed. Whenever you are interacting with animals, roll with **LEVERAGE**. Whenever you are trying to persuade, convince, deceive or act sociably with people, you **LOSE LEVERAGE**.|
-|**STRONG**|Grave Injury|Your rippling muscles were strained beyond total recovery during your near death experience. Whenever you **SNAG** a **STRONG** roll, lose 1 HP.|
+|**None**|Standard Bargain|Roll a d6. Reduce the corresponding **ATTRIBUTE** by 1. (1-2)**MIND** (3-4)**BODY** (5-6)**MAGIC**|
+|**MIND**|Ignorance is Bliss|Your experience cap is reduced by 2d10. You are healed the same amount. (If you've already exceeded your new cap, you still retain your skills but not your excess xp.)|
+|**BODY**|Fight or Flight|When **FAILING** or **SNAGGING** a roll could result in death, roll another d6 beforehand. On a 1-3; you **LOSE LEVERAGE**, on a 4-6; you **GAIN LEVERAGE**|
+|**MAGIC**|Reverent Promise|If you knowingly tell someone a falsehood, or lie, you receive 1 damage that ignores armor.|
+|**MIND**|Superstitious|Whenever you get a 4 on a **MIND** roll, your next roll **LOSES LEVERAGE.** If you get a 7 instead, you **GAIN LEVERAGE**|
+|**BODY**|Overexerted|You are capable but at risk of exhausting yourself. When you **SNAG** or **FAIL** a **BODY** roll, make a choice. Either take 1d6 damage or make your next **BODY** roll with **LOST LEVERAGE.**|
+|**MAGIC**|Arcane Exposure|Your magic keeps you alive but leaves you strained. Forget 1d4 Magical Skills or Spells of your choice. You can't buy these again with **XP**.|
+|**MIND**|Nature's Price|You survive but are forever changed. Whenever you are interacting with animals, roll with **LEVERAGE**. Whenever you are trying to persuade, convince, deceive or act sociably with people, you **LOSE LEVERAGE**.|
+|**BODY**|Grave Injury|Your rippling muscles were strained beyond total recovery during your near death experience. Whenever you **FAIL** a **BODY** roll, take 2 damge.|
