@@ -4,12 +4,11 @@ Most of Adventum is played with a pretty loose and narrative sense of time. Minu
 
 ## Wait, I Don't Need to Roll Intiative?
 
-Moment to moment is simple but it works better when everyone is on the same page. When moment to moment action begins, every adventurer has the opportunity to take an action that requires 1 roll. Once that action is completed, the rolling player has had their moment. Everyone needs to have their moment once before the AL lets the environment have their moment. If this is a horde, multiple characters or a boss, they always have the opportunity to act independently.
+Just like in regular play, there isn't a set order that players are meant to roll. However, to guarantee that every player has time to act, everyone is guaranteed a moment and they can't have another until everyone has had 1.
 
-Failed or SNAG rolls that trigger environment or enemy actions don't count towards the environment's moment.
+## It's YOUR Moment. Use it wisely
 
-Once every adventurer and the environment have had their moment, then an adventurer can have their moment again.
+Each player gets a moment for every character in their control. A moment allows a character to take an action that requires a roll. If you have multiple moments, you can choose which characters you use them for. XP accrued by **FAILURE** can't be shared between characters.
 
-If you want to coordinate actions, feel free to go in any order you like. 
-
-If a player is controlling multiple characters, they can only use one of the characters for their moment. (Unless they have an action that gives one of their characters two moments.)
+## Out of the Spotlight
+After every player has their moment, the AL will then give a moment to the an NPC (or NPC's) and then the environment. It is definitely possible for non player characters and entities to "act" before this, but only as the result of a player's roll. When all players have had their moment, the environment or NPC's act as appropriate and then all players get another moment to play.
