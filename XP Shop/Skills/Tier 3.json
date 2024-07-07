@@ -57,7 +57,7 @@
         "cost": 30,
         "name": "Beefy",
         "tags": [
-            "BODY"
+            "Strong"
         ],
         "info": [
             "Permanently add 5 HP to your Max HP."
@@ -71,7 +71,7 @@
         "cost": 30,
         "name": "Blooded",
         "tags": [
-            "BODY"
+            "Strong"
         ],
         "info": [
             "When your damage on an enemy is an even number, that enemy is now Blooded.",
@@ -87,7 +87,7 @@
         "name": "Counter Spell",
         "tags": [
             "Magical",
-            "MIND"
+            "Clever"
         ],
         "info": [
             "Your continued use of magic gives you an innate understanding of how to stop magic spells as they’re being cast.",
@@ -215,7 +215,7 @@
         "cost": 30,
         "name": "Macgyver",
         "tags": [
-            "MIND"
+            "Clever"
         ],
         "info": [
             "Thinking and acting quickly, you can cobble together common components to make a novel gadget that works just as long as you need it. Tell the AL what you want to make and out of what. After the AL approves your MacGyver attempt, attempt to make one of these gadgets.",

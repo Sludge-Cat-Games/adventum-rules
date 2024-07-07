@@ -81,7 +81,7 @@
         "cost": 50,
         "name": "Herculean Strength",
         "tags": [
-            "BODY"
+            "Strong"
         ],
         "info": [
             "Through great effort, training, and god given talent. You are able to lift anything, break anything, and throw anything that isn't apart of the earth itself (but at great exertion)."
@@ -114,7 +114,7 @@
             "- Amputation: Your foe loses a limb of your choice, but the cut is clean and you deal damage as if you had attacked normally. After a limb is lost, you gain Leverage on your opponent for the rest of the battle.",
             "- Obliteration: You automatically do max damage on your attack. And crit on a success,",
             "- Equal & Opposite: You suffer the same fate that you would have inflicted upon your foe.",
-            "- Unbalanced: You lose 2 Leverage with Martial Skills for the rest of combat.",
+            "- Unbalanced: You lose 2 Leverage with Martial skills for the rest of combat.",
             "- Terrible Cost: You can continue to fight as normal. However, your loss is more foreboding. Roll 1d4. Your Max HP decreases by this much. Permanently."
         ],
         "success": [
@@ -132,7 +132,7 @@
         "cost": 50,
         "name": "Tough",
         "tags": [
-            "BODY"
+            "Strong"
         ],
         "info": [
             "Permanently add 10 HP to your Max HP."

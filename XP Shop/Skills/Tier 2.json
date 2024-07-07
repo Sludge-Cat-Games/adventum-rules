@@ -4,7 +4,7 @@
         "cost": 20,
         "name": "Alchemist",
         "tags": [
-            "MIND",
+            "Clever",
             "Irreverent"
         ],
         "info": [
@@ -122,7 +122,7 @@
         "cost": 20,
         "name": "Do You Even Lift?",
         "tags": [
-            "BODY"
+            "Strong"
         ],
         "info": [
             "When a heavy object that no normal person could carry is in front of you, you attempt to lift it with the BODY ATTRIBUTE. This object can't be more than 10 ft in diameter."
@@ -249,7 +249,7 @@
         "cost": 20,
         "name": "Healthy",
         "tags": [
-            "BODY"
+            "Strong"
         ],
         "info": [
             "Permanently add 5 to your max HP."
@@ -298,7 +298,7 @@
         "cost": 20,
         "name": "Naturally Adaptive",
         "tags": [
-            "MIND",
+            "Clever",
             "Natural"
         ],
         "info": [
@@ -323,7 +323,7 @@
         "cost": 20,
         "name": "Proselytize",
         "tags": [
-            "MIND",
+            "Clever",
             "Graceful"
         ],
         "info": [
@@ -345,7 +345,7 @@
         "cost": 20,
         "name": "RAGE!",
         "tags": [
-            "BODY"
+            "Strong"
         ],
         "info": [
             "Every day you start out with 1 anger point. When you enter a RAGE!, the following occurs:",

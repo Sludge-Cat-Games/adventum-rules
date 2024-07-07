@@ -30,9 +30,9 @@ When manipulating your stats, you can subtract from any of your 3 ATTRIBUTES to 
 
 ### 1 Free Talent
 
-Talents halve the cost of Skills that share the Talent's ATTRIBUTE. Normally, Talents cost 25 XP. But when making a new character, you get 1 for free! Skills might have more than 1 ATTRIBUTE, but you can't increase a discount with multiple TALENTS. Every skill is either 50% or 0% off. No exceptions!
+Talents halve the cost of skills that share the Talent's ATTRIBUTE. Normally, Talents cost 25 XP. But when making a new character, you get 1 for free! skills might have more than 1 ATTRIBUTE, but you can't increase a discount with multiple TALENTS. Every skill is either 50% or 0% off. No exceptions!
 
-### Skills & XP
+### skills & XP
 
 You can choose any 1 Skill as long as it isn't a Tier 5 Skill. You'll need to pony up the XP for those. You also get 5 XP that you can save for later or spend immediately on a Tier 1 Skill that became discounted from your free Talent. But how do you get XP?
 

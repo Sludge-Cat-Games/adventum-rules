@@ -4,55 +4,55 @@
         "cost" : 25,
         "name" : "Arcane",
         "tags" : ["Magical"],
-        "info" : ["You can buy Magical skills for half their original XP cost."]
+        "info" : ["You can buy Magical skills for half their original XP cost and can use the MIND attribute on Magical skills"]
     },
     {
         "type" : "Talent",
         "cost" : 25,
         "name" : "Barbaric",
-        "tags" : ["BODY"],
-        "info" : ["You can buy BODY skills for half their original XP cost."]
+        "tags" : ["Strong"],
+        "info" : ["You can buy Strong skills for half their original XP cost and use the BODY attribute on Strong skills."]
     },
     {
         "type" : "Talent",
         "cost" : 25,
         "name" : "Cheeky",
         "tags" : ["Irreverent"],
-        "info" : ["You can buy Irreverent skills for half their original XP cost."]
+        "info" : ["You can buy Irreverent skills for half their original XP cost and use the MIND attribute on Irreverent skills."]
     },
     {
         "type" : "Talent",
         "cost" : 25,
         "name" : "Cunning",
-        "tags" : ["MIND"],
-        "info" : ["You can buy MIND skills for half their original XP cost."]
+        "tags" : ["Clever"],
+        "info" : ["You can buy Clever skills for half their original XP cost and use the MIND attribute on Clever skills."]
     },
     {
         "type" : "Talent",
         "cost" : 25,
         "name" : "Disciplined",
         "tags" : ["Martial"],
-        "info" : ["You can buy Martial skills for half their original XP cost."]
+        "info" : ["You can buy Martial skills for half their original XP cost and use the BODY attribute on MARTIAL skills."]
     },
     {
         "type" : "Talent",
         "cost" : 25,
         "name" : "Earthy",
         "tags" : ["Natural"],
-        "info" : ["You can buy Natural skills for half their original XP cost."]
+        "info" : ["You can buy Natural skills for half their original XP cost and use the MAGIC attribute on natural skills."]
     },
     {
         "type" : "Talent",
         "cost" : 25,
         "name" : "Divine",
         "tags" : ["Graceful"],
-        "info" : ["You can buy Grace skills for half their original XP cost."]
+        "info" : ["You can buy Grace skills for half their original XP cost and use the MAGIC attribute on graceful skills."]
     },
     {
         "type" : "Talent",
         "cost" : 25,
         "name" : "Swift",
         "tags" : ["Dextrous"],
-        "info" : ["You can buy Dextrous skills for half their original XP cost."]
+        "info" : ["You can buy Dextrous skills for half their original XP cost and use the BODY attribute on dextrous skills."]
     }
 ]

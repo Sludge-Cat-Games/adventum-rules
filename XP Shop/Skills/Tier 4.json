@@ -78,7 +78,7 @@
         "cost": 40,
         "name": "Lucky",
         "tags": [
-            "MIND"
+            "Clever"
         ],
         "info": [
             "If you roll a 1 on any MIND die roll, you can reroll the die. You must take the result of the 2nd roll."
@@ -93,7 +93,7 @@
         "name": "Puny Wizard!",
         "tags": [
             "Magical",
-            "BODY"
+            "Strong"
         ],
         "info": [
             "Your rippling muscles resist even the reality rending effects of magic. When you are damaged by a spell or magic, you can roll 1d6 to reduce the damage by that amount."
@@ -129,12 +129,11 @@
         "cost": 40,
         "name": "Grimoire",
         "tags": [
-            "Magical",
-            "MIND"
+            "Clever"
         ],
         "info": [
-            "You can now craft spells and record them with your grimoire. When you learn a new spell, you can extract its SUCCESS consequence as an EFFECT for 5 XP. Any EFFECT you know can be used in spell crafting. If the skill doesn't have a success decision because it is a passive, you gain the ability for 1 hour or until you choose to dismiss the spell.",
-            "To craft a spell, look at the spell-craft guidelines"
+            "You can now cast and craft spells with your grimoire using the MIND attribute. When you learn a MAGICAL skill as  spell, you can extract its SUCCESS consequence as an EFFECT for 5 XP. Any EFFECT you know can be used in spell crafting. If the skill doesn't have a SUCCESS condition because it is a passive, you gain the ability for 1 hour or until you choose to dismiss the spell.",
+            "To craft a spell, refer to the spell-craft guidelines."
         ],
         "success": [],
         "snag": [],
@@ -148,7 +147,7 @@
             "Irreverent"
         ],
         "info": [
-            "You can now gain KNOWLEDGE for Enchantments from IRREVERENT Skills too. You can also use IRREVERENT as your ATTUNEMENT and ENCHANTING ATTRIBUTE as well."
+            "You can now gain KNOWLEDGE for Enchantments from IRREVERENT skills too. You can also use IRREVERENT as your ATTUNEMENT and ENCHANTING ATTRIBUTE as well."
         ],
         "success": [],
         "snag": [],
@@ -159,7 +158,7 @@
         "cost": 40,
         "name": "Hearty",
         "tags": [
-            "BODY"
+            "Strong"
         ],
         "info": [
             "Permanently add 5 HP to your Max HP."

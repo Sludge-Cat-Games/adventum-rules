@@ -23,6 +23,6 @@ Your character does not get back up once they drop. They might not die right now
 |**MAGIC**|Reverent Promise|If you knowingly tell someone a falsehood, or lie, you receive 1 damage that ignores armor.|
 |**MIND**|Superstitious|Whenever you get a 4 on a **MIND** roll, your next roll **LOSES LEVERAGE.** If you get a 7 instead, you **GAIN LEVERAGE**|
 |**BODY**|Overexerted|You are capable but at risk of exhausting yourself. When you **SNAG** or **FAIL** a **BODY** roll, make a choice. Either take 1d6 damage or make your next **BODY** roll with **LOST LEVERAGE.**|
-|**MAGIC**|Arcane Exposure|Your magic keeps you alive but leaves you strained. Forget 1d4 Magical Skills or Spells of your choice. You can't buy these again with **XP**.|
+|**MAGIC**|Arcane Exposure|Your magic keeps you alive but leaves you strained. Forget 1d4 Magical skills or Spells of your choice. You can't buy these again with **XP**.|
 |**MIND**|Nature's Price|You survive but are forever changed. Whenever you are interacting with animals, roll with **LEVERAGE**. Whenever you are trying to persuade, convince, deceive or act sociably with people, you **LOSE LEVERAGE**.|
 |**BODY**|Grave Injury|Your rippling muscles were strained beyond total recovery during your near death experience. Whenever you **FAIL** a **BODY** roll, take 2 damge.|
