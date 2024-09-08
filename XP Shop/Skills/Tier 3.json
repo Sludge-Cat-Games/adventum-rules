@@ -1,6 +1,7 @@
 [
     {
         "type": "Skill",
+        "id": 0,
         "cost": 30,
         "name": "Backstab",
         "tags": [
@@ -16,6 +17,7 @@
     },
     {
         "type": "Skill",
+        "id": 0,
         "cost": 30,
         "name": "Beast Limb",
         "tags": [
@@ -54,6 +56,7 @@
     },
     {
         "type": "Skill",
+        "id": 0,
         "cost": 30,
         "name": "Beefy",
         "tags": [
@@ -68,6 +71,7 @@
     },
     {
         "type": "Skill",
+        "id": 0,
         "cost": 30,
         "name": "Blooded",
         "tags": [
@@ -83,6 +87,7 @@
     },
     {
         "type": "Skill",
+        "id": 0,
         "cost": 30,
         "name": "Counter Spell",
         "tags": [
@@ -108,6 +113,7 @@
     },
     {
         "type": "Skill",
+        "id": 0,
         "cost": 30,
         "name": "Divine Judgement",
         "tags": [
@@ -124,6 +130,7 @@
     },
     {
         "type": "Skill",
+        "id": 0,
         "cost": 30,
         "name": "Elemental Affinity: Air",
         "tags": [
@@ -146,6 +153,7 @@
     },
     {
         "type": "Skill",
+        "id": 0,
         "cost": 30,
         "name": "Elemental Affinity: Earth",
         "tags": [
@@ -168,6 +176,7 @@
     },
     {
         "type": "Skill",
+        "id": 0,
         "cost": 30,
         "name": "Elemental Affinity: Fire",
         "tags": [
@@ -190,6 +199,7 @@
     },
     {
         "type": "Skill",
+        "id": 0,
         "cost": 30,
         "name": "Elemental Affinity: Water",
         "tags": [
@@ -212,6 +222,7 @@
     },
     {
         "type": "Skill",
+        "id": 0,
         "cost": 30,
         "name": "Macgyver",
         "tags": [
@@ -238,6 +249,7 @@
     },
     {
         "type": "Skill",
+        "id": 0,
         "cost": 30,
         "name": "Spiritual Absorption",
         "tags": [
@@ -263,6 +275,7 @@
     },
     {
         "type": "Skill",
+        "id": 0,
         "cost": 30,
         "name": "TLC",
         "tags": [
@@ -284,6 +297,7 @@
     },
     {
         "type": "Skill",
+        "id": 0,
         "cost": 30,
         "name": "Magic Trick",
         "tags": [

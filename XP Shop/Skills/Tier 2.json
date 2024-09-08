@@ -1,6 +1,7 @@
 [
     {
         "type": "Skill",
+        "id": 0,
         "cost": 20,
         "name": "Alchemist",
         "tags": [
@@ -21,6 +22,7 @@
     },
     {
         "type": "Skill",
+        "id": 0,
         "cost": 20,
         "name": "Archery",
         "tags": [
@@ -36,6 +38,7 @@
     },
     {
         "type": "Skill",
+        "id": 0,
         "cost": 20,
         "name": "Animal Companion",
         "tags": [
@@ -54,6 +57,7 @@
     },
     {
         "type": "Skill",
+        "id": 0,
         "cost": 20,
         "name": "Balance",
         "tags": [
@@ -69,6 +73,7 @@
     },
     {
         "type": "Skill",
+        "id": 0,
         "cost": 20,
         "name": "Curse",
         "tags": [
@@ -90,6 +95,7 @@
     },
     {
         "type": "Skill",
+        "id": 0,
         "cost": 20,
         "name": "Divination",
         "tags": [
@@ -119,6 +125,7 @@
     },
     {
         "type": "Skill",
+        "id": 0,
         "cost": 20,
         "name": "Do You Even Lift?",
         "tags": [
@@ -139,6 +146,7 @@
     },
     {
         "type": "Skill",
+        "id": 0,
         "cost": 20,
         "name": "Elemental Infusion: Air",
         "tags": [
@@ -162,6 +170,7 @@
     },
     {
         "type": "Skill",
+        "id": 0,
         "cost": 20,
         "name": "Elemental Infusion: Earth",
         "tags": [
@@ -185,6 +194,7 @@
     },
     {
         "type": "Skill",
+        "id": 0,
         "cost": 20,
         "name": "Elemental Infusion: Fire",
         "tags": [
@@ -208,6 +218,7 @@
     },
     {
         "type": "Skill",
+        "id": 0,
         "cost": 20,
         "name": "Elemental Infusion: Ice",
         "tags": [
@@ -232,6 +243,7 @@
     },
     {
         "type": "Skill",
+        "id": 0,
         "cost": 20,
         "name": "Exploit Leverage",
         "tags": [
@@ -246,6 +258,7 @@
     },
     {
         "type": "Skill",
+        "id": 0,
         "cost": 20,
         "name": "Healthy",
         "tags": [
@@ -260,6 +273,7 @@
     },
     {
         "type": "Skill",
+        "id": 0,
         "cost": 20,
         "name": "Hit & Run",
         "tags": [
@@ -276,6 +290,7 @@
     },
     {
         "type": "Skill",
+        "id": 0,
         "cost": 20,
         "name": "Latent Abilities",
         "tags": [
@@ -295,6 +310,7 @@
     },
     {
         "type": "Skill",
+        "id": 0,
         "cost": 20,
         "name": "Naturally Adaptive",
         "tags": [
@@ -320,6 +336,7 @@
     },
     {
         "type": "Skill",
+        "id": 0,
         "cost": 20,
         "name": "Proselytize",
         "tags": [
@@ -342,6 +359,7 @@
     },
     {
         "type": "Skill",
+        "id": 0,
         "cost": 20,
         "name": "RAGE!",
         "tags": [
@@ -362,6 +380,7 @@
     },
     {
         "type": "Skill",
+        "id": 0,
         "cost": 20,
         "name": "Enchanter",
         "tags": [

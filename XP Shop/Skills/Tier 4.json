@@ -1,6 +1,7 @@
 [
     {
         "type": "Skill",
+        "id": 0,
         "cost": 40,
         "name": "Animal Shape",
         "tags": [
@@ -16,6 +17,7 @@
     },
     {
         "type": "Skill",
+        "id": 0,
         "cost": 40,
         "name": "Anti-Establishment",
         "tags": [
@@ -31,6 +33,7 @@
     },
     {
         "type": "Skill",
+        "id": 0,
         "cost": 40,
         "name": "Lay on Hands",
         "tags": [
@@ -52,6 +55,7 @@
     },
     {
         "type": "Skill",
+        "id": 0,
         "cost": 40,
         "name": "Ki Blast",
         "tags": [
@@ -75,6 +79,7 @@
     },
     {
         "type": "Skill",
+        "id": 0,
         "cost": 40,
         "name": "Lucky",
         "tags": [
@@ -89,6 +94,7 @@
     },
     {
         "type": "Skill",
+        "id": 0,
         "cost": 40,
         "name": "Puny Wizard!",
         "tags": [
@@ -104,6 +110,7 @@
     },
     {
         "type": "Skill",
+        "id": 0,
         "cost": 40,
         "name": "Think Fast!",
         "tags": [
@@ -126,6 +133,7 @@
     },
     {
         "type": "Skill",
+        "id": 0,
         "cost": 40,
         "name": "Grimoire",
         "tags": [
@@ -141,6 +149,7 @@
     },
     {
         "type": "Skill",
+        "id": 0,
         "cost": 40,
         "name": "Cursed Tools",
         "tags": [
@@ -155,6 +164,7 @@
     },
     {
         "type": "Skill",
+        "id": 0,
         "cost": 40,
         "name": "Hearty",
         "tags": [

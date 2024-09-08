@@ -1,6 +1,7 @@
 [
     {
         "type" : "Talent",
+       "id": 0,
         "cost" : 25,
         "name" : "Arcane",
         "tags" : ["Magical"],
@@ -8,6 +9,7 @@
     },
     {
         "type" : "Talent",
+       "id": 0,
         "cost" : 25,
         "name" : "Barbaric",
         "tags" : ["Strong"],
@@ -15,6 +17,7 @@
     },
     {
         "type" : "Talent",
+       "id": 0,
         "cost" : 25,
         "name" : "Cheeky",
         "tags" : ["Irreverent"],
@@ -22,6 +25,7 @@
     },
     {
         "type" : "Talent",
+       "id": 0,
         "cost" : 25,
         "name" : "Cunning",
         "tags" : ["Clever"],
@@ -29,6 +33,7 @@
     },
     {
         "type" : "Talent",
+       "id": 0,
         "cost" : 25,
         "name" : "Disciplined",
         "tags" : ["Martial"],
@@ -36,6 +41,7 @@
     },
     {
         "type" : "Talent",
+       "id": 0,
         "cost" : 25,
         "name" : "Earthy",
         "tags" : ["Natural"],
@@ -43,6 +49,7 @@
     },
     {
         "type" : "Talent",
+       "id": 0,
         "cost" : 25,
         "name" : "Divine",
         "tags" : ["Graceful"],
@@ -50,6 +57,7 @@
     },
     {
         "type" : "Talent",
+       "id": 0,
         "cost" : 25,
         "name" : "Swift",
         "tags" : ["Dextrous"],

@@ -1,6 +1,7 @@
 [
     {
         "type": "Skill",
+        "id": 0,
         "cost": 50,
         "name": "An Invincible Faith",
         "tags": [
@@ -18,6 +19,7 @@
     },
     {
         "type": "Skill",
+        "id": 0,
         "cost": 50,
         "name": "Assassinate",
         "tags": [
@@ -41,6 +43,7 @@
     },
     {
         "type": "Skill",
+        "id": 0,
         "cost": 50,
         "name": "Reflexive",
         "tags": [
@@ -62,6 +65,7 @@
     },
     {
         "type": "Skill",
+        "id": 0,
         "cost": 50,
         "name": "Great Beast Form",
         "tags": [
@@ -78,6 +82,7 @@
     },
     {
         "type": "Skill",
+        "id": 0,
         "cost": 50,
         "name": "Herculean Strength",
         "tags": [
@@ -98,6 +103,7 @@
     },
     {
         "type": "Skill",
+        "id": 0,
         "cost": 50,
         "name": "Secret Technique",
         "tags": [
@@ -129,6 +135,7 @@
     },
     {
         "type": "Skill",
+        "id": 0,
         "cost": 50,
         "name": "Tough",
         "tags": [

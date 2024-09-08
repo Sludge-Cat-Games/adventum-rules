@@ -1,11 +1,12 @@
 [
     {
         "type": "Item",
-        "id": 1,
+        "id": "A-1",
         "name": "Light Covert Vest",
         "cost": 500,
         "tags": [
-            "Wearable"
+            "Wearable",
+            "Starting"
         ],
         "amount": 1,
         "info": [
@@ -14,12 +15,13 @@
     },
     {
         "type": "Item",
-        "id": 2,
+        "id": "A-2",
         "name": "AMF Jacket",
         "cost": 800,
         "tags": [
             "Magical",
-            "Wearable"
+            "Wearable",
+            "Starting"
         ],
         "amount": 1,
         "info": [
@@ -28,7 +30,7 @@
     },
     {
         "type": "Item",
-        "id": 3,
+        "id": "A-3",
         "name": "Tactical Vest",
         "cost": 1000,
         "tags": [
@@ -41,7 +43,7 @@
     },
     {
         "type": "Item",
-        "id": 4,
+        "id": "A-4",
         "name": "Amulet of Protection",
         "cost": 900,
         "tags": [
@@ -55,11 +57,12 @@
     },
     {
         "type": "Item",
-        "id": 5,
+        "id": "A-5",
         "name": "Heavy Bullet Proof Vest",
         "cost": 2000,
         "tags": [
-            "Wearable"
+            "Wearable",
+            "Starting"
         ],
         "amount": 1,
         "info": [
