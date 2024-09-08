@@ -14,7 +14,7 @@ The spell’s **EFFECT** is successfully cast at the spell’s specified **RANGE
 
 Choose one:
 - Arcane Amnesia: You put too much energy into this incantation and lose your memory of the spell. You can’t cast this spell again until you have the time and space to meditate on the arcane.  
-- Side Effect: Suffer a random consequence on the Magic Side Effects Table.  
+- Side Effect: Suffer a random consequence on the Magic Side Effects Table.
   
 ###### FAILURE
 
@@ -33,7 +33,7 @@ The spell does not cast, and you experience Arcane Burn.
 
 ## Spellcrafting
 
-You have the ability to create spells by writing formulas with Spell Components. Each spell formula must have at least 1 **RANGE** component and 1 **EFFECT** component. Spellcrafting is **NORMAL** and the difficulty to craft depends on the components used. You can write 1 spell a week, and the **ATTRIBUTE** for crafting will be **CLEVER** (You can only do this if you have the GRIMOIRE Skill).
+You have the ability to create spells by writing formulas with Spell Components. Each spell formula must have at least 1 **RANGE** component and 1 **EFFECT** component. Spellcrafting is **NORMAL** and the difficulty to craft depends on the components used. You can write 1 spell a week, and the **ATTRIBUTE** for crafting will be **MIND** (You can only do this if you have the GRIMOIRE Skill).
 
 ### Components
 
@@ -91,7 +91,7 @@ To craft an “Arcane Ward” or magical warding spell, you’ll need a few thin
 3) The Spellcrefting Difficulty is: **NORMAL** (+0) - Range Cost - Effect Cost = **DD**  
 So for our ward, it is (+0) - Touch (1) - Tier 4 (10) = **-14**.
 
-1) We roll using our **CLEVER** **ATTRIBUTE**, which is **SIMPLE** (+4), and get a 12 (18 + 4 - 10). This is a **SNAG** 
+1) We roll using our **MIND** **ATTRIBUTE**, which is **SIMPLE** (+4), and get a 12 (18 + 4 - 10). This is a **SNAG** 
 
 2) We'll choose the QUIRKY consequence. We rolled on the Magic Side Effects table and got a 2. We’ll now add _“does +1d4 healing”_ to our spell’s effect.
 

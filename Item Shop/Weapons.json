@@ -1,40 +1,43 @@
 [
     {
         "type": "Item",
-        "id": 1,
+        "id": "W-1",
         "name": "Extendable Baton",
         "cost": 50,
         "tags": [
             "Melee",
-            "Weapon"
+            "Weapon",
+            "Starting"
         ],
         "amount": 1,
         "info": [
-            "A handy dandy extendable baton. This deals 2 damage and doesn't require proficiency to use. "
+            "A handy dandy extendable baton. This deals 2 damage and doesn't require proficiency to use without LOSING LEVERAGE. "
         ]
     },
     {
         "type": "Item",
-        "id": 2,
+        "id": "W-2",
         "name": "Knife",
         "cost": 100,
         "tags": [
             "Melee",
-            "Weapon"
+            "Weapon",
+            "Starting"
         ],
         "amount": 1,
         "info": [
-            "Deals 2 damage + DEXTROUS (1 damage on SNAG) and doesn't require proficiency to use."
+            "Deals 2 damage + DEXTROUS (1 damage on SNAG) and doesn't require proficiency to use without LOSING LEVERAGE."
         ]
     },
     {
         "type": "Item",
-        "id": 3,
+        "id": "W-3",
         "name": "Brass Knuckles",
         "cost": 100,
         "tags": [
             "Weapon",
-            "Wearable"
+            "Wearable",
+            "Starting"
         ],
         "amount": 1,
         "info": [
@@ -43,7 +46,7 @@
     },
     {
         "type": "Item",
-        "id": 4,
+        "id": "W-4",
         "name": "Crystal Charge x 5",
         "cost": 100,
         "tags": [
@@ -57,11 +60,12 @@
     },
     {
         "type": "Item",
-        "id": 5,
+        "id": "W-5",
         "name": "Tazer",
         "cost": 200,
         "tags": [
-            "Utility"
+            "Utility",
+            "Starting"
         ],
         "amount": 1,
         "info": [
@@ -71,12 +75,13 @@
     },
     {
         "type": "Item",
-        "id": 6,
+        "id": "W-6",
         "name": "Nunchucks",
         "cost": 200,
         "tags": [
             "Melee",
-            "Weapon"
+            "Weapon",
+            "Starting"
         ],
         "amount": 1,
         "info": [
@@ -85,12 +90,13 @@
     },
     {
         "type": "Item",
-        "id": 7,
+        "id": "W-7",
         "name": "Staff",
         "cost": 200,
         "tags": [
             "Melee",
-            "Weapon"
+            "Weapon",
+            "Starting"
         ],
         "amount": 1,
         "info": [
@@ -99,7 +105,7 @@
     },
     {
         "type": "Item",
-        "id": 8,
+        "id": "W-8",
         "name": "Silver Knuckles",
         "cost": 200,
         "tags": [
@@ -113,36 +119,38 @@
     },
     {
         "type": "Item",
-        "id": 9,
+        "id": "W-9",
         "name": "Sword",
         "cost": 300,
         "tags": [
             "Melee",
-            "Weapon"
+            "Weapon",
+            "Starting"
         ],
         "amount": 1,
         "info": [
-            "A standard sword deals 2 damage + MARTIAL or STRONG. (2 damage on SNAG)"
+            "A standard sword deals 2 damage + MARTIAL or BODY. (2 damage on SNAG)"
         ]
     },
     {
         "type": "Item",
-        "id": 10,
+        "id": "W-10",
         "name": "Crystal Pistol",
         "cost": 300,
         "tags": [
             "Ranged",
-            "Weapon"
+            "Weapon",
+            "Starting"
         ],
         "amount": 1,
         "info": [
-            "A magic powered gun that can deals 6 damage (1d6 on SNAG). Requires proficiency to use without LOSING LEVERAGE.",
+            "A magic powered gun that can deals 1d8 damage (3 on SNAG). Requires proficiency to use without LOSING LEVERAGE.",
             "Requires magical ammo."
         ]
     },
     {
         "type": "Item",
-        "id": 11,
+        "id": "W-11",
         "name": "Auto-Magic Rifle",
         "cost": 500,
         "tags": [
@@ -152,13 +160,13 @@
         ],
         "amount": 1,
         "info": [
-            "Deals 1d8 damage on SUCCESS (1d4 on SNAG).",
+            "Deals 1d8 damage on SUCCESS (3 on SNAG).",
             "Requires magical ammo."
         ]
     },
     {
         "type": "Item",
-        "id": 12,
+        "id": "W-12",
         "name": "Longsword",
         "cost": 600,
         "tags": [
@@ -167,12 +175,12 @@
         ],
         "amount": 1,
         "info": [
-            "Deal 3 damage (1d4 on SNAG). Add STRONG on SUCCESS."
+            "Deal 3 damage (1d4 on SNAG). Add BODY on SUCCESS."
         ]
     },
     {
         "type": "Item",
-        "id": 13,
+        "id": "W-13",
         "name": "Crystal Rifle",
         "cost": 700,
         "tags": [
@@ -181,13 +189,13 @@
         ],
         "amount": 1,
         "info": [
-            "A magic powered rifle that can shoot targets over far distances. Deals 6 damage (1d4 on SNAG). Add DEXTROUS to damage when shooting targets further than the THROWN, range.",
+            "A magic powered rifle that can shoot targets over far distances. Deals 1d10 damage (4 on SNAG). Add BODY to damage when target is further than THROWN, range.",
             "Requires magical ammo."
         ]
     },
     {
         "type": "Item",
-        "id": 14,
+        "id": "W-14",
         "name": "Scythe",
         "cost": 800,
         "tags": [
@@ -196,12 +204,12 @@
         ],
         "amount": 1,
         "info": [
-            "Deals 4 + MARTIAL & STRONG. (Deals 2 + STRONG on SNAG)"
+            "Deals 4d4 damage. Add BODY ATTRIBUTE to damage on SUCCESS."
         ]
     },
     {
         "type": "Item",
-        "id": 15,
+        "id": "W-15",
         "name": "Crystal Sword",
         "cost": 1000,
         "tags": [
@@ -211,9 +219,9 @@
         ],
         "amount": 1,
         "info": [
-            "A clear crystalline hilt with no blade until magic is funneled into the weapon (which can be done at will and only if your MAGICAL ATTRIBUTE is more than 0).",
+            "A clear crystalline hilt with no blade until magic is funneled into the weapon when holding it and your MAGIC attribute is more then 0. You can also funnel magic into it with the effects of the Imbue spell.",
             "Magic can be funneled at will or imbued. When this is done, a thin neon beam of mana in a color of your choosing extends from your blade. The thickness can vary but the length stays the same and matches the length of a standard sword.",
-            "Does 4 damage + MAGICAL and MARTIAL or 4 damage + MAGICAL & DEXTROUS on SUCCESS (1d4 damage only on SNAG)."
+            "Deals damage equal to your MAGIC ATTRIBUTE. The damage is doubled on SUCCESS (and quadrupled on CRIT)."
         ]
     }
 ]

@@ -18,21 +18,21 @@ Let's go through each of these items and build a new character!
 
 What they're called and what they look like (Make sure to talk to your AL if you want to do something aprticularly wonky and out there).
 
-### Attributes
+### Mind Body & Magic
 
-Your character has 8 ATTRIBUTES (Clever, Dextrous, Grace, Irreverent, Magical, Martial, & Natural) that define their abilities and aptitude with certain skills. If a skill you're using has SUCCESS conditions, you can roll using one of its associated ATTRIBUTES. Otherwise, the AL determines when you roll which ATTRIBUTE.
+Your character has 3 ATTRIBUTES, MIND, BODY, & MAGIC.
 
 By default, you have +0 to all of your ATTRIBUTES. You can increase them by +2 by buying SkillUp!'s with XP in the [XP Shop](/xp-shop). The more SkillUp!'s you have under an ATTRIBUTE, the more expensive the next SkillUp! is. But there's another way to buff your ATTRIBUTES without spending XP.
 
 ### Stat Manipulation
 
-You can increase any of your ATTRIBUTES by up to +2. However, you must subtract your increase to another ATTRIBUTE. There is no limit to how low you can decrease a stat, so feel free to dump to your heart's content (Just be careful)! Does this mean you can increase every stat by 2 except for 1? YES! Does that make that one stat your glaring weakness? ALSO YES! Choose wisely when manipulating your stats.
+When manipulating your stats, you can subtract from any of your 3 ATTRIBUTES to add to your point pool. Your point pool can't exceed 6. You can distribute your pool however you wish as long as no attribute is above +2 after manipulation.
 
 ### 1 Free Talent
 
-Talents halve the cost of Skills that share the Talent's ATTRIBUTE. Normally, Talents cost 25 XP. But when making a new character, you get 1 for free! Skills might have more than 1 ATTRIBUTE, but you can't increase a discount with multiple TALENTS. Every skill is either 50% or 0% off. No exceptions!
+Talents halve the cost of skills that share the specified tag. Normally, Talents cost 25 XP. But when making a new character, you get 1 for free! S might have more than 1 tag, but you can't increase a discount with multiple TALENTS. Every skill is either 50% or 0% off. No exceptions!
 
-### Skills & XP
+### skills & XP
 
 You can choose any 1 Skill as long as it isn't a Tier 5 Skill. You'll need to pony up the XP for those. You also get 5 XP that you can save for later or spend immediately on a Tier 1 Skill that became discounted from your free Talent. But how do you get XP?
 

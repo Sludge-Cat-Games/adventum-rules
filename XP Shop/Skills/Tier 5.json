@@ -1,6 +1,7 @@
 [
     {
         "type": "Skill",
+        "id": 0,
         "cost": 50,
         "name": "An Invincible Faith",
         "tags": [
@@ -18,12 +19,14 @@
     },
     {
         "type": "Skill",
+        "id": 0,
         "cost": 50,
         "name": "Assassinate",
         "tags": [
             "Irreverent"
         ],
         "info": [
+            "Roll with BODY",
             "If you have LEVERAGE, and you haven't attacked your target yet, you may choose to attempt to assassinate instead of attacking normally.",
             "An assassination is like a regular attack, except:"
         ],
@@ -41,12 +44,14 @@
     },
     {
         "type": "Skill",
+        "id": 0,
         "cost": 50,
         "name": "Reflexive",
         "tags": [
             "Dextrous"
         ],
         "info": [
+            "Roll with BODY",
             "Once a day, if you would die from an incoming attack, projectile, or physical object, you can attempt to avoid it instead.",
             "You can use this even if the incoming damage is the result of a FAIL. You can also use this skill at Death's Door, effectively retconning your death."
         ],
@@ -62,6 +67,7 @@
     },
     {
         "type": "Skill",
+        "id": 0,
         "cost": 50,
         "name": "Great Beast Form",
         "tags": [
@@ -69,6 +75,7 @@
             "Natural"
         ],
         "info": [
+            "Roll with MAGIC.",
             "You can now change into any animal in your domain. Your domain can also be 1 animal of your choice instead of a type of environment",
             "When you transform into an animal that weighs more than twice the average humanoid (360 lbs / 160 kgs), your max HP is doubled."
         ],
@@ -78,12 +85,14 @@
     },
     {
         "type": "Skill",
+        "id": 0,
         "cost": 50,
         "name": "Herculean Strength",
         "tags": [
             "Strong"
         ],
         "info": [
+            "Roll with BODY",
             "Through great effort, training, and god given talent. You are able to lift anything, break anything, and throw anything that isn't apart of the earth itself (but at great exertion)."
         ],
         "success": [
@@ -98,12 +107,14 @@
     },
     {
         "type": "Skill",
+        "id": 0,
         "cost": 50,
         "name": "Secret Technique",
         "tags": [
             "Martial"
         ],
         "info": [
+            "Roll with BODY.",
             "You are a martial genius and have come up with a secret technique that is as dangerous as it is powerful. The strain it puts on your body makes it risky to use more than once. Before you strike down any foes, use your wisdom and prowess to define your master technique. Please define the technique's Method, Effect, and Risk.",
             "**Method**:",
             "- Pressure Point: Where on the body do you have to touch your opponent?",
@@ -114,7 +125,7 @@
             "- Amputation: Your foe loses a limb of your choice, but the cut is clean and you deal damage as if you had attacked normally. After a limb is lost, you gain Leverage on your opponent for the rest of the battle.",
             "- Obliteration: You automatically do max damage on your attack. And crit on a success,",
             "- Equal & Opposite: You suffer the same fate that you would have inflicted upon your foe.",
-            "- Unbalanced: You lose 2 Leverage with Martial Skills for the rest of combat.",
+            "- Unbalanced: You lose 2 Leverage with Martial skills for the rest of combat.",
             "- Terrible Cost: You can continue to fight as normal. However, your loss is more foreboding. Roll 1d4. Your Max HP decreases by this much. Permanently."
         ],
         "success": [
@@ -129,6 +140,7 @@
     },
     {
         "type": "Skill",
+        "id": 0,
         "cost": 50,
         "name": "Tough",
         "tags": [

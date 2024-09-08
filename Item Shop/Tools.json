@@ -1,0 +1,28 @@
+[
+    {
+        "type": "Item",
+        "id": "T-1",
+        "name": "Crystal Phone",
+        "cost": 600,
+        "tags": [
+            "Utility",
+            "Starting"
+        ],
+        "amount": 1,
+        "info": [
+            "Can make calls and texts. Some applications are also functional."
+        ]
+    },
+    {
+        "type": "Item",
+        "id": "T-2",
+        "name": "Crystal Top",
+        "cost": 1000,
+        "tags": [
+            "Utility"
+        ],
+        "info": [
+            "Makes research and some applications more achievable. You can roll WITH LEVERAGE when doing research."
+        ]
+    }
+]

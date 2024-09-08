@@ -1,7 +1,7 @@
 [
     {
         "type": "Item",
-        "id": 1,
+        "id": "C-1",
         "name": "Arcane Ramen",
         "cost": 5,
         "tags": [
@@ -15,7 +15,7 @@
     },
     {
         "type": "Item",
-        "id": 2,
+        "id": "C-2",
         "name": "Magicwaveable Food",
         "cost": 10,
         "tags": [
@@ -29,7 +29,7 @@
     },
     {
         "type": "Item",
-        "id": 3,
+        "id": "C-3",
         "name": "Wonderful Meal",
         "cost": 50,
         "tags": [
@@ -46,7 +46,7 @@
     },
     {
         "type": "Item",
-        "id": 4,
+        "id": "C-4",
         "name": "Basic Poison",
         "cost": 100,
         "tags": [
@@ -61,7 +61,7 @@
     },
     {
         "type": "Item",
-        "id": 5,
+        "id": "C-5",
         "name": "Immaculate Meal",
         "cost": 100,
         "tags": [
@@ -78,7 +78,7 @@
     },
     {
         "type": "Item",
-        "id": 6,
+        "id": "C-6",
         "name": "Abundant Scone",
         "cost": 350,
         "tags": [
@@ -92,7 +92,7 @@
     },
     {
         "type": "Item",
-        "id": 7,
+        "id": "C-7",
         "name": "Demonic Muffin",
         "cost": 100,
         "tags": [
@@ -106,7 +106,7 @@
     },
     {
         "type": "Item",
-        "id": 8,
+        "id": "C-8",
         "name": "Fast Acting Poison",
         "cost": 200,
         "tags": [
@@ -121,7 +121,7 @@
     },
     {
         "type": "Item",
-        "id": 9,
+        "id": "C-9",
         "name": "Gourmet Meal",
         "cost": 400,
         "tags": [
@@ -138,11 +138,12 @@
     },
     {
         "type": "Item",
-        "id": 10,
+        "id": "C-10",
         "name": "Weed x 5",
         "cost": 420,
         "tags": [
-            "Consumable"
+            "Consumable",
+            "Starting"
         ],
         "amount": 1,
         "info": [
@@ -151,12 +152,13 @@
     },
     {
         "type": "Item",
-        "id": 11,
+        "id": "C-11",
         "name": "Minor Health Potion",
         "cost": 500,
         "tags": [
             "Consumable",
-            "Magical"
+            "Magical",
+            "Starting"
         ],
         "amount": 1,
         "info": [
@@ -165,7 +167,7 @@
     },
     {
         "type": "Item",
-        "id": 12,
+        "id": "C-12",
         "name": "Stimulating Potion",
         "cost": 800,
         "tags": [
@@ -174,12 +176,12 @@
         ],
         "amount": 1,
         "info": [
-            "Boosts your CLEVER & MAGICAL ATTRIBUTES by +1 for 1 hour. Applies -1 to all other ATTRIBUTES."
+            "Boosts your MIND & MAGICAL ATTRIBUTES by +1 for 1 hour. Applies -1 to all other ATTRIBUTES."
         ]
     },
     {
         "type": "Item",
-        "id": 13,
+        "id": "C-13",
         "name": "Health Potion",
         "cost": 1000,
         "tags": [
@@ -193,7 +195,7 @@
     },
     {
         "type": "Item",
-        "id": 14,
+        "id": "C-14",
         "name": "Mana Potion",
         "cost": 1100,
         "tags": [
@@ -207,7 +209,7 @@
     },
     {
         "type": "Item",
-        "id": 15,
+        "id": "C-15",
         "name": "Sleepy Time Potion",
         "cost": 1200,
         "tags": [
@@ -221,7 +223,7 @@
     },
     {
         "type": "Item",
-        "id": 16,
+        "id": "C-16",
         "name": "Potion of Invisibility",
         "cost": 1300,
         "tags": [
