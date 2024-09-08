@@ -68,7 +68,7 @@ To concoct a Sleeping Potion you're going to need a few things.
 
 1) Spend ⓜ 500 to gather the ingredients needed for the Sleeping Potion Effect
 2) Choose a Method of Application. We'll choose **Breathe In**.
-3) The Concoction's Dynamic Difficulty is: Application Cost - Effect Tiers + NATURAL or MIND. Breathe In (-3) - Tier 5 Effect (-10) = -13
-4) We roll a 14 + NATURAL (which we'll say is +6) gives us 20 - our DD (-13). We get a 7, which just barely gives us a SNAG.
+3) The Concoction's Dynamic Difficulty is: Application Cost - Effect Tiers + MIND. Breathe In (-3) - Tier 5 Effect (-10) = -13
+4) We roll a 14 + MIND (which we'll say is +6) gives us 20 - our DD (-13). We get a 7, which just barely gives us a SNAG.
 5) We'll choose the **Tainted** condition and roll on the Concoction Side Effects Table. We got a 2 (Weak), so our targets fall asleep for 5 minutes, instead of 10.
 6) So now we have an "Weak Sleep Potion" that can make 1 person or up to 1d6 people fall asleep for 5 minutes.
