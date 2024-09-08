@@ -81,6 +81,7 @@
             "Magical"
         ],
         "info": [
+            "Roll with MAGIC.",
             "Through an occult petition, you can choose to curse a single target or object. When you attempt to curse someone or something:"
         ],
         "success": [
@@ -132,6 +133,7 @@
             "Strong"
         ],
         "info": [
+            "Roll with BODY",
             "When a heavy object that no normal person could carry is in front of you, you attempt to lift it with the BODY ATTRIBUTE. This object can't be more than 10 ft in diameter."
         ],
         "success": [
@@ -155,6 +157,7 @@
             "Magical"
         ],
         "info": [
+            "Roll with BODY or MAGIC.",
             "When you touch or attack a target living or inert object, you can infuse it with the power of Air:",
             "- The winds blow around the target, you can move them away from you with a gust of air to a nearby location (or nearby objects)."
         ],
@@ -179,6 +182,7 @@
             "Magical"
         ],
         "info": [
+            "Roll with BODY or MAGIC.",
             "When you touch or attack a target living or inert object, you can infuse it with the power of Earth:",
             "- The earth trembles beneath your target. It is grabbed by and stuck to the ground, unable to move until the rock attaching it is broken or you release control. It is DIFFICULT (-4) to break away from the earth."
         ],
@@ -203,6 +207,7 @@
             "Magical"
         ],
         "info": [
+            "Roll with BODY or MAGIC.",
             "When you touch or attack a target living or inert object, you can infuse it with the power of Fire:",
             "- The heat of flame radiates from your body and you can deal 1d4 fire damage to your target."
         ],
@@ -227,6 +232,7 @@
             "Magical"
         ],
         "info": [
+            "Roll with BODY or MAGIC.",
             "When you touch or attack a target living or inert object, you can infuse it with the power of Ice:",
             "- The cold of ice emanates from your fingertips and reaches your foe. Deal 1d4 cold damage to your target.",
             "- You can choose to melt the ice at will."
@@ -318,6 +324,7 @@
             "Natural"
         ],
         "info": [
+            "Roll with MIND",
             "As opposed to wielding a sword, mace, or warhammer, you can instead improvise a weapon out of whatever is lying around. Improvised weapons are inherently more brittle as they weren't designed for battle, but they can also have special characteristics. Improvised weapons do 1d8 damage. Have the AL describe the object you are using as a weapon. If its description matches any or all of the characteristics, the improvised weapon gains those characteristics.",
             "Characteristics:",
             "- Sharp: Ignore armor when you hit a target.",
@@ -344,11 +351,12 @@
             "Graceful"
         ],
         "info": [
-            "If an NPC you encounter has no BODY declaration of faith or philosophy, you have a chance to convert them to your belief system.",
+            "Roll with MIND.",
+            "If an NPC you encounter has no declaration of faith or philosophy, you have a chance to convert them to your belief system.",
             "Relationship Intensity bonuses (and penalties) are added to this roll."
         ],
         "success": [
-            "You successfully convinced the NPC! Huzzah! You can now use the Grace or MIND ATTRIBUTES when convincing, bluffing, intimidating or persuading the proselytized unless they no longer believe in your philosophy/religion."
+            "You successfully convinced the NPC! Huzzah! You can now use the MIND ATTRIBUTES when convincing, bluffing, intimidating or persuading the proselytized unless they no longer believe in your philosophy/religion."
         ],
         "snag": [
             "They see the wisdom of your belief system but remain agnostic. They are not converted but your next social roll with/against that NPC is EASIER (+2). You cannot attempt to Proselytize this NPC again for a long while."
@@ -388,6 +396,36 @@
         ],
         "info": [
             "You are now able to create Enchanted Items using the rules in the Enchanting Chapter."
+        ],
+        "success": [],
+        "snag": [],
+        "fail": []
+    },
+    {
+        "type": "Skill",
+       "id": 0,
+        "cost": 20,
+        "name": "1st Degree Black Belt",
+        "tags": [
+            "Martial"
+        ],
+        "info": [
+            "Whenever you make a Successful melee attack roll, you attack twice."
+        ],
+        "success": [],
+        "snag": [],
+        "fail": []
+    },
+    {
+        "type": "Skill",
+       "id": 0,
+        "cost": 20,
+        "name": "Piercing Shot",
+        "tags": [
+            "Dextrous"
+        ],
+        "info": [
+            "Whenever you make a Successful ranged attack roll, you ignore armor."
         ],
         "success": [],
         "snag": [],

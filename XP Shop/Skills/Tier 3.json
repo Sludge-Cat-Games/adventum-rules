@@ -25,13 +25,13 @@
             "Natural"
         ],
         "info": [
+            "Roll with MAGIC.",
             "You are able to change up to all of your limbs into that of an animal in your nature domain. If you don't have a nature domain, choose one of these environments as a domain:",
             "- Desert",
             "- Forest",
             "- Ocean",
             "- Savana",
-            "- Tundra",
-            "\nRoll Natural or Magical when using your beast limbs."
+            "- Tundra"
         ],
         "success": [
             "You are able to transform up to all of your limbs into the appendages of your chosen animal.",
@@ -95,6 +95,7 @@
             "Clever"
         ],
         "info": [
+            "Roll with MIND.",
             "Your continued use of magic gives you an innate understanding of how to stop magic spells as they’re being cast.",
             "As you see someone cast a spell, you can attempt to nullify it. The difficulty to counter scales with the tier the magical effect is subject to the DD."
         ],
@@ -139,6 +140,7 @@
             "Natural"
         ],
         "info": [
+            "Roll with BODY or MAGIC.",
             "You have a natural connection to elemental magic, allowing you to harness the power of air. If you’re attacking someone, you deal 1d8 damage."
         ],
         "success": [
@@ -162,6 +164,7 @@
             "Natural"
         ],
         "info": [
+            "Roll with BODY or MAGIC.",
             "You have a natural connection to elemental magic, allowing you to harness the power of the earth.If you’re attacking someone, you deal 1d8 damage. "
         ],
         "success": [
@@ -185,6 +188,7 @@
             "Natural"
         ],
         "info": [
+            "Roll with BODY or MAGIC.",
             "You have a natural connection to elemental magic, allowing you to harness the power of the earth. If you’re attacking someone, you deal 1d8 damage."
         ],
         "success": [
@@ -208,6 +212,7 @@
             "Natural"
         ],
         "info": [
+            "Roll with BODY or MAGIC.",
             "You have a natural connection to elemental magic, allowing you to harness the power of the earth. If you’re attacking someone, you deal 1d8 damage."
         ],
         "success": [
@@ -229,6 +234,7 @@
             "Clever"
         ],
         "info": [
+            "Roll with MIND.",
             "Thinking and acting quickly, you can cobble together common components to make a novel gadget that works just as long as you need it. Tell the AL what you want to make and out of what. After the AL approves your MacGyver attempt, attempt to make one of these gadgets.",
             "You also use the MIND attribute when operating your new gadget, and suffer the Macgyver consequences on a SNAG or FAIL.",
             "- Glider: You can’t ascend but you can fall slowly and maybe even over great distances.",
@@ -258,6 +264,7 @@
             "Magical"
         ],
         "info": [
+            "Roll with MAGIC.",
             "When an enemy falls to 0 HP, you can attempt to trap their soul into a suitable vessel (made of Crystal, or stone). This Trapped Soul is now an Enchanted Item. It has several Enchantment Effects, and using any of these Effects (which last until next dawn) uses up the soul inside.",
             "- Gain 1d10 temporary HP.",
             "- Boost 1 ATTRIBUTE by +1.",
@@ -279,17 +286,17 @@
         "cost": 30,
         "name": "TLC",
         "tags": [
-            "Graceful",
-            "Magical"
+            "Graceful"
         ],
         "info": [
+            "Roll with MIND.",
             "You can attempt to remedy various physical ailments that can’t be ameliorated from basic healing (Poison, blindness, deafness, non-magical sickness). You can’t use TLC to give an ability that the target would not have otherwise."
         ],
         "success": [
             "You successfully cure the ailment!"
         ],
         "snag": [
-            "Your work has done the trick but it will take time. Roll a d4. The ailment wears off after that many hours."
+            "Your work has done the trick but it will take time. Roll a d6. The ailment wears off after the afflicted makes that many rolls or until after they rest for 6 hours or longer."
         ],
         "fail": [
             "You fail to cure the ailment. You can try again tomorrow."
@@ -305,6 +312,22 @@
         ],
         "info": [
             "You can know and cast cast the 1st 5 rows ot the Magic Side Effects table as spells."
+        ],
+        "success": [],
+        "snag": [],
+        "fail": []
+    },
+    {
+        "type": "Skill",
+        "id": 0,
+        "cost": 30,
+        "name": "Careful Shot",
+        "tags": [
+            "Dextrous",
+            "Martial"
+        ],
+        "info": [
+            "You can exchange 1 ammo or a resource your ranged attack uses to guarantee max damage."
         ],
         "success": [],
         "snag": [],

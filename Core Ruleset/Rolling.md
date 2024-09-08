@@ -54,11 +54,11 @@ For example, let’s say that you need to convince a maester at a Wizard’s col
 
 #### Proselytize
 >
-> _If an NPC you encounter has no BODY declaration of faith or philosophy, you have a chance to convert them to your belief system._
+> _If an NPC you encounter has no opposing declaration of faith or philosophy, you have a chance to convert them to your belief system._
 >
 > ###### Success  
 >
-> You successfully convinced the NPC! Huzzah! You can now use the_ **_MIND+LEVERAGE_** when convincing, bluffing, intimidating or persuading the proselytized unless they no longer believe in your philosophy/religion._
+> You successfully convinced the NPC! Huzzah! You can now use the_ **_MIND+LEVERAGE_** when convincing, bluffing, intimidating or persuading the proselytized unless they no longer believe in your philosophy or religion._
 >
 > ###### Mixed Success  
 >

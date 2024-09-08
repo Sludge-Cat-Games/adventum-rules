@@ -9,7 +9,13 @@
             "Natural"
         ],
         "info": [
-            "You are now able to transform into animals in your domain. The animal you can transform into can’t weigh more than the average humanoid (150 lbs / 70 kg)."
+            "You are now able to transform into animals in your domain. The animal you can transform into can’t weigh more than the average humanoid (150 lbs / 70 kg).",
+            "If you don't have a domain, choose one now from the following options",
+            "- Forest",
+            "- Grasslands",
+            "- Desert",
+            "- Tundra",
+            "- Deep Sea"
         ],
         "success": [],
         "snag": [],
@@ -25,7 +31,7 @@
         ],
         "info": [
             "You have a knack for defying and navigating authoritarian structures.",
-            "You now always have LEVERAGE and can use your IRREVERENT ATTRIBUTE when dealing with someone who would normally have authority over you."
+            "You now always have LEVERAGE when dealing with someone who would normally have authority over you."
         ],
         "success": [],
         "snag": [],
@@ -41,6 +47,7 @@
             "Magical"
         ],
         "info": [
+            "Roll with MAGIC.",
             "You can deliver reverent judgement on people you can touch. Depending on if they’re an ally or an enemy, they can be healed or smote by you."
         ],
         "success": [
@@ -63,7 +70,8 @@
             "Martial"
         ],
         "info": [
-            "You are able to use ki to fire blasts of energy. For each ki point used in a blast, the damage goes up by 1d4."
+            "Roll with BODY.",
+            "You are able to use ki to fire blasts of energy. For each ki point used in a blast, the damage increases by your MAGIC ATTRIBUTE"
         ],
         "success": [
             "You are able to successfully fire off a ki blast with elegant and effective form."
@@ -86,7 +94,7 @@
             "Clever"
         ],
         "info": [
-            "If you roll a 1 on any MIND die roll, you can reroll the die. You must take the result of the 2nd roll."
+            "Once a day, If you roll a 1 on any die roll, you can reroll the die. You must take the result of the 2nd roll."
         ],
         "success": [],
         "snag": [],
@@ -117,6 +125,7 @@
             "Dextrous"
         ],
         "info": [
+            "Roll with BODY.",
             "If a situation called for fast reflexes, you can roll DEXTROUS with LEVERAGE."
         ],
         "success": [

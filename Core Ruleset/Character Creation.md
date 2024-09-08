@@ -30,7 +30,7 @@ When manipulating your stats, you can subtract from any of your 3 ATTRIBUTES to 
 
 ### 1 Free Talent
 
-Talents halve the cost of skills that share the Talent's ATTRIBUTE. Normally, Talents cost 25 XP. But when making a new character, you get 1 for free! skills might have more than 1 ATTRIBUTE, but you can't increase a discount with multiple TALENTS. Every skill is either 50% or 0% off. No exceptions!
+Talents halve the cost of skills that share the specified tag. Normally, Talents cost 25 XP. But when making a new character, you get 1 for free! S might have more than 1 tag, but you can't increase a discount with multiple TALENTS. Every skill is either 50% or 0% off. No exceptions!
 
 ### skills & XP
 

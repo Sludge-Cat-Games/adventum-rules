@@ -4,11 +4,11 @@ Through careful dedication to magic rituals and reverence to the arcane, you hav
 
 ## Enchanted Items
 
-Enchanted Items have Attunement Effects. These Effects can't be used until the item is attuned to. You can be ATTUNED to 1+ GRACEFUL items at 1 time. If the Attunement Effect has a success condition, use GRACEFUL to roll for it. If not, it activates on attunement or at dawn. An Attunement Effect won't stack on itself.
+Enchanted Items have Attunement Effects. These Effects can't be used until the item is attuned to. You can be ATTUNED to 1+MAGIC items at 1 time. If the Attunement Effect has a success condition, use  or MAGIC to roll for it. If not, it activates on attunement or at dawn. An Attunement Effect won't stack on itself.
 
 ### Attunement
 
-Attunement usually requires the GRACEFUL or MAGICAL ATTRIBUTE.
+Attunement usually requires the MAGIC ATTRIBUTE.
 
 ###### SUCCESS
 
@@ -16,19 +16,23 @@ You are successfully attuned to the item and can use its Attunement Effects.
 
 ###### SNAG
 
-Your are attuned to the item but your grip is tenuous at best. Roll 1d8. You only have that many uses of the item's Attunement Effect before you lose the effect and you have to attune again.
+Your are attuned to the item but your grip is tenuous at best. You only have uses equal to your MIND ATTRIBUTE of the item's Attunement Effect before you lose the effect and you have to attune again.
 
 ###### FAIL
 
-Your ritual fails and you're unable to attune. The item rejects you, your next attempt to attune LOSES LEVERAGE, and you can't attempt to attune again until the next day.
+Your ritual fails and you're unable to attune. The item rejects you and you can't attempt to attune again until the next day.
 
 ###### CRIT
 
-You're more than attuned to the object. You're SYNCHRONIZED. You have LEVERAGE whenever you're rolling to use an item you're SYNCHRONIZED with.
+You're more than attuned to the object. You're HARMONIZED.
+
+### Harmony
+
+When you've achieved HARMONY with a magic item, its effectiveness is increased greatly. If the object has SUCCESS conditions, your rolls with the item have LEVERAGE until you SNAG or FAIL with that item. If the magic item has a passive effect instead of SUCCESS conditions, the effect is doubled or heightened at the AL's discretion until next sunrise.
 
 ### Knowledge
 
-You can only ENCHANT an object if you have KNOWLEDGE of a certain Effect. You can spend 5 XP to gain KNOWLEDGE of any GRACEFUL skill. You can also gain KNOWLEDGE by expending 5 XP and destroying an ENCHANTED ITEM you are attuned to. You automatically have KNOWLEDGE of any GRACEFUL skill you know.
+You can only ENCHANT an object if you have KNOWLEDGE of a certain Effect. You can spend 15 XP to gain KNOWLEDGE of any skill with the Graceful tag. You can also gain KNOWLEDGE by expending 5 XP and destroying an ENCHANTED ITEM you are attuned to. You automatically have KNOWLEDGE of any skill with the Graceful tag you know.
 
 ## Enchantment Tier Table
 
@@ -45,13 +49,13 @@ You can only ENCHANT an object if you have KNOWLEDGE of a certain Effect. You ca
 |Number|Jinx|Description|
 |---|---|---|
 |1|Slightly Unnverving|You have -1 on all social rolls.|
-|2|Burden|Roll 1d8. You have a -2 penalty on the corresponding ATTRIBUTE.\n1) MIND\n2) DEXTROUS\n3) GRACEFUL\n4) IRREVERENT\n5) MAGICAL\n6) MARTIAL\n7) NATURAL\n8) BODY|
+|2|Burden|Roll 1d8. You have a -2 penalty on the corresponding ATTRIBUTE.\n- 1-2: MIND\n- 3-4: BODY\n- 5-6: MAGIC|
 |3|Parasitic|Decrease Max HP by 1d6. Can't be less than 1.|
 |4|Unlucky|When you roll a 4 or 13, your next roll LOSES LEVERAGE.|
 |5|Anti-Magic|All MAGICAL rolls LOSE LEVERAGE.|
 |6|Complex|Multiple jinxes develop. Roll twice for both jinxes and add a roll for every 6 rolled.|
 
-When rolling to enchant an item, use GRACEFUL to see the results of your enchantment RITUAL. (You can only do this if you have the ENCHANTER Skill).
+Roll with MAGIC to see the results of your enchantment RITUAL. (You can only do this if you have the ENCHANTER Skill).
 
 ###### SUCCESS
 
@@ -78,12 +82,12 @@ To create a staff of Soul Rending you'll need:
 - The Enchanting Skill
 - A Bo Staff (Made of Wood)
 - KNOWLEDGE of Spiritual Absorption
-- 2 Enchanted Items (Or magical equivalent)
+- 3 Enchanted Items (Or magical equivalent)
 
 1) Sacrifice 3 Enchanted Items to the Ritual (Takes 3 days to make)
 2) Choose an Attunement Effect. We're using Spiritual Absorption.
 3) Spiritual Absorption is a Tier 3 Skill. We'll now wait 5 in game days to complete the ritual.
 4) We'll now calculate the Dynamic Difficulty for Enchanting: The Skill we're using as our Attunement Effect is Tier 3, so the DD is -7. 
-5) We rolled a 13 + GRACEFUL (+4) = 17. The DD takes us down to 10. A SNAG.
+5) We rolled a 13 + MAGIC (+4) = 17. The DD takes us down to 10. A SNAG.
 6) We decided that our mistake was a Lack of Reverence. So we'll roll on the Enchantment Jinx Table. We got a 1, which gives us the Outcast Jinx.
 7) We now have a Staff of Soul Rending, that also imposes a -1 on all of our Social rolls.

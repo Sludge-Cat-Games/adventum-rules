@@ -8,7 +8,7 @@
             "Dextrous"
         ],
         "info": [
-            "You have LEVERAGE on acrobatic rolls."
+            "You have LEVERAGE rolls and roll with BODY to perform acrobatics."
         ],
         "success": [
             "10! You stick the landing and do so gracefully."
@@ -48,7 +48,7 @@
             "Magical"
         ],
         "info": [
-            "Using your health pool, you can turn your blood into a projectile."
+            "Using your health pool, you can turn your blood into a projectile. Roll with MAGIC."
         ],
         "success": [
             "Choose an amount of damage to take. You deal twice as much damage to a target you can see within Thrown range."
@@ -71,6 +71,7 @@
             "Clever"
         ],
         "info": [
+            "Roll with MIND.",
             "You can cook a dish for yourself & others. Every time you cook, you can make up to 4 serverings using 1 ration, 1 ration's worth of moolah, or ingredients that could make at least 1 ration.",
             "Food effects:",
             "1) Sweet: You can add +2 to any social roll.",
@@ -99,6 +100,7 @@
             "Magical"
         ],
         "info": [
+            "Roll with BODY or MAGIC.",
             "Using your nose, you can attempt to smell certain smells that no mortal can detect. Using your supernatural ability, you can detect:",
             "- Angels",
             "- Demons",
@@ -137,6 +139,7 @@
             "Irreverent"
         ],
         "info": [
+            "Roll with MIND.",
             "When you put out word to a community you are a part of about something you want or need, you can roll to potentially find someone who has it."
         ],
         "success": [
@@ -161,6 +164,7 @@
             "Magical"
         ],
         "info": [
+            "Roll with BODY.",
             "Through rigorous training, you have become able to draw in magical energy in your body as Ki. You can have a maximum of 4 Ki. Ki points can be spent to add damage equal to the ki points spent to an attack."
         ],
         "success": [
@@ -182,7 +186,7 @@
             "Graceful",
             "Magical"
         ],
-        "info": [],
+        "info": ["Roll with MAGIC."],
         "success": [
             "You can heal a creature for 5 health (You can also choose to heal a minor medical malady as described in the fail condition)."
         ],
@@ -202,7 +206,7 @@
             "Graceful"
         ],
         "info": [
-            "You can use your Grace ATTRIBUTE in social situations with people who have the same god/faith/or philosophy as you."
+            "You can use your MAGIC ATTRIBUTE in social situations with people who have the same god/faith/or philosophy as you."
         ],
         "success": [],
         "snag": [],
@@ -217,6 +221,7 @@
             "Clever"
         ],
         "info": [
+            "Roll with MIND.",
             "You have a natural aptitude for understanding and deciphering texts and ancient tomes. With your knowledge and studious aptitude, you are able to uncover secrets or hard to reach information."
         ],
         "success": [
@@ -259,7 +264,8 @@
             "Dextrous"
         ],
         "info": [
-            "You have a knack for disabling, subtly breaking in, and opening intricate mechanisms."
+            "Roll with BODY.",
+            "You have a knack for disabling, subtly breaking in, and opening intricate mechanisms with your fine dexterity and motor skills."
         ],
         "success": [
             "You shut off, unlock, or otherwise disable standing in your way. Good job!"
@@ -296,6 +302,7 @@
         ],
         "info": [
             "All of your Arcane skills are now spells. (Look in the Spellcraft chapter for spellcasting rules). You also learn the Imbue spell.",
+            "All spells are rolled with MIND.",
             "**_Imbue_**",
             "Range: Ranged",
             "Effect: You can push magic into an object or person. An imbued object is considered magical for a short time. You can also choose to do 1 of these 3 things to the object.",
@@ -325,6 +332,7 @@
             "Natural"
         ],
         "info": [
+            "Roll with MIND or BODY.",
             "For any survivalist situation, roll with LEVERAGE."
         ],
         "success": [],
@@ -415,7 +423,7 @@
             "Martial"
         ],
         "info": [
-            "You are proficient at hand to hand combat. Instead of dealing 1 damage, unarmed, you now deal 1d4 damage."
+            "Whenever you make an melee attack, add your BODY ATTRIBUTE to the damage."
         ],
         "success": [],
         "snag": [],

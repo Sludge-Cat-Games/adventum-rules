@@ -11,7 +11,7 @@
         ],
         "amount": 1,
         "info": [
-            "A handy dandy extendable baton. This deals 2 damage and doesn't require proficiency to use. "
+            "A handy dandy extendable baton. This deals 2 damage and doesn't require proficiency to use without LOSING LEVERAGE. "
         ]
     },
     {
@@ -26,7 +26,7 @@
         ],
         "amount": 1,
         "info": [
-            "Deals 2 damage + DEXTROUS (1 damage on SNAG) and doesn't require proficiency to use."
+            "Deals 2 damage + DEXTROUS (1 damage on SNAG) and doesn't require proficiency to use without LOSING LEVERAGE."
         ]
     },
     {
@@ -144,7 +144,7 @@
         ],
         "amount": 1,
         "info": [
-            "A magic powered gun that can deals 6 damage (1d6 on SNAG). Requires proficiency to use without LOSING LEVERAGE.",
+            "A magic powered gun that can deals 1d8 damage (3 on SNAG). Requires proficiency to use without LOSING LEVERAGE.",
             "Requires magical ammo."
         ]
     },
@@ -160,7 +160,7 @@
         ],
         "amount": 1,
         "info": [
-            "Deals 1d8 damage on SUCCESS (1d4 on SNAG).",
+            "Deals 1d8 damage on SUCCESS (3 on SNAG).",
             "Requires magical ammo."
         ]
     },
@@ -189,7 +189,7 @@
         ],
         "amount": 1,
         "info": [
-            "A magic powered rifle that can shoot targets over far distances. Deals 6 damage (1d4 on SNAG). Add DEXTROUS to damage when shooting targets further than the THROWN, range.",
+            "A magic powered rifle that can shoot targets over far distances. Deals 1d10 damage (4 on SNAG). Add BODY to damage when target is further than THROWN, range.",
             "Requires magical ammo."
         ]
     },
@@ -204,7 +204,7 @@
         ],
         "amount": 1,
         "info": [
-            "Deals 4 + MARTIAL & BODY. (Deals 2 + BODY on SNAG)"
+            "Deals 4d4 damage. Add BODY ATTRIBUTE to damage on SUCCESS."
         ]
     },
     {
@@ -219,9 +219,9 @@
         ],
         "amount": 1,
         "info": [
-            "A clear crystalline hilt with no blade until magic is funneled into the weapon (which can be done at will and only if your MAGICAL ATTRIBUTE is more than 0).",
+            "A clear crystalline hilt with no blade until magic is funneled into the weapon when holding it and your MAGIC attribute is more then 0. You can also funnel magic into it with the effects of the Imbue spell.",
             "Magic can be funneled at will or imbued. When this is done, a thin neon beam of mana in a color of your choosing extends from your blade. The thickness can vary but the length stays the same and matches the length of a standard sword.",
-            "Does 4 damage + MAGICAL and MARTIAL or 4 damage + MAGICAL & DEXTROUS on SUCCESS (1d4 damage only on SNAG)."
+            "Deals damage equal to your MAGIC ATTRIBUTE. The damage is doubled on SUCCESS (and quadrupled on CRIT)."
         ]
     }
 ]
