@@ -134,7 +134,7 @@
         ],
         "info": [
             "Roll with BODY",
-            "When a heavy object that no normal person could carry is in front of you, you attempt to lift it with the BODY ATTRIBUTE. This object can't be more than 10 ft in diameter."
+            "When a heavy object that no normal person could carry is in front of you, you attempt to lift it with the BODY STAT. This object can't be more than 10 ft in diameter."
         ],
         "success": [
             "You can hold the object above your head and carry it for as long as you need to but no longer."
@@ -356,7 +356,7 @@
             "Relationship Intensity bonuses (and penalties) are added to this roll."
         ],
         "success": [
-            "You successfully convinced the NPC! Huzzah! You can now use the MIND ATTRIBUTES when convincing, bluffing, intimidating or persuading the proselytized unless they no longer believe in your philosophy/religion."
+            "You successfully convinced the NPC! Huzzah! You can now use the MIND STATS when convincing, bluffing, intimidating or persuading the proselytized unless they no longer believe in your philosophy/religion."
         ],
         "snag": [
             "They see the wisdom of your belief system but remain agnostic. They are not converted but your next social roll with/against that NPC is EASIER (+2). You cannot attempt to Proselytize this NPC again for a long while."

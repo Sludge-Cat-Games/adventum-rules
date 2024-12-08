@@ -71,7 +71,7 @@
         ],
         "info": [
             "Roll with BODY.",
-            "You are able to use ki to fire blasts of energy. For each ki point used in a blast, the damage increases by your MAGIC ATTRIBUTE"
+            "You are able to use ki to fire blasts of energy. For each ki point used in a blast, the damage increases by your MAGIC STAT"
         ],
         "success": [
             "You are able to successfully fire off a ki blast with elegant and effective form."
@@ -165,7 +165,7 @@
             "Irreverent"
         ],
         "info": [
-            "You can now gain KNOWLEDGE for Enchantments from IRREVERENT skills too. You can also use IRREVERENT as your ATTUNEMENT and ENCHANTING ATTRIBUTE as well."
+            "You can now gain KNOWLEDGE for Enchantments from IRREVERENT skills too. You can also use IRREVERENT as your ATTUNEMENT and ENCHANTING STAT as well."
         ],
         "success": [],
         "snag": [],

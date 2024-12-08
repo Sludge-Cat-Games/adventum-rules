@@ -204,7 +204,7 @@
         ],
         "amount": 1,
         "info": [
-            "Deals 4d4 damage. Add BODY ATTRIBUTE to damage on SUCCESS."
+            "Deals 4d4 damage. Add BODY STAT to damage on SUCCESS."
         ]
     },
     {
@@ -221,7 +221,7 @@
         "info": [
             "A clear crystalline hilt with no blade until magic is funneled into the weapon when holding it and your MAGIC attribute is more then 0. You can also funnel magic into it with the effects of the Imbue spell.",
             "Magic can be funneled at will or imbued. When this is done, a thin neon beam of mana in a color of your choosing extends from your blade. The thickness can vary but the length stays the same and matches the length of a standard sword.",
-            "Deals damage equal to your MAGIC ATTRIBUTE. The damage is doubled on SUCCESS (and quadrupled on CRIT)."
+            "Deals damage equal to your MAGIC STAT. The damage is doubled on SUCCESS (and quadrupled on CRIT)."
         ]
     }
 ]

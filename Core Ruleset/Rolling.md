@@ -22,7 +22,7 @@ To fail a roll, you need a 6 or lower.
 
 ### Crit
 
-When you succeed on a roll, you can get an elevated success if you get a 20 on the die (not the result). The effects of Crits vary depending on the kind of action rolled, and at times, will be up to the **AL’s** discretion.
+When you succeed on a roll, you can get an elevated success if you get a 20 on the die (not the result). When a CRIT is achieved, your current dice pool is doubled. You can also spend XP points to upgrade a roll (before modifiers) to CRIT as well.
 
 ## Dynamic Difficulty
 
@@ -30,27 +30,27 @@ Now every action isn’t equally likely to succeed, snag, or fail. Some actions 
 
 |Modifier|Difficulty|
 |---|---|
-|+10|Guaranteed|
-|+8|Trivial|
-|+6|Basic|
-|+4|Simple|
-|+2|Easy|
+|+25|Guaranteed|
+|+20|Trivial|
+|+15|Basic|
+|+10|Simple|
+|+5|Easy|
 |+/-0|Normal|
-|-2|Hard|
-|-4|Difficult|
-|-6|Challenging|
-|-8|Severe|
-|-10|Impossible|
+|-5|Hard|
+|-10|Difficult|
+|-15|Challenging|
+|-20|Severe|
+|-25|Impossible|
 
-The names should serve as a shorthand for how difficult an activity should be. Resetting a chain on a bike? Might be **BASIC**(+6). Fighting a GOBLIN? **NORMAL** (+0). Convincing a wizard that your barbarian is a magical scholar? **IMPOSSIBLE** (-10).
+The names should serve as a shorthand for how difficult an activity should be. Resetting a chain on a bike? Might be **EASY**(+5). Fighting a GOBLIN? **NORMAL** (+0). Convincing a wizard that your barbarian is a magical scholar? **IMPOSSIBLE** (-25).
 
-## ATTRIBUTES
+## STATS
 
-Characters in Adventum don’t have stats like in other RPG’s, but they do have the 3 core **ATTRIBUTES**; **MIND, BODY, & MAGIC**. **ATTRIBUTES** can be added to the **DD** if it applies to the roll.
+Characters in Adventum don’t have stats like in other RPG’s, but they do have the 3 core **STATS**; **MIND, BODY, & MAGIC**. **STATS** can be added to the **DD** if it applies to the roll.
 
-**ATTRIBUTES** follow the same scaling as **Dynamic Difficulty**. Rolls that can utilize an **ATTRIBUTE** will add that **ATTRIBUTES** difficulty to the **DYNAMIC DIFFICULTY** that would normally be associated with that roll.
+**STATS** follow the same scaling as **Dynamic Difficulty**. Rolls that can utilize an **STAT** will add that **STATS** difficulty to the **DYNAMIC DIFFICULTY** that would normally be associated with that roll.
 
-For example, let’s say that you need to convince a maester at a Wizard’s college that your Barbarian friend has a hidden talent for magic. The **AL** says that your character knows that this will be **IMPOSSIBLE** (-10) given the circumstances but one of your party members has a high **MIND** attribute, and the skill Proselytize.
+For example, let’s say that you need to convince a maester at a Wizard’s college that your Barbarian friend has a hidden talent for magic. The **AL** says that your character knows that this will be **DIFFICULT** (-10) given the circumstances but one of your party members has a high **MIND** attribute, and the skill Proselytize.
 
 #### Proselytize
 >
@@ -62,18 +62,27 @@ For example, let’s say that you need to convince a maester at a Wizard’s col
 >
 > ###### Mixed Success  
 >
-> They see the wisdom of your belief system but remain agnostic. They are not converted but your next roll with/against that NPC is_ **_EASIER_** _(+2). You cannot attempt to Proselytize this NPC again for a while._
+> They see the wisdom of your belief system but remain agnostic. They are not converted but your next social roll with/against that NPC is_ **_EASIER_** _(+5). You cannot attempt to Proselytize this NPC again for a while._
 >
 > ###### Failure  
 >
 > You represent your philosophy poorly and their opinion is unchanged or yet worsened. Your next social roll with/against this NPC_ **_LOSES LEVERAGE_** _and you can never proselytize them again._
 
-If your proselytizing party member has leveled up their **MIND ATTRIBUTE** to **BASIC** (+6), and they succeed on their proselytization, they take what was an **IMPOSSIBLE** situation and made it **DIFFICULT** (-10 to -4). And on top of that, the skill grants them **LEVERAGE** in social situations.
+If your proselytizing party member has leveled up their **MIND STAT** to +6, and they succeed on their proselytization, and the skill grants them **LEVERAGE** in social situations.
 
-When an **ATTRIBUTE** is written on a **SKILL**, and you have to roll to utilize that **SKILL**, you can choose to use any of the listed **ATTRIBUTES**. However, there are also broader actions that make use of **ATTRIBUTES**.
+**SKILLS** will say what **STAT** is needed for rolls. However, there are also broader actions that make use of **STATS**. For example:
+- Rolls that require recalling information, figuring out a problem that you're specialized in, or trying to notice details or awareness use **MIND**.
+- Rolls that require acts of physical strength, dexterity, or bodily constitution use **BODY**.
+- Rolls that require direct interactions or utilization of magic (that isn't spellcasting), or when doing something that deals with the innate nature of your character uses **MAGIC**.
 
 When rolling one of these general actions, the **AL** determines the consequences of a **SNAG** or **FAILURE.**
 
 ## **LEVERAGE**
 
 Very simply, if you have **LEVERAGE** in a situation, you roll twice and take the higher result. If you **LOSE**, **LOST** or in a situation that **LOSES LEVERAGE**, you roll twice and take the lower result.
+
+## Help
+
+When your character is present and able to help another character with an action, you can contribute **XP** points from your pool to another character's roll. You can't **CRIT** a roll with "Help XP". Only the original roller can get double **XP** from a **CRIT**.
+
+If possible, you can offer "Help XP" after someone has already rolled before the consequence.

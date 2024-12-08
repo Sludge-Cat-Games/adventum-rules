@@ -8,7 +8,7 @@ Here are the consequences of a **DEATH's DOOR** roll. (FAILURE is below chart)
 You have escaped the clutches of the reaper for now. You return to life with 1 HP.
 
 ###### SNAG:  
-Look at your highest ATTRIBUTE (or ATTRIBUTES if they tie) and choose a corresponding option or the standard bargain on the Death's Bargains Chart. You also return to life with 1 HP. You can’t take the same bargain twice unless it’s the Standard Bargain.
+Look at your highest STAT (or STATS if they tie) and choose a corresponding option or the standard bargain on the Death's Bargains Chart. You also return to life with 1 HP. You can’t take the same bargain twice unless it’s the Standard Bargain.
 
 ###### FAILURE:  
 Your character does not get back up once they drop. They might not die right now but they will soon. Make what little time they have left count.
@@ -17,7 +17,7 @@ Your character does not get back up once they drop. They might not die right now
 
 |Attribute Requirement|Name of Bargain|Consequence of Survival|
 |---|---|---|
-|**None**|Standard Bargain|Roll a d6. Reduce the corresponding **ATTRIBUTE** by 1. (1-2)**MIND** (3-4)**BODY** (5-6)**MAGIC**|
+|**None**|Standard Bargain|Roll a d6. Reduce the corresponding **STAT** by 1. (1-2)**MIND** (3-4)**BODY** (5-6)**MAGIC**|
 |**MIND**|Ignorance is Bliss|Your experience cap is reduced by 2d10. You are healed the same amount. (If you've already exceeded your new cap, you still retain your skills but not your excess xp.)|
 |**BODY**|Fight or Flight|When **FAILING** or **SNAGGING** a roll could result in death, roll another d6 beforehand. On a 1-3; you **LOSE LEVERAGE**, on a 4-6; you **GAIN LEVERAGE**|
 |**MAGIC**|Reverent Promise|If you knowingly tell someone a falsehood, or lie, you receive 1 damage that ignores armor.|
