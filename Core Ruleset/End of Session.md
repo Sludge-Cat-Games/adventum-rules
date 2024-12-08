@@ -1,6 +1,10 @@
 # End of Session
 
-At the end of every Adventum session the AL should conclude your rousing story with a few questions. Depending on what happened during the game, you and your party might earn extra experience which they can spend now or use during the next session. First, we have individual questions per character, and then Party questions for all the heroes at the table.
+At the end of every Adventum session the AL should conclude your rousing story with a few questions. Depending on what happened during the game, you and your party will earn starting **XP** for the next session. First, we have individual questions per character, and then Party questions for all the heroes at the table.
+
+However, before any questions are asked, this is tghe last chance players have to spend **XP**. Anything unspent at this point will go away. Answering these questions will establish how much XP you get in your first session. 
+
+All players start the first session with 5 XP after character creation.
 
 ## Individual questions
 

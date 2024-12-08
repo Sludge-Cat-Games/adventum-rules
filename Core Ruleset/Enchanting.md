@@ -8,7 +8,7 @@ Enchanted Items have Attunement Effects. These Effects can't be used until the i
 
 ### Attunement
 
-Attunement usually requires the MAGIC ATTRIBUTE.
+Attunement usually requires the MAGIC STAT.
 
 ###### SUCCESS
 
@@ -16,7 +16,7 @@ You are successfully attuned to the item and can use its Attunement Effects.
 
 ###### SNAG
 
-Your are attuned to the item but your grip is tenuous at best. You only have uses equal to your MIND ATTRIBUTE of the item's Attunement Effect before you lose the effect and you have to attune again.
+Your are attuned to the item but your grip is tenuous at best. You only have uses equal to your MIND STAT of the item's Attunement Effect before you lose the effect and you have to attune again.
 
 ###### FAIL
 
@@ -49,7 +49,7 @@ You can only ENCHANT an object if you have KNOWLEDGE of a certain Effect. You ca
 |Number|Jinx|Description|
 |---|---|---|
 |1|Slightly Unnverving|You have -1 on all social rolls.|
-|2|Burden|Roll 1d8. You have a -2 penalty on the corresponding ATTRIBUTE.\n- 1-2: MIND\n- 3-4: BODY\n- 5-6: MAGIC|
+|2|Burden|Roll 1d8. You have a -2 penalty on the corresponding STAT.\n- 1-2: MIND\n- 3-4: BODY\n- 5-6: MAGIC|
 |3|Parasitic|Decrease Max HP by 1d6. Can't be less than 1.|
 |4|Unlucky|When you roll a 4 or 13, your next roll LOSES LEVERAGE.|
 |5|Anti-Magic|All MAGICAL rolls LOSE LEVERAGE.|

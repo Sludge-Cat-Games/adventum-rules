@@ -206,7 +206,7 @@
             "Graceful"
         ],
         "info": [
-            "You can use your MAGIC ATTRIBUTE in social situations with people who have the same god/faith/or philosophy as you."
+            "You can use your MAGIC STAT in social situations with people who have the same god/faith/or philosophy as you."
         ],
         "success": [],
         "snag": [],
@@ -423,7 +423,7 @@
             "Martial"
         ],
         "info": [
-            "Whenever you make an melee attack, add your BODY ATTRIBUTE to the damage."
+            "Whenever you make an melee attack, add your BODY STAT to the damage."
         ],
         "success": [],
         "snag": [],

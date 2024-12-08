@@ -2,6 +2,6 @@
 
 In Adventum you gain XP through failure, relationships, and group experiences you go through as a party. You can use XP to make your character more versatile and powerful via **TALENTS**, **SKILL UP!'s**, and **TALENTS**.
 
-**SKILL UP!’s** can increase proficiency in an **ATTRIBUTE**, ***TALENTS** half the cost of **SKILLS** with certain tags. And of course, **SKILLs** empower your character to do cool stuff through new abilities.
+**SKILL UP!’s** can increase proficiency in an **STAT**, ***TALENTS** half the cost of **SKILLS** with certain tags. And of course, **SKILLs** empower your character to do cool stuff through new abilities.
 
 _* Note: You can't stack discounts with **TALENTS**._

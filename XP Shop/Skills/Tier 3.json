@@ -122,7 +122,7 @@
         ],
         "info": [
             "If you view someone committing a sin in your god’s eyes, or you can prove that they did something morally reprehensible, you can mark them for judgment.",
-            "When dealing with a target marked for judgement, you can use your Grace ATTRIBUTE when rolling against it. Even if the Grace ATTRIBUTE would not normally apply.",
+            "When dealing with a target marked for judgement, you can use your Grace STAT when rolling against it. Even if the Grace STAT would not normally apply.",
             "You can only mark one target at a time. You cannot switch judgement targets until you’ve rolled against the first target, or a day passes (Whichever comes first)."
         ],
         "success": [],
@@ -267,7 +267,7 @@
             "Roll with MAGIC.",
             "When an enemy falls to 0 HP, you can attempt to trap their soul into a suitable vessel (made of Crystal, or stone). This Trapped Soul is now an Enchanted Item. It has several Enchantment Effects, and using any of these Effects (which last until next dawn) uses up the soul inside.",
             "- Gain 1d10 temporary HP.",
-            "- Boost 1 ATTRIBUTE by +1.",
+            "- Boost 1 STAT by +1.",
             "- Rolling a 19 or higher before modifiers gives you a CRIT."
         ],
         "success": [

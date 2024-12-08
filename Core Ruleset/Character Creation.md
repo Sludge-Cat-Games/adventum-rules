@@ -11,7 +11,7 @@ New characters have short list of things they need.
 - 1 Skill
 - And 5 XP to start out
 
-*Optionally, you can also manipulate their ATTRIBUTES to make your character even cooler.*
+*Optionally, you can also manipulate STATS to make your character even cooler.*
 Let's go through each of these items and build a new character!
 
 ### Name & Description
@@ -20,19 +20,19 @@ What they're called and what they look like (Make sure to talk to your AL if you
 
 ### Mind Body & Magic
 
-Your character has 3 ATTRIBUTES, MIND, BODY, & MAGIC.
+Your character has 3 STATS, MIND, BODY, & MAGIC.
 
-By default, you have +0 to all of your ATTRIBUTES. You can increase them by +2 by buying SkillUp!'s with XP in the [XP Shop](/xp-shop). The more SkillUp!'s you have under an ATTRIBUTE, the more expensive the next SkillUp! is. But there's another way to buff your ATTRIBUTES without spending XP.
+By default, you have +0 to all of your STATS. You can buy a +1 increase to any state with 10 XP.
 
 ### Stat Manipulation
 
-When manipulating your stats, you can subtract from any of your 3 ATTRIBUTES to add to your point pool. Your point pool can't exceed 6. You can distribute your pool however you wish as long as no attribute is above +2 after manipulation.
+When manipulating your STATS, you can take a point from one stat and add it to another. You can even make another STAT negative. You can't increase any 1 stat by more than 3, but there is no limit to how low you can decrease a STAT.
 
 ### 1 Free Talent
 
 Talents halve the cost of skills that share the specified tag. Normally, Talents cost 25 XP. But when making a new character, you get 1 for free! S might have more than 1 tag, but you can't increase a discount with multiple TALENTS. Every skill is either 50% or 0% off. No exceptions!
 
-### skills & XP
+### Skills & XP
 
 You can choose any 1 Skill as long as it isn't a Tier 5 Skill. You'll need to pony up the XP for those. You also get 5 XP that you can save for later or spend immediately on a Tier 1 Skill that became discounted from your free Talent. But how do you get XP?
 
